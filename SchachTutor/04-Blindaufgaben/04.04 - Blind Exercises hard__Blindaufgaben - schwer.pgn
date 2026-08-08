@@ -1,0 +1,324 @@
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "White's move"]
+[Black "Weiﬂ am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3R4/6pk/6b1/4r3/5N2/6P1/6K1/8 w - - 0 1"]
+[PlyCount "0"]
+
+ *
+
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "Black's move"]
+[Black "Schwarz am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/rq5p/7P/8/8/8/8/Q4RK1 w - - 0 1"]
+[PlyCount "0"]
+
+ *
+
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "Black's move"]
+[Black "Schwarz am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/5pk1/8/4p3/3qPn2/5P2/4B3/2Q2K2 w - - 0 1"]
+[PlyCount "0"]
+
+ *
+
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "White's move"]
+[Black "Weiﬂ am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r1r1k1/6p1/4n3/3B4/7R/8/6P1/5RK1 w - - 0 1"]
+[PlyCount "0"]
+
+ *
+
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "White's move"]
+[Black "Weiﬂ am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5Q2/5p2/6b1/4k3/3q3B/8/6PK/8 w - - 0 1"]
+[PlyCount "0"]
+
+ *
+
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "Black's move"]
+[Black "Schwarz am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/8/6k1/8/4b1pQ/5pPq/5R1P/7K b - - 0 1"]
+[PlyCount "0"]
+
+ *
+
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "White's move"]
+[Black "Weiﬂ am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5k2/7n/4p2p/3bP3/6Q1/8/8/6K1 w - - 0 1"]
+[PlyCount "0"]
+
+ *
+
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "White's move"]
+[Black "Weiﬂ am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/6p1/8/8/1P1p1n2/P3r3/1B6/3K2R1 w - - 0 0"]
+[PlyCount "0"]
+
+ *
+
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "Black's move"]
+[Black "Schwarz am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1k6/1p6/1Pnp4/2p5/8/1KPQ4/8 w - - 0 1"]
+[PlyCount "0"]
+
+ *
+
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "Black's move"]
+[Black "Schwarz am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6bk/6b1/8/8/3P4/6BB/5p1P/7K b - - 0 1"]
+[PlyCount "0"]
+
+ *
+
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "White's move"]
+[Black "Weiﬂ am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6k1/5qp1/8/7N/4B1R1/6K1/8 w - - 0 1"]
+[PlyCount "0"]
+
+ *
+
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "White's move"]
+[Black "Weiﬂ am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/6pp/8/3q1N2/8/8/5RPP/5RK1 w - - 0 1"]
+[PlyCount "0"]
+
+ *
+
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "Black's move"]
+[Black "Schwarz am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1Q6/2r3pk/7p/4q3/8/2P5/PP6/K1R5 b - - 0 1"]
+[PlyCount "0"]
+
+ *
+
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "White's move"]
+[Black "Weiﬂ am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4R3/5pkp/6p1/5q2/8/4Q2P/1r3PP1/6K1 w - - 0 1"]
+[PlyCount "0"]
+
+ *
+
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "White's move"]
+[Black "Weiﬂ am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "k1r5/pp6/2p3p1/P7/3PQ3/7P/2R3PK/1q6 b - - 0 1"]
+[PlyCount "0"]
+
+ *
+
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "White's move"]
+[Black "Weiﬂ am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3qkbr1/3p4/3Q2N1/1N6/8/8/8/4K3 w - - 0 1"]
+[PlyCount "0"]
+
+ *
+
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "White's move"]
+[Black "Weiﬂ am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/1k6/1p6/1Pnp4/2p5/8/1KPQ4/8 w - - 0 1"]
+[PlyCount "0"]
+
+ *
+
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "White's move"]
+[Black "Weiﬂ am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/6p1/8/8/1P1p1n2/P3r3/1B6/3K2R1 w - - 0 0"]
+[PlyCount "0"]
+
+ *
+
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "Black's move"]
+[Black "Schwarz am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6pk/5r2/3Q4/1P1P2np/8/8/6K1 b - - 0 1"]
+[PlyCount "0"]
+
+ *
+
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "White's move"]
+[Black "Weiﬂ am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3q1nk1/6p1/8/3N2N1/6K1/5P2/B7/8 w - - 0 1"]
+[PlyCount "0"]
+
+ *
+
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "White's move"]
+[Black "Weiﬂ am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6r1/p1RR2p1/6k1/6P1/5PK1/4r3/8/8 w - - 0 1"]
+[PlyCount "0"]
+
+ *
+
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "Black's move"]
+[Black "Schwarz am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6pp/8/1N6/2n2P2/4k1P1/P1Kp3P/8 b - - 0 1"]
+[PlyCount "0"]
+
+ *
+
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "White's move"]
+[Black "Weiﬂ am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "5rk1/5qpp/3n4/8/8/8/2B2QPP/5RK1 w - - 0 1"]
+[PlyCount "0"]
+
+ *
+
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "White's move"]
+[Black "Weiﬂ am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1kr5/p1qr4/1p6/8/8/8/PPQ2B2/1KR5 w - - 0 1"]
+[PlyCount "0"]
+
+ *
+
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "White's move"]
+[Black "Weiﬂ am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/6pk/4Q2p/1n6/1P2N3/P3q3/K7/8 w - - 0 0"]
+[PlyCount "0"]
+
+ *
+
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "Black's move"]
+[Black "Schwarz am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r2k/6rp/5Q1P/8/8/7q/7P/6RK w - - 0 1"]
+[PlyCount "0"]
+
+ *
+
+[Event "Tactical Exercises hard"]
+[Site "?"]
+[Round "?"]
+[White "White's move"]
+[Black "Weiﬂ am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "4r1k1/6pp/8/3q1N2/8/8/5RPP/5RK1 w - - 0 1"]
+[PlyCount "0"]
+
+ *
+

@@ -5,6 +5,9 @@ Free accompanying materials for the **ChessTutor** YouTube chess course.
 ▶ **Video course on YouTube:**  
 (https://www.youtube.com/@ChessTutor_1)
 
+## Purpose of the Project
+
+The goal of SchachTutor / ChessTutor is to make high-quality chess education freely accessible to everyone. The videos and accompanying course materials are therefore provided free of charge.
 
 ## Terms of Use
 

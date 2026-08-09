@@ -5,6 +5,9 @@ Kostenlose Begleitmaterialien zum YouTube-Schachkurs **„SchachTutor“**.
 ▶ **Videokurs auf YouTube:**  
 https://www.youtube.com/@SchachTutor_1
 
+## Ziel des Projekts
+
+Ziel von SchachTutor / ChessTutor ist es, hochwertige Schachausbildung für alle frei und kostenlos zugänglich zu machen. Die Videos und begleitenden Kursmaterialien werden deshalb kostenlos zur Verfügung gestellt.
 
 ## Nutzungsbedingungen
 

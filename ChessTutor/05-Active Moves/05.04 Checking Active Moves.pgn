@@ -1,0 +1,488 @@
+[Event "Student game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Check whether 1...Qd4 is good"]
+[Black "Black to move"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "8/3r1pk1/p5p1/1pbP2Np/4Q2P/5RP1/1q3PK1/8 b - - 0 1"]
+[PlyCount "4"]
+
+{[%cal Gb2d4]} 1... Qd4 $4 2. Rxf7+ {White did not find this in the actual game.} Rxf7 3. Ne6+ $18 *
+
+[Event "GM Larsen - GM Spassky"]
+[Site "?"]
+[Date "1981.??.??"]
+[Round "?"]
+[White "Check whether 1.Qf3 is good"]
+[Black "White to move"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "8/p4bk1/3p3p/3P1Qp1/PP2B3/3Pq2K/7P/8 w - - 0 1"]
+[PlyCount "6"]
+[EventDate "1981.??.??"]
+
+1. Qf3 $4 {A grandmaster-level mistake.} g4+ 2. Kxg4 Bh5+ $1 3. Kxh5 Qg5# *
+
+[Event "Game example"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Check active moves"]
+[Black "Black to move"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "rnb1k1nr/pp1p1pbp/1q4p1/2pP4/2P5/3B1N2/PP3PPP/RNBQK2R b KQkq - 0 7"]
+[PlyCount "4"]
+
+7... Bxb2 $2 ({Almost anything else is better, for example:} 7... Ne7 {now Black threatens Bxb2.}) 8. Qe2+ Ne7 9. Bxb2 $18 (9. Qxb2 $18) *
+
+[Event "Exercise"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Check active moves"]
+[Black "White to move"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "k2B4/2Q4p/p1p3r1/8/1P6/7P/1q4P1/7K w - - 0 1"]
+[PlyCount "5"]
+
+1. Qc8+ Ka7 2. Bb6+ $1 (2. Qc7+ Ka8 $11 {is perpetual check.}) 2... Kxb6 3. Qb8# *
+
+[Event "Exercise"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Check active moves"]
+[Black "White to move"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "4Qrk1/pp3ppp/2n5/3N3q/8/8/PP4PP/3R3K w - - 0 1"]
+[PlyCount "5"]
+
+1. Ne7+ Nxe7 (1... Kh8 2. Qxf8#) 2. Qxf8+ Kxf8 3. Rd8# *
+
+[Event "Exercise"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Check active moves"]
+[Black "White to move"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "3r2k1/6b1/6P1/3pq3/8/7R/5P2/6KQ w - - 0 1"]
+[PlyCount "5"]
+
+1. Rh8+ (1. Rf3 {threatens mate, but Black can simply trade queens.}
+Qe1+ 2. Kg2 Qxh1+ 3. Kxh1 d4 $19) 1... Bxh8 2. Qh7+ Kf8 3. Qf7# *
+
+[Event "Game example"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Check active moves"]
+[Black "White to move"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "rn4nr/pppq2bk/7p/5b1P/4NBQ1/3B4/PPP3P1/R3K2R w KQ - 0 1"]
+[PlyCount "7"]
+
+1. Ng5+ (1. Qg6+ {wins even more elegantly, but is harder to see.} Bxg6 2.
+Ng5+ hxg5 3. hxg6#) 1... hxg5 2. Bxf5+ Qxf5 (2... Kh6 3. Qxg5#) 3. Qxf5+ Kh6 4.
+Qg6# *
+
+[Event "Exercise"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Check active moves"]
+[Black "White to move"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "r2k1b1r/1ppb2pp/p2N1p2/5q2/8/1P6/PBP3P1/3RR1K1 w - - 0 1"]
+[PlyCount "5"]
+
+1. Nf7+ (1. Nxf5 c6 {Black has two extra pawns in the endgame.}) 1... Kc8 2. Re8+
+Bxe8 3. Rd8# *
+
+[Event "Exercise"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Check active moves"]
+[Black "White to move"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "r7/8/8/8/8/5b1r/5K2/1R3N1k w - - 0 1"]
+[PlyCount "5"]
+
+1. Ng3+ $1 (1. Nd2+ {wins the bishop, but is only enough for a draw.} Kh2 2.
+Nxf3+ Rxf3+ 3. Kxf3 $11) 1... Kh2 2. Rh1+ $3 Bxh1 3. Nf1# *
+
+[Event "Own game"]
+[Site "?"]
+[Date "2012.??.??"]
+[Round "?"]
+[White "Check whether 1.Qh4 is good"]
+[Black "White to move"]
+[Result "*"]
+[WhiteElo "2400"]
+[BlackElo "1800"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "4b1rk/pp4rp/4q3/2PpNR2/P2Pp3/4P3/5Q1P/5R1K w - - 0 29"]
+[PlyCount "2"]
+[EventDate "2012.??.??"]
+
+{Own game, Krassowizkij-Holler, AFRO 2012.} 29. Qh4 $4 Qxf5 $19 *
+
+[Event "Game example"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Check active moves"]
+[Black "Black to move"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "rn2r2k/1p4p1/p2p2p1/7R/2B1p1b1/5p2/PPPN4/2KR2Q1 b - - 0 1"]
+[PlyCount "4"]
+
+1... gxh5 $4 {is better for the pawn structure, but that does not matter here.} (1...
+Bxh5 {The position is bad, but the game continues.}) 2. Qxg4 $1 hxg4
+3. Rh1# *
+
+[Event "Student game WJEM U12"]
+[Date "2025.??.??"]
+[White "Check active moves"]
+[WhiteElo "1600"]
+[Black "Black to move"]
+[BlackElo "1600"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "6k1/p2bpp1p/3p2p1/q2P4/r1R1P3/3Q4/P3BPPP/6K1 b - - 0 1"]
+
+1... Be8 {Black touched the bishop and only then realized that the intended move does not work.} (1... Bb5 $4 {was the idea.} 2. Rc8+ Kg7 3. Qxb5 $18
+) (1... Qe1+ 2. Bf1 Rxa2 $17) (1... Rxa2 $17) 2. Rc8 $18 {White won the game.} *
+
+[Event "Student game WJEM U10"]
+[Site "?"]
+[Date "2021.??.??"]
+[Round "?"]
+[White "Check 1...dxe4"]
+[Black "Black to move"]
+[Result "*"]
+[WhiteElo "1350"]
+[BlackElo "1250"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "r1bqk2r/pp2nppp/2p5/2bp4/3pPP2/1B1P4/PPP3PP/RNBQ1RK1 b kq - 0 9"]
+[PlyCount "4"]
+[EventDate "2021.??.??"]
+
+{Question: Is dxe4 good?} 9... dxe4 $2 10. Qh5 O-O 11. Qxc5 $18 *
+
+[Event "Student game"]
+[Site "?"]
+[Date "2025.??.??"]
+[Round "?"]
+[White "Check 1...Rfc8"]
+[Black "Black to move"]
+[Result "*"]
+[WhiteElo "2500"]
+[BlackElo "2150"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "q4rk1/pbrnbppp/1p2pn2/3pN3/3P4/PP1B4/1BPNQPPP/2R1R1K1 b - - 0 14"]
+[PlyCount "20"]
+[EventDate "2025.??.??"]
+
+14... Rfc8 $2 {It is positionally the best move, but tactically it does not work.}
+15. Nxf7 $18 {White quickly won the game.} Ne4 (15... Kxf7 16. Qxe6+)
+16. f3 Kxf7 17. fxe4 dxe4 18. Nxe4 Kg8 19. Nd6 Bxd6 20. Qxe6+ Kh8 21. Qxd6 Bxg2
+22. Re7 Qf3 23. Be2 Qh3 24. Qxc7 {Black resigned.} *
+
+[Event "DVM U20w"]
+[Site "Sebnitz GER"]
+[Date "2024.??.??"]
+[Round "?"]
+[White "Check whether 1.c5 is good"]
+[Black "White to move"]
+[Result "*"]
+[WhiteElo "1750"]
+[BlackElo "1700"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "r3r1k1/ppq2pp1/2pb1n1p/3Pp3/2P5/1P3N2/PBQ2PPP/R2R2K1 w - - 0 17"]
+[PlyCount "3"]
+[EventDate "2024.12.26"]
+[EventRounds "7"]
+[EventCountry "GER"]
+
+17. c5 $2 Nxd5 $4 (17... cxd5 $17 {c5 is pinned!}) (17... Bf8 18. d6 Qa5 19.
+Nxe5 $16) 18. cxd6 $18 {White has won the game.} *
+
+[Event "Game example"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Check active moves"]
+[Black "Black to move"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "r2q1rk1/p3nppp/3bp3/2ppN2b/3P4/2NQB2P/PPP2PP1/R4RK1 b - - 0 13"]
+[PlyCount "3"]
+
+13... Bxe5 14. dxe5 d4 $18 {wins a piece.} *
+
+[Event "Exercise"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Check whether 1.Re6 is good"]
+[Black "White to move"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "5k2/bppr1q1b/p2p4/P4PQ1/2P3P1/2B5/1P5P/4R2K w - - 0 1"]
+[PlyCount "4"]
+
+1. Re6 $4 {Tries to end the game immediately, but Black punishes it.} (
+1. Qh6+ Kg8 2. Re6 $18 {now Qxe6 does not work and White wins.}) 1... Qxe6 2.
+fxe6 Be4# *
+
+[Event "Exercise"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Check active moves"]
+[Black "White to move"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "8/p5R1/1pnkp2r/8/1P1Pq3/KPQ5/8/8 w - - 0 1"]
+[PlyCount "5"]
+
+1. Qc5+ $3 (1. b5 {is good, but is only enough for a draw.} Qd5 2. bxc6 Qa5+ 3. Qxa5
+bxa5 4. c7 Rh8) 1... bxc5 2. bxc5+ Kd5 3. Rd7# *
+
+[Event "Game example"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Check active moves"]
+[Black "White to move"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "r2q1rk1/1p1nbppn/p1ppb2p/P3p3/3PP3/2PB1NNP/1P3PP1/R1BQR1K1 w - - 0 14"]
+[PlyCount "7"]
+
+14. d5 $1 {White wins a piece. You only have to calculate the active move to the end.} cxd5 15. exd5 Bxd5 16. Bxh7+ Kxh7 17. Qxd5 *
+
+[Event "Game example"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Check active moves"]
+[Black "Black to move"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "r4rk1/pppbqppp/2nbp3/8/1PNP4/P1N1P1P1/5PBP/R2Q1RK1 b - - 0 13"]
+[PlyCount "4"]
+
+13... Bxb4 $2 {This is one of the active moves that you have to notice and examine.} 14. axb4 Qxb4 {But it does not work because White can protect both knights.} 15. Qd3 $18 *
+
+[Event "Student game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Check active moves"]
+[Black "White to move"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "1r5r/4kpp1/pb1p4/q2Pn1P1/1p4R1/4B3/PPPQ4/1K1R1B2 w - - 0 1"]
+[PlyCount "5"]
+
+1. Rxb4 $16 {White simply wins a pawn.} ({The game continued with} 
+1. Re4 Bxe3 2. Qxe3 Kf8 $13 {White did not manage to win the game.}) 1... Bxe3 $140 $2 {This is what White was afraid of.} 2. Rb7+ $1 Rxb7 3. Qxa5
+$18 *
+
+[Event "Student game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "1...Qxg5 or 1...Nxg5?"]
+[Black "Black to move"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "3r1k2/1b3p1Q/pp2r1p1/3pPpP1/3Bnq2/2P2B1R/PP3NKP/8 b - - 0 1"]
+[PlyCount "6"]
+
+1... Nxg5 $2 {looks like a fork, but in fact} (1... Qxg5+ $17 {with a large advantage.}) 2. Qh6+ Ke7 3. Rg3 $18 {Black loses.} Nxf3 4. Qxf4 *
+
+[Event "Exercise"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Check active moves"]
+[Black "Black to move"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "4k3/pp2n1pp/2pb1p2/3p3b/3P3B/5N1P/PPP1BPP1/6K1 b - - 0 10"]
+[PlyCount "7"]
+
+10... Bxf3 {prepares the second move.} (10... Nf5 11. g4 Nxh4 12. Nxh4 $11)
+(10... Ng6 11. g4 Nxh4 12. Nxh4 $11) 11. Bxf3 Nf5 {Double attack on the bishop and pawn.} 12. Bg3 (12. g3 g5 {even traps the bishop.}) 12... Bxg3 13. fxg3
+Nxd4 $17 *
+
+[Event "Game example"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Check active moves"]
+[Black "Black to move"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "5rk1/pp3pp1/4p3/3pP1qp/3Pb3/4N3/PP2Q1PP/2R3K1 b - - 0 1"]
+[PlyCount "5"]
+
+1... Bxg2 2. h4 $1 (2. Nxg2 Qxc1+) 2... Bf3+ $1 3. hxg5 Bxe2 $19 *
+
+[Event "Student game"]
+[Site "?"]
+[Date "2025.??.??"]
+[Round "?"]
+[White "Check 1.Nxe5 and 1.Rb1"]
+[Black "White to move"]
+[Result "*"]
+[WhiteElo "1750"]
+[BlackElo "1800"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "6k1/2pb1ppp/2n2q2/4p3/P2P4/2PQ1NP1/1r3PBP/R5K1 w - - 0 22"]
+[PlyCount "5"]
+[EventDate "2025.??.??"]
+
+22. Rb1 $2 (22. Nxe5 $4 Qxf2+) (22. dxe5 Nxe5 23. Nxe5 $4 Qxf2+) (22. a5 $18)
+22... Bf5 {Black is back in the game.} 23. Rxb2 Bxd3 24. Nxe5 {Fortunately, White wins some material back, but it was only enough for a draw.} *
+
+[Event "Student game"]
+[Date "2025.??.??"]
+[White "Check active moves"]
+[WhiteElo "1600"]
+[Black "Black to move"]
+[BlackElo "1750"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "r1br2k1/pp2ppb1/2n4p/q2n2p1/P1B5/2P2NBP/1P1N1PP1/R2Q1RK1 b - - 0 15"]
+
+15... Nxc3 $2 (15... Bf5 $17 {[%cal Ge7e6]}) 16. bxc3 Bxc3 {[%cal Rc3a1,Rc3d2]
+Double attack, but White can defend.} 17. Ra2 $16 *
+
+[Event "Student game"]
+[Date "2025.??.??"]
+[White "Check active moves"]
+[WhiteElo "1900"]
+[Black "Black to move"]
+[BlackElo "2000"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "r3kb1r/3qnppp/p1p1p1b1/3pP1B1/Q1PN4/8/PP3PPP/RN3RK1 b kq - 0 13"]
+
+13... c5 $2 (13... Bd3 $1 14. Rd1 Bxc4 $15) 14. Nb5 Nc8 $4 {Black blitzed out the move without even looking at White’s reply.} 15. Nc7#  *
+
+[Event "Student game"]
+[Date "2025.??.??"]
+[White "Check active moves"]
+[WhiteElo "1600"]
+[Black "Black to move"]
+[BlackElo "1750"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "5rk1/1pr3pp/4p3/pb1p2P1/3N1P2/2P2N2/PP3q1P/2Q1R2K b - - 0 30"]
+
+{[%cal Gc2d4] White has just played Ncd4. Black has to react.} 30... Bd7
+$4 (30... Bd3 31. Rxe6 Be4 $17) 31. Re2 $18 {the queen is trapped.} Qxe2 32.
+Nxe2 Be8 33. Ne5 {White is a piece up.} *
+
+[Event "Game example"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Check active moves"]
+[Black "White to move"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "1r2rbk1/1p3p2/p1p1nnp1/2P1p2p/N1N1P3/4BP2/PP4PP/1K1R3R w - - 0 9"]
+[PlyCount "5"]
+
+9. Nxe5 {White simply wins a pawn.} Nxc5 {You still have to check this!} (9... Bxc5 10. Nxc5 Nxc5 11. Bxc5 Rxe5 12. Bd6 $16) 10. Nxc5 (10. Nxc6
+$2 Nxa4 11. Nxb8 Rxb8) 10... Rxe5 (10... Bxc5 11. Bxc5 Rxe5 12. Bd6 $16 {[%cal
+Gd6e5,Gd6b8]}) 11. Bf4 $16 {[%cal Gf4b8]} *
+
+[Event "Game example"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Look for active moves"]
+[Black "Black to move"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "4r1k1/3b1pp1/p1p2q1p/3p4/1R3n2/2PP1NNP/P2Q1PP1/6K1 b - - 0 1"]
+[PlyCount "7"]
+[EventDate "2026.??.??"]
+
+1... Nxh3+ 2. gxh3 Qxf3 {The variation does not end here with White trapping the black queen. Above all, you have to check this before playing Nxh3+!} 3.
+Rf4 Re1+ $1 4. Kh2 (4. Qxe1 Qxf4 $17) 4... Qd1 $17 {The queen is saved and Black has won a pawn.} ({or} 4... Rd1 $17) *
+
+[Event "Game example"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Check whether 1...Rfd8 is good"]
+[Black "Black to move"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "q4rk1/p2rbpp1/4p2p/3n4/2N5/1P3QP1/P4PKP/B2RR3 b - - 0 1"]
+[PlyCount "7"]
+
+1... Rfd8 2. Ne5 $2 {You have to check this move, but it is not good. White played exactly this move without checking it.} Nf4+ $1 3. gxf4 Qxf3+ 4. Kxf3 Rxd1 $18 *
+
+[Event "Game example"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Check active moves"]
+[Black "White to move"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "r3rqk1/1b2bppp/pp2pn2/4N1N1/2Pp4/3B4/PP2QPPP/3RR1K1 w - - 0 1"]
+[PlyCount "3"]
+
+1. Nxh7 $1 (1. Nd7 $1 {works just as well.} Nxd7 2. Nxh7) (1. Bxh7+ $4 {does not work with the same idea.} Nxh7 2. Nd7 Bxg5 3. Nxf8 Nxf8 $13 {Black has three minor pieces for the queen.}) (1. Nexf7 $143 {was the wrong track. White won a pawn, but not the game.}) 1... Nxh7 2. Nd7 $18 {traps the queen.} *

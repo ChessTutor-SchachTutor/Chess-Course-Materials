@@ -1,0 +1,230 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Linienmatt mit 2 Schwerfiguren"]
+[Black "?"]
+[Result "*"]
+[Annotator "SchachTutor"]
+[SetUp "1"]
+[FEN "5R2/8/8/K7/7k/8/8/6R1 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "2026.??.??"]
+
+1. Rh8# {[%cal Gg1g8,Rh8h1]} *
+
+[Event "Beispielpartie"]
+[Site "Amsterdam"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Linienmatt"]
+[Black "Schwarz am Zug"]
+[Result "*"]
+[Annotator "SchachTutor"]
+[SetUp "1"]
+[FEN "3r2rk/p1R1Qp1p/1p2p3/4pq1P/3P4/P7/5PP1/4R1K1 b - - 0 30"]
+[PlyCount "11"]
+[EventDate "27.??.??"]
+
+{mögliche Variante aus Jussupow, Artur - Carlsen Magnus, NH Chess Tournament
+2006} 30... Qf3 {[%emt 0:00:01] droht Matt in eins.} (30... Qh3 $4 {Droht auch
+Matt in eins. Aufgabe: warum verliert das?} 31. Qf6+ Rg7 32. Qxg7+ $1 {
+Beseitigung des Verteidigers.} Kxg7 33. gxh3 $18) 31. g3 (31. Qxf7 Qxg2#) 31...
+Rxg3+ $1 32. fxg3 Qxg3+ {Aufgabe: berechne hier die Fortsetzung bis zum
+forcierten Matt.} 33. Kf1 (33. Kh1 Qh3+ (33... Qxe1+ {wenn man das Matt nicht
+sieht, so gewinnt das auch} 34. Kh2 Qf2+ (34... Rg8 $4 35. Qf6+ Rg7 36. Rc8#)
+35. Kh3 Rg8 {[%csl Yf6][%cal Gf2f6] wichtig ist, dass Schwarz kein Df6+ zulässt
+} 36. Rc3 (36. Rc8 Qg3#) 36... Qg2+ 37. Kh4 Qg4#) 34. Kg1 Rg8+ 35. Kf2 Rg2+ 36.
+Kf1 Qh1# {wieder Linienmatt}) 33... Qf3+ 34. Kg1 Rg8+ 35. Kh2 Qg2# (35... Qxh5+
+{gibt auch Matt} 36. Qh4 Qxh4#) *
+
+[Event "Aufgabe"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Linienmatt"]
+[Black "Weiß am Zug"]
+[Result "*"]
+[SetUp "1"]
+[FEN "R6R/5pp1/1r4kp/3pPp2/1r2q1P1/7P/1P1Q3K/8 w - - 0 3"]
+[PlyCount "3"]
+[EventDate "2026.08.15"]
+[Annotator "SchachTutor"]
+
+3. Qxh6+ gxh6 4. Rag8# *
+
+[Event "Illustration"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Damenmatt"]
+[Black "Schwarz am Zug"]
+[Result "*"]
+[Annotator "SchachTutor"]
+[SetUp "1"]
+[FEN "2r3k1/3qrppp/8/8/1R6/5pP1/1R3P1P/Q5K1 b - - 0 1"]
+[PlyCount "5"]
+[EventDate "2026.??.??"]
+
+1... Qh3 (1... Qe6 {[%cal Ge6e1] Schwarz kann seinerseits Grundreihenmatt
+drohen} 2. h4 {aber Weiß kann dem König ein Luftloch schaffen} (2. Rb1 {
+schützt auch vor dem Matt, jedoch schneidet es der Dame den Weg zu f1 ab} Qh3 {
+[%cal Rh3g2]})) 2. Qf1 {einziger Verteidigungszug} Qxf1+ (2... Re1 $5 {fürht
+auch zum Matt. Weiß lenkt die weiße Dame ab.} 3. Qxe1 Qg2#) (2... Rc1 $4 {
+hilft aber nicht} 3. Rb8+ Re8 4. Rxe8#) 3. Kxf1 Rc1# {Grundreihenmatt} *
+
+[Event "Aufgabe"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Damenmatt"]
+[Black "Weiß am Zug"]
+[Result "*"]
+[Annotator "SchachTutor"]
+[SetUp "1"]
+[FEN "3q2k1/2r2ppp/1R3nn1/1p3NQ1/2p5/8/5PPP/4R1K1 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "2026.??.??"]
+
+1. Rxf6 $1 (1. Rxb5 {gewinnt einen Bauern, aber der Vorteil ist nur gering.} c3
+$14) 1... Qxf6 (1... gxf6 2. Qh6 Qf8 (2... c3 3. Qg7#) 3. Re8 $1 Qxe8 4. Qg7#)
+(1... c3 {Schwarz kann auch nicht auf Fesselung spielen, da Weiß einen Abzug
+hat.} 2. Rxg6 hxg6 (2... Qxg5 3. Rxg5) 3. Qxd8+) 2. Re8+ Nf8 3. Nh6+ $1 {lenkt
+die Dame ab.} Qxh6 (3... Kh8 4. Rxf8#) 4. Rxf8+ Kxf8 5. Qd8# *
+
+[Event "Trainingspartie"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Damenmatt"]
+[Black "Schwarz am Zug"]
+[Result "*"]
+[Annotator "SchachTutor"]
+[SetUp "1"]
+[FEN "3r1rk1/1pp1q1pp/p1n1b3/2Ppp3/Q3P3/PNP2N2/5PPP/3R1RK1 b - - 0 17"]
+[PlyCount "11"]
+[EventDate "2026.??.??"]
+
+17... Rxf3 $1 {opfern sollte man nur, wenn man sicher ist, dass man gewinnt.
+Hier ist es aber der Fall.} 18. gxf3 (18. exd5 $5 {muss man dabei aber auch
+berechnen.} Rf4 $5 $19 {fängt die Dame und ist sofort klar.} (18... Rxd5 19.
+Rxd5 (19. gxf3 Qg5+ 20. Kh1 Bh3 21. Rg1 Rxd1) 19... Bxd5 20. gxf3 Qg5+ 21. Qg4
+(21. Kh1 Bxf3#) 21... Qxg4+ 22. fxg4 Bxb3 23. Rb1 Na5 $1 $17 {Schwarz hat
+Materialvorteil im Endspiel})) 18... Bh3 19. Kh1 {schützt sich vor dem Matt} (
+19. Rfe1 Qg5+ 20. Kh1 Qg2#) 19... Qf7 $1 {Schwarz besteht auf dem Mattsetzen}
+20. Nd2 (20. Rd3 Bxf1 $19) 20... dxe4 21. Qxe4 (21. fxe4 Rxd2 $1 22. Rxd2 Qf3+
+23. Kg1 Qg2#) 21... Bxf1 $19 {den Läufer kann Weiß nicht nehmen} 22. Rxf1 (22.
+Nxf1 Rxd1) 22... Rxd2 *
+
+[Event "Aufgabe"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Finde das Matt"]
+[Black "Schwarz am Zug"]
+[Result "*"]
+[Annotator "SchachTutor"]
+[SetUp "1"]
+[FEN "3r1rk1/pp3ppp/8/2p5/4PB1n/P1P2qPP/Q3RP1K/6R1 b - - 0 1"]
+[PlyCount "7"]
+[EventDate "2025.??.??"]
+
+1... Qg2+ $3 2. Rxg2 Nf3+ 3. Kh1 Rd1+ 4. Rg1 Rxg1# *
+
+[Event "Aufgabe"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Finde das Matt"]
+[Black "Weiß am Zug"]
+[Result "*"]
+[Annotator "SchachTutor"]
+[SetUp "1"]
+[FEN "5b2/pp2r1pk/2pp1pRp/4rP1N/2P1P3/1P4Q1/P3q1PP/5R1K w - - 0 1"]
+[PlyCount "5"]
+[EventDate "2026.??.??"]
+
+1. Rxh6+ $18 gxh6 (1... Kxh6 2. Qg6#) (1... Kg8 2. Nxf6+ Kf7 3. Qg6#) 2. Nxf6+
+Kh8 3. Qg8# *
+
+[Event "Partieausschnitt"]
+[Site "https://lichess.org/BiyNt9GA"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Angriff auf h-Linie"]
+[Black "Schwarz am Zug"]
+[Result "*"]
+[Annotator "SchachTutor"]
+[SetUp "1"]
+[FEN "rn5r/pp1q1k2/2p2p2/3p4/3P4/2PQB1b1/PP1N2P1/R4RK1 b - - 0 23"]
+[PlyCount "9"]
+[EventDate "2024.??.??"]
+[TimeControl "180"]
+
+23... Qg4 {Schwarz will mit Schwerfiguren auf der h-Linie eindringen.} 24. Qf5
+$2 (24. Rf3 {wäre die einzige Verteidigung, um den König einen Ausweg zu geben.
+} Qh4 25. Kf1 Qh1+ 26. Bg1 $13) 24... Bh2+ (24... Qh4 $140 25. Qh3 Qxh3 26.
+gxh3 Rxh3 $2 {gewinnt nicht einmal den Bauern} 27. Kg2 $18 {[%cal Gg2h3,Rg2g3]}
+) 25. Kh1 Bf4+ {Schachzug, welcher 2 Figuren gewinnt.} 26. Kg1 Bxe3+ (26...
+Qxf5 $19) 27. Rf2 Qxf5 $19 *
+
+[Event "eigene Blitzpartie"]
+[Site "Chess.com"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Angriff auf h-Linie"]
+[Black "Schwarz am Zug"]
+[Result "0-1"]
+[WhiteElo "2600"]
+[BlackElo "2700"]
+[Annotator "SchachTutor"]
+[SetUp "1"]
+[FEN "r1bq2k1/1p1r3p/p5p1/n2Np3/4P3/5P2/PP4P1/1KQ2BNR b - - 0 24"]
+[PlyCount "7"]
+[EventDate "2026.??.??"]
+[TimeControl "180"]
+
+24... Rxd5 $1 25. exd5 Bf5+ 26. Ka1 Nb3+ $1 27. axb3 Qa5# 0-1
+
+[Event "Partiebeispiel"]
+[Site "https://lichess.org/CwNt9M4z"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Angriff auf h-Linie"]
+[Black "Schwarz am Zug"]
+[Result "*"]
+[Annotator "SchachTutor"]
+[SetUp "1"]
+[FEN "r2qk1br/3n2p1/p7/1pbP1p2/4pPp1/1BN1B3/PP2Q1PP/R4R1K b kq - 0 17"]
+[PlyCount "11"]
+[EventDate "2026.??.??"]
+[TimeControl "180"]
+
+17... Rxh2+ (17... Qh4 {droht Matt, aber Weiß kann sich verteidigen.} 18. g3) (
+17... Bxe3 18. Qxe3 Qh4 19. Qg1 g3 20. h3 {führt ebenfalls nicht zum Matt}) 18.
+Kxh2 Qh4+ 19. Kg1 g3 20. Rfd1 (20. Bxc5 Qh2#) 20... Qh2+ 21. Kf1 Qh1+ 22. Bg1
+Qxg1# *
+
+[Event "Schülerpartie "]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Angriff auf h-Linie"]
+[Black "Weiß am Zug nach Db6"]
+[Result "*"]
+[WhiteElo "2000"]
+[BlackElo "1900"]
+[Annotator "SchachTutor"]
+[SetUp "1"]
+[FEN "r4rk1/pQ4p1/6qp/5pb1/8/2PB4/PPK2P2/3R2R1 b - - 0 25"]
+[PlyCount "10"]
+[EventDate "2024.??.??"]
+
+25... Qb6 $4 26. Qd5+ Kh8 (26... Kh7 27. Bxf5+ g6 {Frage 2: hat Weiß hier mehr
+als nur den Läuferrückzug?} (27... Kh8 28. Rxg5) 28. Rxg5 $1 (28. Be4 $4 Rxf2+
+$19 {Schwarz gewinnt!} 29. Kb1 (29. Kd3 Rd8) (29. Rd2 Rxd2+) 29... Qxb2#) 28...
+hxg5 (28... gxf5 29. Qd7+ Kh8 30. Qg7#) (28... Qxf2+ 29. Rd2) 29. Qd7+ (29.
+Rh1+ $2 {dieser Schachzug funktioniert aber nicht.} Kg7 30. Qd7+ Rf7 {Schwarz
+verteidigt sich.}) 29... Kg8 (29... Kh8 30. Rh1+ Kg8 31. Qh7#) (29... Kh6 30.
+Rh1#) 30. Be6+ Kh8 31. Rh1#) 27. Rxg5 $1 {Schwarz gab auf} hxg5 28. Rh1+ Qh6
+29. Rxh6+ gxh6 30. Bxf5 {mit entscheidendem Materialvorteil} *

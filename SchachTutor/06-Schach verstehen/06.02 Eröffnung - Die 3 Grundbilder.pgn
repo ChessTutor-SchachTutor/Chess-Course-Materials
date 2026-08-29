@@ -1,0 +1,379 @@
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Grundbild 1"]
+[Black "Zentraler Aufbau (e4+d4)"]
+[Result "*"]
+[Annotator "Schachtutor"]
+[PlyCount "20"]
+
+1. e4 {Dieser Aufbau erklärt das Hauptziel der offenen (1.e4-) Eröffnungen und
+warum sie dynamischer als 1.d4 sind, sowie selten gleich aussehen.} Nc6 2. d4
+Nb8 {Ich spiele die schwarzen Züge nur deshalb aus, weil es auf lichess keine
+Nullzüge gibt.} 3. Nf3 Nc6 4. Nc3 Nb8 5. Bc4 Nc6 6. O-O Nb8 7. Be3 Nc6 8. Re1
+Nb8 9. Qd2 Nc6 10. Rad1 Nb8 {Grundidee: Weiß positioniert seine Figuren
+zentral. Dies ist der offensivste Aufbau, den Schwarz nicht zulassen wird.
+Insofern, je nachdem wie Schwarz hier reagiert, muss Weiß sich anpassen. Daher
+kommt es nie in dieser Reinform vor. Zudem ist die beste Position der Läufer
+selbstverständlich abhängig vom Schwarzen Aufbau.} *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Grundbild 2"]
+[Black "Damenflügelaufbau (c4+d4)"]
+[Result "*"]
+[ECO "A50"]
+[Annotator "Schachtutor"]
+[PlyCount "24"]
+
+1. d4 {Dieser Aufbau ist Kernbestand von allen geschlossenen (1.d4)-Stellungen.
+Es erklärt, warum das Spiel hier strategisch, sicher und Richtung Endspiel
+geht.} Nf6 2. c4 Ng8 {Ich spiele die schwarzen Züge nur deshalb aus, weil es
+auf lichess keine Nullzüge gibt.} 3. Nf3 Nf6 4. e3 (4. g3 {verändert nur leich
+den Aufbau, die Grundidee bleibt gleich. So spielt man z.B. Katalanisch.} Ng8
+5. Bg2 Nf6 6. O-O Ng8 7. Nc3 Nf6 8. b3 Ng8 9. Bb2 Nf6 10. Qc2 Ng8 11. Rac1 Nf6
+12. Rfd1 Ng8 {Strategie gleich wie im Haupabspiel.}) 4... Ng8 5. Be2 Nf6 6. O-O
+Ng8 7. b3 {auch möglich ist es, Lg5 vor e3 zu spielen, falls der Läufer auf b2
+eingesperrt ist.} Nf6 8. Bb2 Ng8 9. Qc2 Nf6 10. Nbd2 ({oder je nach Stellung
+auch} 10. Nc3 {abhängig vom schwarzen Aufbau.} Ng8 11. Rac1 Nf6 12. Rfd1) 10...
+Ng8 11. Rfd1 Nf6 12. Rac1 Ng8 {Weiß hat hier den König gut gesichert. Er
+konzentriert seine ganze Armee auf Damenflügel, spielt auf kleine positionelle
+Vorteile und ist grundsätzlich bereit mit diesen in einem Endspiel zu spielen,
+wenn Schwarz symmetrisch (1.d4 d5) spielen sollte.} *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Grundbild 3"]
+[Black "Königsflügelaufbau (e4+f4)"]
+[Result "*"]
+[ECO "B00"]
+[Annotator "Schachtutor"]
+[PlyCount "21"]
+
+1. e4 Nc6 2. Nc3 Nb8 {Ich spiele die schwarzen Züge nur deshalb aus, weil es
+auf lichess keine Nullzüge gibt.} 3. f4 Nc6 4. Nf3 Nb8 5. g3 {manchmal spielt
+Weiß hier auch Lb5 und tauscht den Läufer ab.} Nc6 6. Bg2 Nb8 7. O-O Nc6 8. d3
+Nb8 9. Be3 Nc6 10. Qd2 Nb8 11. Rae1 {Weiß setzt dabei alles auf
+Königsflügelangriff. Er überlässt Schwarz den Damenflügel. Auch wenn es extrem
+agressiv aussieht, in der Praxis punktet das weniger gut, da bei starken
+Spielern der Königsangriff nicht durchgeht, während die Schwächen am
+Damenflügel sich im Endspiel bemerkbar machen. Man kann sagen, dass Weiß
+bereit ist für den Angriff sein Endspiel zu opfern.} *
+
+[Event "Isolani, hängende Bauern, ..."]
+[Site "?"]
+[Round "?"]
+[White "Damenflügelaufbau"]
+[Black "Ursprung der Bauernstrukturen"]
+[Result "*"]
+[ECO "A30"]
+[Annotator "Schachtutor"]
+[PlyCount "22"]
+
+{Hier sollen nicht das strategische Spiel mit den Bauernstrukturen erklärt
+werden, sondern warum sie zwangsläufig so häufig bei 1.d4 herauskommen.} 1. d4
+d5 2. c4 e6 3. Nf3 Nf6 4. e3 Be7 5. Be2 O-O 6. O-O b6 7. b3 (7. cxd5 {so
+"zwingt" weiß Schwarz zum Schlagen mit dem Bauern. Später könnte Schwarz auch
+mit Figur stattdessen schlagen.} exd5 8. b3 Bb7 9. Bb2 c5 {siehe Hauptabspiel}
+(9... Bd6 10. Nc3 a6 {andere typische Bauernstruktur aus 1.d4} 11. Ne5 $5 Nbd7
+12. f4 {usw. geschlossenes Spiel})) 7... Bb7 8. Bb2 c5 {Wenn beide Seiten 
+(unabhängig der Zugreihenfolge) das Grundsystem ausspielen, so ist die
+Stellung symmetrisch. Will jemand nun die Symmetrie freiwillig brechen, oder
+ist er gezwungen dies zu tun durch eine geschickte Zugfolge des Gegners, so
+entstehen alle bekannten Motive.} 9. Nbd2 Nbd7 10. cxd5 exd5 11. dxc5 bxc5 {
+hängende Bauern-Struktur.} (11... Nxc5 {Isolanistellung}) *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Damenflügelaufbau"]
+[Black "Beispiel Tarrasch"]
+[Result "*"]
+[ECO "D41"]
+[Annotator "Schachtutor"]
+[PlyCount "18"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 c5 5. cxd5 exd5 {Tarrasch-Verteidigung} (
+5... Nxd5 {Semi-Tarrasch. Schwarz akzeptiert keine schwachen Bauern, gibt aber
+Weiß dafür das Zentrum} 6. e4 (6. e3 Nc6 7. Bc4 cxd4 8. exd4 Be7 9. O-O O-O {
+weiteres Beispiel Isolani-Stellung, wo nun Weiß das freiwillig spielt. Für den
+schwachen Bauern hat er die aktiveren Figuren und Lc8 ist passiv.}) 6... Nxc3
+7. bxc3 cxd4 8. cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bc4 Nd7 12. O-O b6 {
+[%csl Ga7,Gb6,Yc5,Yd5,Gd7,Ge6,Gf7][%cal Gc8b7] witzige Situation: Weiß hat den
+Zentrumsaufbau, Schwarz hat den Damenflügelaufbau!}) 6. g3 Be7 7. Bg2 O-O 8.
+O-O Nc6 9. dxc5 Bxc5 {Schwarz akzeptiert den Isolani für aktivere Figuren.} *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Damenflügelaufbau"]
+[Black "Bsp. Angenommenes Damengambit"]
+[Result "*"]
+[ECO "D27"]
+[Annotator "Schachtutor"]
+[PlyCount "14"]
+
+1. d4 d5 2. c4 dxc4 3. e3 (3. e4 $5 {Ist agressiver, auch schwerer zu spielen.
+Normalerweise spielen nicht-Profis diesen Zug nicht, weil es dann eine
+Zentrumsstruktur anstrebt, wo 1.d4-Spieler sonst immer die geschlossenen
+Stellungen vorziehen.}) 3... Nf6 (3... e5 $5 {[%cal Yd7d5,Ye7e5] Schwarz kann
+auch den Zentrumsaufbau probieren!}) 4. Bxc4 e6 5. Nf3 c5 6. O-O a6 7. Nc3 b5 {
+[%csl Ya6,Yb5,Gc5,Gd5,Ge6,Gf7][%cal Gc8b7] und wieder sieht man den typischen
+Damenflügelaufbau für Schwarz} *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Damenflügelaufbau"]
+[Black "Beispiel Meran"]
+[Result "*"]
+[ECO "D48"]
+[Annotator "Schachtutor"]
+[PlyCount "18"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 c6 {Schwarz spielt c6, aber das Ziel ist
+durchaus den Bauern später auf c5 zu stellen! (Nur so, dass er zwischendurch
+keine Bauernschwächen bekommt)} 5. e3 Nbd7 6. Bd3 dxc4 $1 (6... Bd6 {[%cal
+Ge6e5] im Zentrumsstil existiert auch}) 7. Bxc4 b5 8. Bd3 a6 9. e4 {Beispiel
+Zentrumsaufbau} (9. O-O c5 {Schwarz hat schon wieder den Damenflügelaufbau; es
+ist sogar Zugumstellung zum angenommenen Damengambit. z.B.} 10. Qe2 cxd4 11.
+exd4 $5 {Beispiel Isolani}) 9... c5 $132 {Hier kämpfen die beisten Stile
+gegeneinander. Weiß geht auf Angriff, Schwarz dafür auf die schönere Harmonie.}
+*
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Damenflügelaufbau"]
+[Black "Beispiel Slawisch"]
+[Result "*"]
+[ECO "D30"]
+[Annotator "Schachtutor"]
+[PlyCount "18"]
+
+1. d4 d5 2. c4 c6 {Hier kann Schwarz doch gar kein c5 mehr probieren, oder?} 3.
+Nf3 Nf6 4. e3 e6 (4... Bf5 5. Nc3 e6 {das ist tatsächlich eine Ausnahme, wo
+Schwarz ohne e5 oder c5 auskommt. Hier hat er aber seine Figuren gut
+entwickelt.}) 5. b3 (5. Nc3 {Zugumstellung zu Meran!}) 5... Bd6 6. Bb2 O-O $1
+7. Bd3 Nbd7 8. O-O $1 Qe7 9. Qc2 e5 {Schwarz geht auf Zentrumsaufbau.} *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Damenflügelaufbau"]
+[Black "Beispiel Ragozin"]
+[Result "*"]
+[ECO "D38"]
+[Annotator "Schachtutor"]
+[PlyCount "20"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Bb4 $5 {Ein sehr modernes System, wo
+Schwarz bereit sein muss, sowohl mit c5 als auch e5 zu spielen.} 5. Qa4+ (5. e3
+{ist eigentlich Zugumstellung zu Nimzo-Indisch} O-O 6. Bd3 c5 {Ist
+Damenflügelaufbau nur mit Lb4}) 5... Nc6 {Hier kann Schwarz kein c5 mehr
+spielen. Im Damenflügelsystem wäre es nun komplett am Ende, aber.} 6. e3 O-O 7.
+Bd2 dxc4 8. Bxc4 Bd7 9. Qc2 Bd6 10. O-O e5 {[%csl Yd5,Ye5] Schwarz spielt
+Zentrumssystem!} *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Damenflügelaufbau"]
+[Black "Beispiel Karlsbad"]
+[Result "*"]
+[ECO "D36"]
+[Annotator "Schachtutor"]
+[PlyCount "20"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 (5. e3 $6 c6 6. Bd3 Bd6 7. b3
+O-O 8. Bb2 Re8 {[%csl Rb2][%cal Ye6e5,Ye5d4] Hier steht Lb2 sehr schlecht.
+Schwarz dagegen verzichtet hierbei komplett auf b6, da er gar nicht den
+Damenflügelaufbau spielt.}) 5... c6 6. e3 Be7 7. Bd3 O-O 8. Qc2 Nbd7 9. Nf3 (9.
+Nge2 $5 Re8 10. O-O Nf8 11. f3 {Zentrumsaufbau}) 9... Re8 10. O-O Nf8 {Schwarz
+Zentrum/Königsflügel; Weiß Damenflügel} *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Damenflügelaufbau"]
+[Black "Beispiel Nimzo (Sf6+e6)"]
+[Result "*"]
+[ECO "E10"]
+[Annotator "Schachtutor"]
+[PlyCount "12"]
+
+1. d4 Nf6 2. c4 e6 {Im Grunde genommen ist Nimzo-Indischer Aufbau der
+Damenflügelaufbau, wo Schwarz sich Flexibilität mit dem Zug d5 lässt. Er kann
+damit ggf. ungünstige Bauernstrukturen für sich vermeiden. Sein Grundziel
+bleibt aber komplett gleich!} 3. Nc3 (3. Nf3 d5 {spielen hier die Großmeister
+und behaupten, dass für d5-Strukturen der frühe Zug Sf3 ihnen leichteres Spiel
+gibt.} (3... b6 {Damenindisch} 4. Nc3 (4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Re1
+d5 8. cxd5 exd5 9. Nc3 c5 10. dxc5 bxc5 {hängende Bauern}) 4... Bb7 5. a3 {
+Petrosian-System, ungelogen der zweit-häufigste Aufbau gegen Damenindisch} d5
+$1 {Schwarz spielt sein Damenflügelsystem} 6. cxd5 Nxd5 7. Qc2 Be7 8. e4 Nxc3
+9. bxc3 O-O 10. Bd3 c5 {[%csl Ga7,Gb6,Gc5,Gd5,Ge6,Gf7]}) (3... Bb4+ {nennt
+sich Bogo-Indisch} 4. Bd2 Qe7 5. g3 Nc6 6. Nc3 Bxc3 7. Bxc3 Ne4 8. Rc1 O-O 9.
+Bg2 d6 10. O-O Nxc3 11. Rxc3 e5 {Schwarz spielt seinerseits den Zentrums- oder
+sogar Königsflügelaufbau!})) 3... Bb4 4. Qc2 d5 (4... O-O 5. a3 Bxc3+ 6. Qxc3
+b6 (6... d5 7. Nf3 dxc4 8. Qxc4 b6) 7. Bg5 Bb7 8. e3 d6 9. f3 Nbd7 10. Bd3 h6
+11. Bh4 c5 {Schwarz hat fast den Damenflügelaufbau}) 5. cxd5 exd5 6. Bg5 c5 {
+Schwarz spielt Isolani, aber agressiver. Das diktiert bereits die kommenden
+Pläne.} *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Damenflügelaufbau"]
+[Black "Bsp. KID & Grünfeld (Sf6+g6)"]
+[Result "*"]
+[ECO "E97"]
+[Annotator "Schachtutor"]
+[PlyCount "16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 (3. Nf3 Bg7 {Weiß muss nicht e4 spielen, er darf
+weiter bei seinem Damenflügelsystem bleiben.} 4. e3 O-O 5. b3 d6 6. Bb2 Re8 7.
+Be2 {Schwarz kann sich nun seinerseits aussuchen, ob er im Zentrum oder am
+Köngisflügel spielen will} Nbd7 (7... Nc6 8. O-O e5 9. Nc3 exd4 10. exd4 d5 $11
+{[%csl Yd5,Ye5] Zentrumsaufbau}) 8. O-O e5 9. Nc3 e4 10. Nd2 Nf8 $13 {[%cal
+Gh7h5,Gh5h4,Yf8h7,Yh7g5,Rb3b4,Rb4b5,Ra2a4] Königsindischer Angriff für Schwarz
+- Königsflügelaufbau. Kein f5, aber Angriff auf Weiß. Allgemein ist dann die
+Frage wer auf seinem Flügel schneller ist.}) 3... Bg7 (3... d5 {nennt sich
+Grünfeld. Schwarz kämpft ums Zentrum aber ohne e6} 4. Bf4 Bg7 5. e3 O-O 6. Nf3
+c5 {[%csl Gc5,Gd5] ist immer noch der Damenflügelaufbau, nur eben ohne e6.}) 4.
+e4 d6 5. Nf3 O-O 6. Be2 {Weiß hat eine Mischung aus Zentrumsaufbau und
+Damenflügelaufbau. Ratet mal was Schwarz anstrebt...} e5 7. O-O Nc6 8. d5 Ne7 {
+[%csl Gc7,Gd6,Ge5,Gg6,Gh7][%cal Yf7f5] den Königsflügelaufbau!} *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Damenflügelaufbau"]
+[Black "Beispiel Colle"]
+[Result "*"]
+[ECO "D05"]
+[Annotator "Schachtutor"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. Nf3 d5 3. e3 {es gibt noch Nebensysteme, aber auch da muss man
+den Grundaufbau kennen.} e6 4. Bd3 c5 5. b3 (5. c3 Nc6 6. O-O Be7 7. Nbd2 O-O
+8. dxc5 Bxc5 9. e4 $11 {[%csl Gd4,Ge4] Zentrumsaufbau Weiß}) 5... Be7 6. O-O
+O-O 7. Bb2 b6 8. a3 Bb7 (8... Ba6 $5 {Geheimtipp, einfach Läufer abtauschen})
+9. Nbd2 Nc6 {Schwarz hat Damenflügelaufbau als Ziel.} *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Zentrumsaufbau"]
+[Black "1.e4 e5 für Weiß"]
+[Result "*"]
+[ECO "C54"]
+[Annotator "Schachtutor"]
+[PlyCount "19"]
+
+1. e4 e5 {[%cal Gd2d4] hier zeige ich, wie Weiß immer d4 im Sinn hat.} 2. Nf3 (
+2. d4 {wird nicht empfohlen, wobei es auch nicht so übel ist.} exd4 3. Qxd4 Nc6
+{Weiß muss Dame ziehen und Tempo verlieren.}) 2... Nc6 (2... d6 $6 3. d4 $1 {
+Weiß hat Zentrum}) 3. Bb5 {Spanisch, die Hauptvariante. Weiß bereitet damit
+langfristig d4 vor.} (3. d4 {Schottisch, eine vollwertige Eröfffnung}) (3. Nc3
+Nf6 4. Bb5 (4. d4 {schottisches 4-Springerspiel}) 4... Bb4 5. O-O O-O 6. d3
+Bxc3 (6... d6 7. Ne2 {[%cal Gc2c3,Gd3d4,Ge2g3] Ziel ist d4}) 7. bxc3 d6 8. Re1
+{[%cal Gd3d4] Ziel ist d4}) (3. Bc4 Bc5 4. c3 Nf6 5. d4 {Ziel ist d4} (5. d3 {
+[%cal Yd7d5,Rd3d4] die moderne Spielweise. Weiß spart sich d4 für später auf.
+Schwarz überlegt seinerseits, wann er d5 spielen kann...})) 3... a6 4. Ba4 Nf6
+5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 $1 {Weiß hat d4 nie vergessen.} O-O 9. h3
+$1 {bereitet d4 vor} (9. d4 Bg4) 9... Bb7 10. d4 {Weiß hat d4 hinbekommen.
+Schwarz kämpft nun gegen das weiße Zentrum.} *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Zentrumsaufbau"]
+[Black "1.e4 e5 für Schwarz"]
+[Result "*"]
+[ECO "C20"]
+[Annotator "Schachtutor"]
+[PlyCount "6"]
+
+1. e4 e5 {[%cal Gd2d4] Hier zeige ich wie Schwarz den weißen bestraft, indem
+gegen nicht-Hauptvarianten einfach selbst d5 durchsetzt.} 2. Nc3 (2. Nf3 Nc6 3.
+d4 exd4 4. c3 {Weiß spielt ein Gambit. Schwarz muss nicht annehmen.} d5 $5 {
+[%csl Yd5,Ye5]}) (2. f4 {Weiß opfert einen Bauern} d5 $5 {[%csl Yd5,Ye5]
+Schwarz muss nicht nehmen} 3. exd5 (3. fxe5 $4 Qh4+) 3... exf4 4. Nf3 Nf6 {
+Schwarz spielt im Zentrum}) (2. Be2 $6 Nf6 3. d3 d5 $1 {[%csl Yd5,Ye5]}) (2.
+Bc4 Nf6 3. d3 c6 $5 {[%csl Ye5][%cal Yd7d5]} (3... d5 {geht konkret nicht durch
+} 4. exd5 Nxd5 5. Nf3 Nc6 6. O-O {[%cal Gf1e1]})) 2... Nf6 3. f4 d5 $1 {[%csl
+Yd5,Ye5] Schwarz ist schneller} *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Zentrumsaufbau"]
+[Black "Französisch 1.e4 e6"]
+[Result "*"]
+[ECO "C10"]
+[Annotator "Schachtutor"]
+[PlyCount "16"]
+
+1. e4 e6 2. d4 (2. d3 d5 3. Nd2 Nf6 4. Ngf3 c5 5. g3 Be7 6. Bg2 O-O 7. O-O Nc6
+8. Re1 Qc7 9. e5 (9. exd5 exd5 10. d4 $11 {[%csl Yd4,Ye4] Zentrumsaufbau}) 9...
+Nd7 10. Qe2 b5 11. Nf1 a5 12. h4 b4 13. h5 h6 14. Bf4 a4 {Königsflügel vs
+Damenflügelaufbau}) 2... d5 3. Nc3 (3. Nd2 c5 4. exd5 Qxd5 $5 5. Ngf3 cxd4 6.
+Bc4 Qd7 7. O-O a6 8. Nb3 b5 9. Be2 Bb7 {Damenflügelaufbau für Schwarz}) 3...
+dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 Be7 7. O-O O-O 8. Qe2 b6 {[%csl Ga7,Gb6,
+Gd5,Ge6,Gf7][%cal Gc8b7,Gc7c5] Damenflügelaufbau für Schwarz.} *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Zentrumsaufbau"]
+[Black "Sizilianisch (1.e4 c5)"]
+[Result "*"]
+[ECO "B31"]
+[Annotator "Schachtutor"]
+[PlyCount "24"]
+
+1. e4 c5 2. Nf3 (2. Nc3 {Königsflügelaufbau ist möglich} Nc6 3. g3 (3. Bc4 {
+wenn Weiß ganz ohne Plan spielt, also schwarze Grundidee von c5} e6 4. d3 Nf6
+5. Nf3 d5 {[%csl Gc5,Gd5,Ge6,Gf7] Schwarz hat Damenflügelaufbau}) 3... d6 4. d3
+g6 5. Bg2 Bg7 6. f4 Nf6 (6... e6 7. Nf3 Nge7 8. O-O O-O) 7. Nf3 O-O 8. O-O Rb8
+{Weiß spielt Königsflügel, Schwarz Damenflügel}) 2... d6 (2... Nc6 3. Nc3 Nf6
+4. d4 cxd4 5. Nxd4 d6 6. Be2 e6 7. Be3 Be7 8. O-O {fast die reine Version des
+Zentrumsaufbaus}) 3. d4 $1 {[%csl Gd4,Ge4] deswegen ist das der prinzipielle
+Zug} cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 {Hier will ich nicht mehr Weiß,
+sondern Schwarz zeigen. Najdorf, die gefürchtetste Eröffnung, hat als Ziel} 7.
+Be2 Be7 8. O-O b5 9. a3 Bb7 10. f3 Nbd7 11. Qd2 O-O 12. Rad1 Qc7 {[%cal Gf8d8,
+Ga8c8,Rd6d5] den Damenflügelaufbau!} *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Königsflügelaufbau"]
+[Black "Leningrad"]
+[Result "*"]
+[ECO "A87"]
+[Annotator "Schachtutor"]
+[PlyCount "14"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. g3 O-O 6. Bg2 d6 7. O-O Qe8 {[%cal
+Ge7e5] Schwarz strebt Königsflügelaufbau an.} *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "1.c4 Vielfalt"]
+[Black "Schwarz entscheidet"]
+[Result "*"]
+[ECO "A26"]
+[Annotator "Schachtutor"]
+[PlyCount "16"]
+
+1. c4 {Weiß entscheidet nur, dass er am Damenflügel spielt. Schwarz hat die
+freie Wahl.} e5 (1... c5 2. Nf3 Nf6 3. d4 {Damenflügelsystem, nur mit
+Zugumstellung} (3. Nc3 Nc6 4. e3 $5 {[%cal Gd2d4] schon wieder
+Damenflügelsystem}) 3... cxd4 4. Nxd4 e6 {[%csl Gc5,Gd5,Ge6,Gf7][%cal Gd7d5]})
+2. Nc3 {Schwarz kann sich aussuchen, ob er im Zentrum oder am Damenflügel
+spielt.} Nc6 (2... Nf6 3. Nf3 Nc6 4. g3 d5 (4... Bb4 {auch Zentrum, d7-d5 ist
+ständig die Idee}) 5. cxd5 Nxd5 {Zentrum}) 3. g3 d6 4. Bg2 f5 5. d3 g6 6. Nf3
+Bg7 7. O-O Nf6 8. Rb1 O-O {Königsflügelaufbau} *

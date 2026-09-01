@@ -1,0 +1,279 @@
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Stages of the Game"]
+[Black "Example"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[ECO "B32"]
+[PlyCount "39"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 (5... d6 6. N1c3 a6 7. Na3
+b5 8. Nd5 Nge7 9. c4 Nxd5 10. exd5 Nd4 11. cxb5 Be7 12. Bd3 {Here the kings do not yet feel safe. Both sides have checks available.} O-O 13. O-O
+{Example of a middlegame: the king is safe and the pieces dominate the board.}) 6.
+Nd6+ Bxd6 7. Qxd6 Qf6 8. Qxf6 Nxf6 {After the queens are exchanged, the kings feel very safe. They no longer need to be brought to safety, so the opening is over. Since the kings can even move around safely, we have almost reached the endgame.} 9. Nc3 Nb4 {In the middlegame/endgame, a piece may be moved twice.} 10. Bd3 Nxd3+ 11. cxd3 d6 12. Bg5 (12. O-O $6 {The king is worse placed on g1. On e1 it is more active, which is more important.}) (12. Rf1 {If White wants to play f4, the king does not need to be on g1.}) 12... Be6 13. Rc1 Rc8 14.
+Kd2 $1 {The king remains in the center because this is an endgame.} O-O $2 {Black makes a mistake. The king is sidelined on g8. Sample line:} 15. a3
+h6 16. Bxf6 gxf6 17. Na4 Rxc1 18. Rxc1 Rc8 19. Rxc8+ Bxc8 20. Kc3 {White has an advantage because the king joins the battle.} *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Stages of the Game"]
+[Black "Middlegame or Endgame?"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "5rk1/p4q1p/2p3pP/8/8/8/5PP1/Q4RK1 w - - 0 1"]
+[PlyCount "0"]
+
+{The black king is in danger even though only two pieces remain on the board. Endgame rules cannot be applied here.}  *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Stages of the Game"]
+[Black "Which Stage Is This?"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[ECO "B07"]
+[PlyCount "14"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Bc4 Be6 7. Bxe6 fxe6
+{We have reached an endgame in this position even though only seven moves have been played. Both kings are already safe and can move around the board securely.} *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Stages of the Game"]
+[Black "Middlegame or Endgame?"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[ECO "D27"]
+[PlyCount "18"]
+
+1. d4 d5 2. c4 dxc4 3. e3 e6 4. Bxc4 Nf6 5. Nf3 c5 6. O-O a6 7. dxc5 Bxc5 8.
+Qxd8+ Kxd8 9. Rd1+ Ke7 {Black feels relatively comfortable with the king on e7. Black would like to exchange a few more pieces, after which it would be an endgame. If White wants to achieve anything, White must avoid exchanges and try to exploit the king's position immediately.} *
+
+[Event "Text Form"]
+[Site "?"]
+[Round "?"]
+[White "-OPENING-"]
+[Black "Golden Opening Rules"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[ECO "B00"]
+[PlyCount "1"]
+
+{The aim of the opening is to bring the pieces into the battle quickly. The golden rules provide a useful guide. They are covered in detail in Part 7. According to them, an opening move is good if it follows one of three principles: 1. Center 2. Development 3. King safety. There is also a hierarchy: center > development > king safety. *The golden rules are a good guideline for beginners and reflect the classical understanding of chess. Modern openings are not covered by them. **Regardless of this, active moves should be checked first and again after choosing a move! The golden rules only help with the plan.} 1. e4 *
+
+[Event "-OPENING-"]
+[Site "?"]
+[Round "?"]
+[White "Golden Opening Rules"]
+[Black "1. Center"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[ECO "B00"]
+[PlyCount "4"]
+
+1. e4 e6 (1... g6 $2 {According to the golden rules—and in my view as well—this is both a mistake and, more importantly, not advisable for non-professionals. Black already violates a very important fundamental principle: the center.} 2. d4 Bg7 {White has complete control and freedom in the center.}) (1...
+b6 $2 2. d4 Bb7 {White has the center and complete control.} 3. Nd2 $5 {[%cal Gc2c3,Yf1d3] White does not always have to place the pieces on their 'ideal squares'.} (3.
+Nc3) (3. Bd3)) 2. d4 d6 $2 {White has the center. (How to exploit the central advantage concretely is explained from Part 10 onward.)} (2... d5 $1 {Black absolutely must fight for at least one of the two central squares.}) *
+
+[Event "-OPENING-"]
+[Site "?"]
+[Round "?"]
+[White "Golden Opening Rules"]
+[Black "2. Development"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[PlyCount "15"]
+
+{The second rule is development. This means developing the pieces quickly to useful squares. You should also avoid moving the same piece twice, because you could develop another piece instead.} 
+1. e4 e5 2. Nf3 (2. Ne2 $2 {According to the rule, this is a mistake because the knight is poorly placed on e2 and obstructs the other pieces.}) (2. d4 $6 exd4 3. Qxd4 Nc6 {Black has developed with tempo, which is not good for White.}) 2... d6 $6 {According to the rule, this is a small mistake because the bishop on f8 can no longer reach c5. It is less well developed on e7.} (2... Nc6 3. d4 exd4 4. Nxd4 Nxd4 $2 5.
+Qxd4 {Black cannot drive away the white queen. It is well developed and very strong there.}) 3. Bc4 Nd7 $6 {The knight blocks the bishop on c8 here. Why not Nc6?} 4. d4 {First rule: the center!} exd4 5. Nxd4 (5. Qxd4 $5 {The queen is not in danger here.}) 5... Nc5 6. Nc3 Nf6 7. O-O {Black has lost so much time that Black cannot afford to open the center.} Nfxe4 $2 (
+7... Be7 {Black has no choice but to develop and secure the king.})
+8. Re1 $18 *
+
+[Event "-OPENING-"]
+[Site "?"]
+[Round "?"]
+[White "Golden Opening Rules"]
+[Black "3. King Safety"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[ECO "C11"]
+[PlyCount "16"]
+
+1. e4 e6 (1... e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. O-O O-O {Normally, king safety simply means castling, either short or long. But do not confuse the two: king safety and castling are not the same thing!}) 2. d4 d5 3. Nc3
+Nf6 4. e5 Nfd7 5. f4 c5 6. Nce2 Nc6 7. c3 b5 8. a3 c4 {... Game Rafiee, M (2300)–Krassowizkij, J (2450), 2017. The kings are already safe; they do not need to castle. The middlegame begins, together with the middlegame rules.} *
+
+[Event "-MIDDLEGAME-"]
+[Site "?"]
+[Round "?"]
+[White "Middlegame"]
+[Black "First Guideline"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "r1bqk2r/pp3ppp/3b1n2/3p4/8/2PQ1N1P/PP3PP1/RNB1K2R w KQkq - 0 10"]
+[PlyCount "10"]
+
+{My first guideline for you—a guideline that can later be expanded all the way to GM level (from Part 10 onward), but is initially greatly simplified—is: 1. Check active moves. If you find a satisfactory continuation, play it. 2. (If step 1 yields nothing:) Continue with your plan. If you currently have no plan, use the activation of your pieces as an emergency plan. 3. Before playing your move, always check the opponent's active replies to it. If it is dangerous, return to step 2 and find an alternative.} 10. O-O O-O {The opening is complete. If White has a plan, simply carry it out; otherwise, simply activate the pieces.} 11. Be3 (11. Bg5 {is also good}) 11... Re8
+12. Nbd2 Be6 {Again: 1. Active moves: none. 2. Plan: for example, besiege d5; or 2b: place the rooks on open files. 3. Check whether Bxh3 or something similar creates a problem.} 13. Rfe1 a6 14. Rad1 Rc8 {If there is still no plan, then Nd4 or Bd4, because that improves the pieces. And so on.} *
+
+[Event "-MIDDLEGAME-"]
+[Site "?"]
+[Round "?"]
+[White "Middlegame"]
+[Black "Improve the Pieces"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "r2qr1k1/bpp2pp1/p1n2n1p/3pp3/P3P3/2PP1N1P/RPQ2PP1/2B1RNK1 b - - 0 14"]
+[PlyCount "1"]
+
+{A typical position for Black. If you have no plan, which piece could be placed better? Answer: the rook on a8. So move the queen away and play ...Rd8.} 14... Qd7 {[%cal Ga8d8]} *
+
+[Event "-MIDDLEGAME-"]
+[Site "?"]
+[Round "?"]
+[White "Middlegame"]
+[Black "Dynamic Character"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "3r2k1/1pb2pp1/p3b3/6q1/4Q3/2P4P/PP3PP1/R3R1K1 w - - 0 25"]
+[PlyCount "8"]
+
+{[%cal Re6h3,Re6d5,Re6a2,Yd8d2,Yd2b2,Ge4b7,Re6f5] In general, the middlegame is characterized by the presence of many pieces. You must consider a great deal and calculate many possibilities. This is why most tactics—and the greatest relevance of active moves—occur in the middlegame.} 25. Kh1 Bf5 26. Qxb7
+Qf4 27. g3 Qxf2 28. Qxc7 Rd2 *
+
+[Event "-ENDGAME-"]
+[Site "?"]
+[Round "?"]
+[White "Endgame"]
+[Black "Nature of the Endgame"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "5k2/1rpb1pp1/7p/8/1P1N4/P6P/5PP1/2R3K1 w - - 0 13"]
+[PlyCount "0"]
+
+{Position from Capablanca–Ragozin. The endgame is covered in detail in Part 20. --- In the endgame, play proceeds much more slowly than in the middlegame. There is no bloodbath; attention is paid to even the smallest weaknesses. A pawn can decide the game through promotion. Pawns are the heroes of the endgame. They become stronger because there is time to invest in their slow advance. The king must obviously participate actively as well. The most important objective in the endgame is either to win pawns or to promote them. The rest is explored in Part 20.}  *
+
+[Event "-ENDGAME-"]
+[Site "?"]
+[Round "?"]
+[White "Endgame"]
+[Black "Small Weaknesses Decide"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "8/5pkp/2p3p1/pp6/4Pn2/1P3P2/P1B2P1P/7K w - - 0 29"]
+[PlyCount "0"]
+
+{In this position, White merely has a bad bishop and doubled pawns on the f-file. In the middlegame, White could develop counterplay or drive away the knight. Here in the endgame, however, these are not secondary but the most important features. Black wins easily with ...Kf6-e5-d4 while White can do absolutely nothing. Black heads to b2 and attacks the white pawns, or creates a passed pawn on the c-file.}  *
+
+[Event "-ENDGAME-"]
+[Site "?"]
+[Round "?"]
+[White "Endgame"]
+[Black "Playing with a Material Advantage"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "r2qk1nr/pp2ppbp/2n1b1p1/1NPp4/8/1N4P1/PP2PPBP/R1BQ1RK1 b kq - 0 11"]
+[PlyCount "74"]
+
+{Game Krassowizkij, J (2350)–Endisch, P (1950), 2011} 11... f5 $2 12. Bxd5 $1
+Bxd5 13. Qxd5 Qxd5 14. Nc7+ Kf7 15. Nxd5 {White has won a pawn. The only aim is to convert it in the endgame.} Rc8 16. Rd1 {Active pieces are always necessary.} Nf6 17. Nc3 {I do not want to explain this move here; it is harder to understand. The aim is to give Black less counterplay.} Rhd8 18. Bg5 (18. Rxd8 Rxd8 {White gives Black the d-file here.}) 18... Ne4 $5 19. Nxe4 fxe4 20. Nd2 Bxb2 21. Rab1 Bd4 22. Nxe4 {Now the aim is to exchange pieces.} b6 23. cxb6 Bxb6 24. Rxd8 {first rook} Nxd8 25.
+Rc1 {second rook} Ra8 {Because White placed the rook centrally, Black must either exchange it or move the pieces away.} (25... Rb8 26. Bf4)
+26. Nc5 Nc6 27. Nd7 Nd4 28. Nxb6 axb6 {Black has some counterplay, but White's pieces are more active.} 29. Rc7 Rxa2 30. Rxe7+ Kg8 31. Kf1 {White has a bishop against a knight and two passed pawns against one.} b5 32. Bf6 {wins another pawn} Nc6 33. Rg7+ Kf8 34. Rxh7 b4 35. Rb7 Ra6 36. Bg7+ Kg8 37. Bb2 {[%cal Gb7g7] also threatens Rg7+} Ra2 38. Rb6 {exchanges more pieces} Rxb2 39.
+Rxc6 Rb1+ 40. Kg2 Kf7 41. Rb6 b3 42. Kf3 {With two extra pawns, the position is now simply won.} b2 43. e4 Kg7 44. Kg4 Re1 45. Rxb2 Rxe4+ 46. f4 Re7 47.
+h4 Ra7 48. h5 *
+
+[Event "-ENDGAME-"]
+[Site "?"]
+[Round "?"]
+[White "Endgame"]
+[Black "Playing with a Material Disadvantage"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "3r2k1/5bp1/p3np2/1p6/8/P3B1P1/1P3PBP/2R3K1 w - - 0 1"]
+[PlyCount "0"]
+
+{Black is already worse and must be careful not to acquire further problems or weaknesses...}  *
+
+[Event "-ENDGAME-"]
+[Site "?"]
+[Round "?"]
+[White "Endgame"]
+[Black "Playing with a Material Disadvantage"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "3r2k1/5bp1/4np2/8/8/4B1P1/5PBP/2R3K1 w - - 0 1"]
+[PlyCount "0"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Counterplay"]
+[Black "& Change in the Position"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "r2r2k1/2q2pp1/p1n1p1p1/1pnpP3/5B2/P1P3P1/1P2QP1P/1B2RRK1 w - - 0 25"]
+[PlyCount "15"]
+
+{Game Krassowizkij, J (2450)–Braun, G (2400), 2021.} 25. h4 {[%cal Gh4h5] White launches an attack. Can Black defend against it?} d4 $1 {No, but Black does not have to. By attacking as well, Black combines defense with an attempt to win. Counterplay means counterattacking instead of waiting passively.} 26. cxd4 Nxd4 27. Qg4 Qb7 {It is already unclear who is better here.} 28. Re3 Nf5 29. h5 $5 {White sacrifices the exchange to build up the initiative.} Nxe3 30. Bxe3 {The position has now changed permanently. Previously the struggle was about the initiative; now it is Black's material advantage against White's attack. Both sides must adapt their plans and style of play.}
+Nd3 31. hxg6 Nxe5 32. gxf7+ $36 *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Static Advantage"]
+[Black "Beispiel 1"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "8/p3bp1p/1pkp4/4p3/2P1P3/2NK4/PP4PP/8 w - - 0 1"]
+[PlyCount "0"]
+
+{A model example of a static advantage. Black can have as much time as desired; White's advantage will remain forever. Black can only wait passively and hope the position holds together. Black has hardly any counterplay.} 
+*
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Static Advantage"]
+[Black "Beispiel 2"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "r4rk1/ppp1nqb1/3p1p1p/3Pp1p1/2P1P1PP/2NQBP2/PP6/1KR4R w - - 0 1"]
+[PlyCount "0"]
+
+{A similar position, but in the middlegame. No matter how much time Black gets, Black cannot improve the position. Hence 'static' means a lasting advantage.}  *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Dynamic Position"]
+[Black "& Advantage"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[SetUp "1"]
+[FEN "4rrk1/pbqn1ppp/1ppbp3/8/2PPQ3/1P1B1N2/PB3PPP/2R2RK1 b - - 0 14"]
+[PlyCount "8"]
+
+{Game Krassowizkij, J (2250)–Hasenohr, B (2150), 2011} 14... f5 $1 15. Qe2
+{In contrast to the static advantage, we now have a dynamic advantage. Black has the initiative, but it is only temporary. If Black gave White time for Rfe1 and Ne5, White would even have an advantage. Black must therefore act quickly and convert the dynamic advantage into something tangible—a static advantage such as material.} c5 $1 (15... e5 $6 16. c5 $1
+bxc5 17. dxe5 $14 {Black has failed to convert the advantage and is left only with static pawn weaknesses.} (17. Bc4+ $5 {A pawn sacrifice is said to be even better.} Kh8 18. dxc5 Nxc5 19. Ng5 $40)) 16. Ng5 $5 {Instead of waiting for my downfall, I decided to complicate the position. In particular, I am prepared to give up h2 to gain time for counterplay. My opponent could not cope with the complications. That is the difficulty of dynamic positions: everything is fluid, and it is easy to overlook or misjudge something. Play develops very rapidly.}
+cxd4 17. Bxd4 e5 $6 {looks completely winning at first sight, but falls into my trap.} 18. c5 $3 {[%cal Gd3c4] and now White takes over the initiative. White later won this game.} *

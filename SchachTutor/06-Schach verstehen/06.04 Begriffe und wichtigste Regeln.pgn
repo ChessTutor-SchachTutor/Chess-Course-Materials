@@ -1,0 +1,391 @@
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Partiestadien"]
+[Black "Beispiel"]
+[Result "*"]
+[Annotator "Schachtutor"]
+[ECO "B32"]
+[PlyCount "39"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 (5... d6 6. N1c3 a6 7. Na3
+b5 8. Nd5 Nge7 9. c4 Nxd5 10. exd5 Nd4 11. cxb5 Be7 12. Bd3 {Hier fühlen sich
+die Könige noch nicht sicher. Es gibt für beide Seiten Schachzüge.} O-O 13. O-O
+{Beispiel Mittelspiel: König in Sicherheit, Figuren dominieren das Brett.}) 6.
+Nd6+ Bxd6 7. Qxd6 Qf6 8. Qxf6 Nxf6 {Nach dem Damentausch fühlen sich die
+Könige sehr sicher. Man muss sie nicht mehr in Sicherheit bringen. Daher sind
+wir aus Eröffnung raus. Da die Könige sogar sicher laufen können sind wir fast
+im Endspiel angelangt.} 9. Nc3 Nb4 {im Mittelspiel/Endspiel darf man Figuren 2
+mal bewegen.} 10. Bd3 Nxd3+ 11. cxd3 d6 12. Bg5 (12. O-O $6 {Der König steht
+schlechter auf g1. Auf e1 ist er aktiver, was wichtiger ist.}) (12. Rf1 {wenn
+Weiß f4 spielen will, braucht er keinen Kg1 dafür.}) 12... Be6 13. Rc1 Rc8 14.
+Kd2 $1 {König bleibt in der Mitte, weil es Endspiel ist.} O-O $2 {Schwarz
+begeht einen Fehler. Sein König steht auf g8 abseits. Beispielvariante} 15. a3
+h6 16. Bxf6 gxf6 17. Na4 Rxc1 18. Rxc1 Rc8 19. Rxc8+ Bxc8 20. Kc3 {Weiß hat
+Vorteil, weil sein König in den Kampf kommt.} *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Partiestadien"]
+[Black "Mittelspiel oder Endspiel?"]
+[Result "*"]
+[Annotator "Schachtutor"]
+[SetUp "1"]
+[FEN "5rk1/p4q1p/2p3pP/8/8/8/5PP1/Q4RK1 w - - 0 1"]
+[PlyCount "0"]
+
+{schwarzer König steckt in Gefahr obwohl nur 2 Figuren auf dem Brett sind.
+Hier kann man keine Endspielregeln anwenden.}  *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Partiestadien"]
+[Black "Welches Stadium ist hier?"]
+[Result "*"]
+[Annotator "Schachtutor"]
+[ECO "B07"]
+[PlyCount "14"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Bc4 Be6 7. Bxe6 fxe6
+{In dieser Stellung haben wir Endspiel erreicht, obwohl nur 7 Züge vorbei sind.
+Beide Könige sind bereits in Sicherheit und können sich sehr sicher um das
+Brett bewegen.} *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Partiestadien"]
+[Black "Mittelspiel oder Endspiel?"]
+[Result "*"]
+[Annotator "Schachtutor"]
+[ECO "D27"]
+[PlyCount "18"]
+
+1. d4 d5 2. c4 dxc4 3. e3 e6 4. Bxc4 Nf6 5. Nf3 c5 6. O-O a6 7. dxc5 Bxc5 8.
+Qxd8+ Kxd8 9. Rd1+ Ke7 {Schwarz fühlt sich relativ wohl mit dem König auf e7.
+Er würde gerne noch ein paar Figuren tauschen, dann ist es Endspiel. Wenn Weiß
+was vorweisen will muss er auf Abtausch verzichten und versuchen die
+Königsstellung sofort auszunutzen.} *
+
+[Event "Textform"]
+[Site "?"]
+[Round "?"]
+[White "-ERÖFFNUNG-"]
+[Black "Goldene Eröffnungsregeln"]
+[Result "*"]
+[Annotator "Schachtutor"]
+[ECO "B00"]
+[PlyCount "1"]
+
+{Das Ziel der Eröffnung ist es die Figuren schnell in den Kampf zu bringen.
+Ein guter Leitfaden dafür sind die goldenen Regeln.  Die goldenen
+Eröffnungsregeln werden in Teil 7 ausführlich behandelt. Sie sagen, in
+Eröffnung ist ein Zug gut, wenn er einen der 3 Züge befolgt: 1. Zentrum 2.
+Entwicklung 3.Königssicherheit. Dabei gibt es auch die Hierarchie,
+Zentrum>Entwicklung>Königssicherheit. *Die goldenen Regeln sind eine gute
+Richtlinie für Anfänger und entspricht dem klassischen Schachverständnis.
+Moderne Eröffnungen sind da nicht abgedeckt. **Aktive Züge sollten unabhängig
+davon zuerst und nach dem Zug geschaut werden! Goldene Regeln helfen nur dem
+Plan.} 1. e4 *
+
+[Event "-ERÖFFNUNG-"]
+[Site "?"]
+[Round "?"]
+[White "Goldene Eröffnungsregeln"]
+[Black "1.Zentrum"]
+[Result "*"]
+[Annotator "Schachtutor"]
+[ECO "B00"]
+[PlyCount "4"]
+
+1. e4 e6 (1... g6 $2 {Ist nach den goldenen Regeln, und auch nach meiner
+Auffassung sowohl ein Fehler, als auch viel wichtiger nicht empfehlenswert für
+nicht-Profis. Schwarz verletzt bereits sehr wichtige Grundregeln, hier das
+Zentrum.} 2. d4 Bg7 {Weiß hat volle Kontrolle und Freiheit im Zentrum.}) (1...
+b6 $2 2. d4 Bb7 {Weiß hat Zentrum und volle Kontrolle} 3. Nd2 $5 {[%cal Gc2c3,
+Yf1d3] Weiß muss die Figuren nicht immer auf die "Idealfelder" stellen.} (3.
+Nc3) (3. Bd3)) 2. d4 d6 $2 {Weiß hat Zentrum. (Wie man den Zentrumsvorteil
+konkret ausnutzt, wird ab Teil 10 erklärt).} (2... d5 $1 {Schwarz muss
+unbedingt um mindestens einen der beiden Felder kämpfen.}) *
+
+[Event "-ERÖFFNUNG-"]
+[Site "?"]
+[Round "?"]
+[White "Goldene Eröffnungsregeln"]
+[Black "2.Entwicklung"]
+[Result "*"]
+[Annotator "Schachtutor"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[PlyCount "15"]
+
+{Die 2.Regel ist Entwicklung. Hier ist es gemeint, dass man die Figuren
+schnell auf sinnvolle Felder entwickelt. Man soll dabei auch keine 2 Züge mit
+derselben Figur machen, da man stattdessen eine andere Figur entwickeln kann.} 
+1. e4 e5 2. Nf3 (2. Ne2 $2 {Ist nach der Regel ein Fehler, da der Springer auf
+e2 schlecht steht und den Figuren im Weg ist.}) (2. d4 $6 exd4 3. Qxd4 Nc6 {
+Schwarz hat sich mit Tempo entwickelt, nicht gut für Weiß.}) 2... d6 $6 {Ist
+nach der Regel ein kleiner Fehler, da Lf8 nun nicht mehr nach c5 kommen kann.
+Auf e7 ist er schlechter Entwickelt.} (2... Nc6 3. d4 exd4 4. Nxd4 Nxd4 $2 5.
+Qxd4 {Schwarz kann die weiße Dame nicht vertreiben. Sie ist dort gut
+entwickelt und sehr stark.}) 3. Bc4 Nd7 $6 {Springer steht hier dem Lc8 im Weg.
+Warum nicht Sc6?} 4. d4 {1.Regel: Zentrum!} exd4 5. Nxd4 (5. Qxd4 $5 {Dame ist
+hier nicht in Gefahr}) 5... Nc5 6. Nc3 Nf6 7. O-O {Schwarz hat so viel Zeit
+verloren, dass er es sich nicht leisten kann die Mitte zu öffnen.} Nfxe4 $2 (
+7... Be7 {es bleibt ihm nichts anderes als Entwicklung und Königssicherheit})
+8. Re1 $18 *
+
+[Event "-ERÖFFNUNG-"]
+[Site "?"]
+[Round "?"]
+[White "Goldene Eröffnungsregeln"]
+[Black "3.Königssicherheit"]
+[Result "*"]
+[Annotator "Schachtutor"]
+[ECO "C11"]
+[PlyCount "16"]
+
+1. e4 e6 (1... e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. O-O O-O {normalerweise
+ist Königssicherheit einfach zu rochieren. Kurz oder lang. Jedoch nicht zu
+verwechseln: Königssicherheit und Rochade ist nicht dasselbe!}) 2. d4 d5 3. Nc3
+Nf6 4. e5 Nfd7 5. f4 c5 6. Nce2 Nc6 7. c3 b5 8. a3 c4 {... Partie Rafiee,M 
+(2300)- Krassowizkij, J, (2450), 2017. Die Könige sind schon in Sicherheit,
+sie müssen nicht rochieren. Es beginnt das Mittelspiel mit den
+Mittelspielregeln.} *
+
+[Event "-MITTELSPIEL-"]
+[Site "?"]
+[Round "?"]
+[White "Mittelspiel"]
+[Black "erster Leitfaden"]
+[Result "*"]
+[Annotator "Schachtutor"]
+[SetUp "1"]
+[FEN "r1bqk2r/pp3ppp/3b1n2/3p4/8/2PQ1N1P/PP3PP1/RNB1K2R w KQkq - 0 10"]
+[PlyCount "10"]
+
+{Mein erster Leitfaden an euch - ein Leitfaden den man später ausbauen kann
+bis hin zum GM-Niveau (ab Teil 10), aber erstmal stark vereinfach ist: 1.Prüfe
+aktive Züge. Wenn du eine zufriedenstellende Fortsetzung findest, spiele sie.
+2.(Wenn 1 nicht aufgeht:) Führe weiter deinen Plan aus. Falls du derzeit
+keinen Plan hast, aktiviere als Notfallplan deine Figuren. 3.Bevor du deinen
+Zug ausführst, prüfe unbedingt die aktiven Züge auf deinen Zug. Wenn es
+gefährlich ist, gehe zu 2 zurück und suche eine Alternative.} 10. O-O O-O {
+Eröffnung ist abgeschlossen. Wenn Weiß einen Plan hat, einfach ausführen, wenn
+nicht, einfach Figuren aktivieren.} 11. Be3 (11. Bg5 {ist auch gut}) 11... Re8
+12. Nbd2 Be6 {Wieder: 1.Aktive Züge : gar nicht 2.Plan: z.B. d5 belagern. Oder
+2b: Türme auf offene Linien. 3.Prüfen, ob Lxh3 oder ähnliches Problem
+darstellen.} 13. Rfe1 a6 14. Rad1 Rc8 {Wenn immer noch kein Plan, dann Sd4
+oder Ld4, weil verbessert Figuren. Usw.} *
+
+[Event "-MITTELSPIEL-"]
+[Site "?"]
+[Round "?"]
+[White "Mittelspiel"]
+[Black "Figuren verbessern"]
+[Result "*"]
+[Annotator "Schachtutor"]
+[SetUp "1"]
+[FEN "r2qr1k1/bpp2pp1/p1n2n1p/3pp3/P3P3/2PP1N1P/RPQ2PP1/2B1RNK1 b - - 0 14"]
+[PlyCount "1"]
+
+{typische Stellung für Schwarz. Wenn man keinen Plan hat, welche Figuren
+könnte man besser stellen? Antwort: Ta8. Also Dame weg und Td8.} 14... Qd7 {
+[%cal Ga8d8]} *
+
+[Event "-MITTELSPIEL-"]
+[Site "?"]
+[Round "?"]
+[White "Mittelspiel"]
+[Black "dynamischer Charakter"]
+[Result "*"]
+[Annotator "Schachtutor"]
+[SetUp "1"]
+[FEN "3r2k1/1pb2pp1/p3b3/6q1/4Q3/2P4P/PP3PP1/R3R1K1 w - - 0 25"]
+[PlyCount "8"]
+
+{[%cal Re6h3,Re6d5,Re6a2,Yd8d2,Yd2b2,Ge4b7,Re6f5] Allgemein zeichnet aber das
+Mittelspiel aus, dass sehr viele Figuren präsent sind, man muss aber sehr viel
+beachten und mit vielen rechnen. Deswegen entsteht die meiste Taktik - und die
+Relevanz der aktiven Züge - im Mittelspiel am meisten.} 25. Kh1 Bf5 26. Qxb7
+Qf4 27. g3 Qxf2 28. Qxc7 Rd2 *
+
+[Event "-ENDSPIEL-"]
+[Site "?"]
+[Round "?"]
+[White "Endspiel"]
+[Black "Endspielcharakter"]
+[Result "*"]
+[Annotator "Schachtutor"]
+[SetUp "1"]
+[FEN "5k2/1rpb1pp1/7p/8/1P1N4/P6P/5PP1/2R3K1 w - - 0 13"]
+[PlyCount "0"]
+
+{Partieausschnitt aus Capablanca-Ragozin. Das Endspiel wird in Teil 20
+ausführlich behandelt.---Im Endspiel verläuft das Spiel viel langsamer als im
+Mittelspiel. Es gibt kein gemetzel, man achtet auf die kleinsten und
+geringsten Schwächen. Ein Bauer kann aufgrund einer Umwandlung den Sieg
+entscheiden. Bauern sind auch die Helden des Endspiels. Sie gewinnen dort an
+Stärke, weil man auch die Zeit hat, diese in langsame Bauern zu investieren.
+König muss offensichtlich auch aktiv mithelfen. Das wichtigste im Endspiel ist:
+entweder Bauern gewinnen oder Bauern durchbringen. Rest wird in Teil 20
+vertieft.}  *
+
+[Event "-ENDSPIEL-"]
+[Site "?"]
+[Round "?"]
+[White "Endspiel"]
+[Black "kleine Schwächen entscheiden"]
+[Result "*"]
+[Annotator "Schachtutor"]
+[SetUp "1"]
+[FEN "8/5pkp/2p3p1/pp6/4Pn2/1P3P2/P1B2P1P/7K w - - 0 29"]
+[PlyCount "0"]
+
+{In dieser Stellung hat Weiß nur einen schlechten Läufer und Doppelbauern auf
+der f-Linie. Im Mittelspiel könnte Weiß Gegenspiel entwickeln oder Springer
+vertreiben. Dagegen hier im Endspiel sind das nicht nachragende, sondern die
+wichtigsten Merkmale. Schwarz gewinnt locker mit Kf6-e5-d4... während Weiß
+absolut gar nichts machen kann. Schwarz geht zu b2 und greift die weißen
+Bauern an, oder schafft sich einen Freibauern auf der c-Linie.}  *
+
+[Event "-ENDSPIEL-"]
+[Site "?"]
+[Round "?"]
+[White "Endspiel"]
+[Black "Umgang mit Materialvorteil"]
+[Result "*"]
+[Annotator "Schachtutor"]
+[SetUp "1"]
+[FEN "r2qk1nr/pp2ppbp/2n1b1p1/1NPp4/8/1N4P1/PP2PPBP/R1BQ1RK1 b kq - 0 11"]
+[PlyCount "74"]
+
+{Partie Krassowizkij,J (2350) - Endisch,P (1950), 2011} 11... f5 $2 12. Bxd5 $1
+Bxd5 13. Qxd5 Qxd5 14. Nc7+ Kf7 15. Nxd5 {Weiß hat einen Bauern gewonnen. Ziel
+ist es nur, diesen im Endspiel umzusetzen.} Rc8 16. Rd1 {Aktive Figuren
+braucht man immer.} Nf6 17. Nc3 {Diesen Zug will ich an der Stelle nicht
+erklären, das ist schwerer zu verstehen. Ziel ist dass Schwarz weniger
+Gegenspiel hat.} Rhd8 18. Bg5 (18. Rxd8 Rxd8 {Weiß schenkt hier Schwarz die
+d-Linie}) 18... Ne4 $5 19. Nxe4 fxe4 20. Nd2 Bxb2 21. Rab1 Bd4 22. Nxe4 {nun
+ist Ziel: Figurentauschen.} b6 23. cxb6 Bxb6 24. Rxd8 {erster Turm} Nxd8 25.
+Rc1 {zweiter Turm} Ra8 {Weil weiß den Turm zentral aufgestellt hat, muss
+Schwarz entweder abtauschen oder seine Figuren wegbewegen.} (25... Rb8 26. Bf4)
+26. Nc5 Nc6 27. Nd7 Nd4 28. Nxb6 axb6 {Schwarz hat etwas Gegenspiel, aber die
+weißen Figuren sind aktiver} 29. Rc7 Rxa2 30. Rxe7+ Kg8 31. Kf1 {Weiß hat
+Läufer gegen Springer und 2 Freibauer gegen einen.} b5 32. Bf6 {gewinnt noch
+einen Bauern} Nc6 33. Rg7+ Kf8 34. Rxh7 b4 35. Rb7 Ra6 36. Bg7+ Kg8 37. Bb2 {
+[%cal Gb7g7] droht auch Tg7+} Ra2 38. Rb6 {tauscht mehr Figuren ab} Rxb2 39.
+Rxc6 Rb1+ 40. Kg2 Kf7 41. Rb6 b3 42. Kf3 {mit 2 Mehrbauern ist die Stellung
+nun einfach gewonnen.} b2 43. e4 Kg7 44. Kg4 Re1 45. Rxb2 Rxe4+ 46. f4 Re7 47.
+h4 Ra7 48. h5 *
+
+[Event "-ENDSPIEL-"]
+[Site "?"]
+[Round "?"]
+[White "Endspiel"]
+[Black "Umgang mit Materialnachteil"]
+[Result "*"]
+[Annotator "Schachtutor"]
+[SetUp "1"]
+[FEN "3r2k1/5bp1/p3np2/1p6/8/P3B1P1/1P3PBP/2R3K1 w - - 0 1"]
+[PlyCount "0"]
+
+{Schwarz hat schon Nachteil, er muss aufpassen, dass er nicht mehr Probleme
+oder Schwächen bekommt...}  *
+
+[Event "-ENDSPIEL-"]
+[Site "?"]
+[Round "?"]
+[White "Endspiel"]
+[Black "Umgang mit Materialnachteil"]
+[Result "*"]
+[Annotator "Schachtutor"]
+[SetUp "1"]
+[FEN "3r2k1/5bp1/4np2/8/8/4B1P1/5PBP/2R3K1 w - - 0 1"]
+[PlyCount "0"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Gegenspiel"]
+[Black "& Stellungsveränderung"]
+[Result "*"]
+[Annotator "Schachtutor"]
+[SetUp "1"]
+[FEN "r2r2k1/2q2pp1/p1n1p1p1/1pnpP3/5B2/P1P3P1/1P2QP1P/1B2RRK1 w - - 0 25"]
+[PlyCount "15"]
+
+{Partie Krassowizkij,J (2450) - Braun, G (2400), 2021.} 25. h4 {[%cal Gh4h5]
+Weiß geht auf Angriff. Kann Schwarz das verteidigen?} d4 $1 {Nein, aber er
+muss es auch nicht. Wenn er selbst angreift, ist das Verteidigung und
+Gewinnversuch in einem. Gegenspiel bedeutet selbst kontern statt passiv zu
+warten.} 26. cxd4 Nxd4 27. Qg4 Qb7 {Hier ist es schon unklar, wer überhaupt
+besser steht.} 28. Re3 Nf5 29. h5 $5 {Weiß opfert die Qualität, um Initiative
+aufzubauen.} Nxe3 30. Bxe3 {Nun hat sich die Stellung passiv verändert. Vorher
+war es ringen um Initiative, nun ist es Materialvorteil für Schwarz gegen
+Angriff für Weiß. Beide Seiten müssen nun ihre Pläne und Spielweise anpassen.}
+Nd3 31. hxg6 Nxe5 32. gxf7+ $36 *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Statischer Vorteil"]
+[Black "Beispiel 1"]
+[Result "*"]
+[Annotator "Schachtutor"]
+[SetUp "1"]
+[FEN "8/p3bp1p/1pkp4/4p3/2P1P3/2NK4/PP4PP/8 w - - 0 1"]
+[PlyCount "0"]
+
+{Musterbeispiel eines statischen Vorteils. Schwarz kann so viel Zeit haben wie
+er will, der weiße Vorteil bleibt für immer bestehen. Er kann nur passiv
+abwarten und hoffen, dass die Stellung zusammenhält. Er hat kaum Gegenspiel.} 
+*
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Statischer Vorteil"]
+[Black "Beispiel 2"]
+[Result "*"]
+[Annotator "Schachtutor"]
+[SetUp "1"]
+[FEN "r4rk1/ppp1nqb1/3p1p1p/3Pp1p1/2P1P1PP/2NQBP2/PP6/1KR4R w - - 0 1"]
+[PlyCount "0"]
+
+{Ähnliche Stellung, aber im Mittelspiel. Ergal wie viel Zeit Schwarz bekommt,
+er kann seine Stellung nicht verbessern. Deswegen "statischer" = dauerhafter
+Vorteil.}  *
+
+[Event "?"]
+[Site "?"]
+[Round "?"]
+[White "Dynamische Stellung"]
+[Black "& Vorteil"]
+[Result "*"]
+[Annotator "Schachtutor"]
+[SetUp "1"]
+[FEN "4rrk1/pbqn1ppp/1ppbp3/8/2PPQ3/1P1B1N2/PB3PPP/2R2RK1 b - - 0 14"]
+[PlyCount "8"]
+
+{Partie Krassowizkij, J (2250) - Hasenohr, B (2150), 2011} 14... f5 $1 15. Qe2
+{Im Gegensatz zum statischen kommt nun der dynamische Vorteil. Schwarz hat nun
+Initiative, diese ist aber nur kurzfristig.  Sollte Schwarz dem weißen Zeit
+für Tfe1 und Se5 geben, so würde Weiß sogar Vorteil haben. Er muss also nun
+schnell agieren und seinen dynamischen Vorteil in was greifbares = einen
+statischen Vorteil, z.B. Material, umwandeln.} c5 $1 (15... e5 $6 16. c5 $1
+bxc5 17. dxe5 $14 {Schwarz hat seinen Vorteil nicht umgesetzt und bleibt nur
+auf statischen Bauernschwächen zurück.} (17. Bc4+ $5 {Mit einem Bauernopfer
+soll sogar noch besser sein.} Kh8 18. dxc5 Nxc5 19. Ng5 $40)) 16. Ng5 $5 {
+Statt meinen Untergang abzuwarten habe ich mich entschlossen, die Stellung zu
+verkomplizieren. Insbesondere bin ich bereit h2 abzugeben, um Zeit für
+Gegenspiel zu bekommen. Mein Gegner kam nun nicht zurecht. Das ist die
+Schwierigkeit bei dynamischen Stellungen. Es ist alles beweglich und man kann
+einiges übersehen oder falsch einschätzen. Das Spiel läuft sehr rasant ab.}
+cxd4 17. Bxd4 e5 $6 {ist auf den ersten Blick komplett gewonnen, doch läuft in
+meine Falle rein.} 18. c5 $3 {[%cal Gd3c4] und nun übernimmt Weiß die
+Initiative. Weiß hat diese Partie später gewonnen.} *

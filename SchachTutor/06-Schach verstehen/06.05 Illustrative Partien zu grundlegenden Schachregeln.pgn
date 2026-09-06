@@ -1,0 +1,679 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Schlechte Eröffnungen"]
+[Black "Beispiel 1"]
+[Result "*"]
+[Annotator "SchachTutor"]
+[PlyCount "13"]
+
+1. e4 e5 2. Nf3 {Ich will hier zunächst einige sehr schlechte Spielweisen von
+Schwarz und den Gedankengang eines guten Schachspielers zeigen.} Nf6 {
+Russische Verteidigung. An dem Zug gibt es vorerst nichts auszusetzen.} (2...
+Bc5 $2 {Der Zug lässt e5 hängen... Das prüft man zuerst und wenn es keine
+klare Widerlegung gibt, dann spielt man das.} 3. Nxe5 Qh4 {Schwarz greift f2
+und e4 an. Aber Weiß hat schon einen Bauern mehr, daher ist es nicht schlimm
+ihn zurückzugeben.} (3... Qf6 {[%cal Rf6f2,Rf6e5,Yc5f2] trifft auf dasselbe.}
+4. d4 $18) 4. d4 {goldene Eröffnungsregeln: Zentrum} Qxe4+ 5. Be3 {deckt d4}
+Bb6 6. Nc3 $16 {Am Ende hat Weiß massiven Entwicklungsvorsprung und damit
+Vorteil.}) 3. Nxe5 Nc6 $6 {Ein schlechtes Gambit, das im Internet trotzdem
+einen gewissen Ruhm genießt.} (3... Nxe4 $2 4. Qe2 {ergibt Probleme wegen
+Abzugschach} Nf6 5. Nc6+ $18) (3... d6 4. Nf3 Nxe4 {aber hier hat Schwarz
+vollwertiges Spiel}) 4. Nxc6 dxc6 {Das größte Problem für Schwarz ist nicht
+nur der Mehrbauer von Weiß, sondern vor allem dessen starkes Zentrum. Jetzt
+muss Weiß die goldenen Eröffnungsregeln einhalten.} 5. d3 {Da Weiß d4 nicht
+hinbekommt, ist es das beste. Weiß hat volle Flexibilität und sein Bauer ist
+sicher gedeckt.} (5. Nc3 {ist nicht per se ein Fehler, jedoch macht Sc3 nur
+dann Sinn, wenn man d4 hinbekommen will. Dies wird aber nach Lc5 nicht möglich
+sein, daher ist d3 präziser, weil es mehr Optionen lässt.} Bc5 6. d3 $2 (6. Be2
+{verhindert Sg4, hat lediglich den Nachteil dass es den Bauern zurückgibt.} Qd4
+7. O-O Nxe4 $11 {Es ist damit ausgeglichen, aber Weiß verliert nicht.}) (6. h3
+$1 {Dieser Zug ist taktisch gerechtfertigt, da er konkret standhält, ich würde
+aber den "Fehler" bei 5. Sc3 sehen.} Qd4 7. Qf3) (6. Bc4 $2 {entwickelt den
+Läufer auf das beste Feld, aber dies ist sehr riskant, da Schwarz Initiative
+hat. Es ist einmal sicherer, passiver zu sein bis König in Sicherheit ist,
+aber auch konkret hat Weiß ein Problem.} Bxf2+ {Reicht als "Widerlegung" von
+Lc4.} (6... Ng4 {ist sogar noch besser} 7. O-O Qh4 $19) 7. Kxf2 Qd4+) 6... Ng4
+$17) (5. e5 {sollte nicht der erste Gedanke sein, obwohl es kein schlechter
+Zug ist. Weiß muss damit sein Zentrum etwas schwächen} Nd5 6. d4 $1 {aber
+immerhin bekommt er d4 hin. Den Bauern behält weiß.}) 5... Bc5 6. Be3 $5 {Wenn
+man einen Bauern mehr hat, sollte man abtauschen. Damit ist bereits das Gambit
+widerlegt, wenn auch objektiv das nicht der stärkste aller Züge ist.} (6. Be2 {
+ist technisch gesehen das beste, wonach Schwarz Probleme hat.} h5 {der letzte
+Trick für Schwarz} (6... O-O 7. O-O $16 {[%cal Gc2c3,Yc1e3]}) 7. c3 $1 {[%cal
+Gd3d4] Zentrum geht immer vor} Be6 8. d4 Bb6 9. Qc2 Qd7 10. Bg5 O-O-O 11. Nd2 {
+[%cal Ye1g1,Ye1c1] Weiß hat Eröffnungsregeln befolgt und steht gewonnen. Er
+kann auch lang rochieren.}) 6... Bxe3 7. fxe3 $14 {Man muss nicht immer den
+allerbesten Zug spielen. Manchmal reicht es, die einfachste gute Lösung zu
+wählen.} *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Schlechte Eröffnungen"]
+[Black "Beispiel 2"]
+[Result "*"]
+[Annotator "SchachTutor"]
+[PlyCount "14"]
+
+1. e4 e5 2. Qh5 {Dieser Zug widerspricht den goldenen Eröffnungsregeln: Er
+besetzt weder das Zentrum noch entwickelt er sinnvoll eine Figur.} Nc6 (2...
+Nf6 {obwohl das einen Bauern hergibt und natürlich nicht der beste Zug ist, so
+ist die schwarze Stellung sogar hier nicht schlechter!} 3. Qxe5+ Be7 $44 {
+Schwarz bekommt sehr viel Zeit für den Bauern.} 4. d3 d5 $1 5. exd5 O-O $15 {
+und plötzlich ist schwarz sogar besser.}) 3. Bc4 {Weiß hat lediglich eine
+Drohung, nicht mehr.} g6 (3... Nf6 $4 {aktive Züge prüfen} 4. Qxf7#) 4. Qf3 Nf6
+5. Qb3 $2 {Weiß setzt alles auf Angriff, hat aber noch keine Figur entwickelt
+und nur die Dame mehrfach gezogen.} (5. Ne2 Bg7 {[%cal Ge8g8,Yf7f5,Yg8h8] Lg7
+steht nicht ideal, aber insgesamt steht Schwarz besser. Einfach rochade und
+zum Königsflügel-Aufbau übergehen.}) 5... Nd4 {aktiver Zug, gewinnt sofort die
+Partie.} 6. Bxf7+ (6. Qd3 d5 $1 {Zentrum entscheidet.} 7. exd5 Bf5 {aktiver
+Zug, stärker als Sxd5} 8. Qc3 Nxc2+ $19) (6. Qc3 Nxe4) (6. Qe3 Nxc2+) 6... Ke7
+7. Qc4 b5 $19 {Weiß kann nicht Lf7 gedeckt halten.} *
+
+[Event "Schülerpartie"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Entwicklung"]
+[Black "Figurenharmonie im Mittelspiel"]
+[Result "*"]
+[Annotator "SchachTutor"]
+[PlyCount "10"]
+
+{Der folgende Partieausschnitt zeigt eine Partie mit etwa 1700 gegen 1400 Elo.
+} 1. c4 e6 2. g3 d5 3. cxd5 $6 {Weiß tauscht den c4-Bauern gegen den e6-Bauern.
+Das ist hier besonders ungünstig: Der Lc8 kann sich entwickeln, während der
+Lg2 ins Leere schaut.} (3. Bg2 {ist besser. Der Bauer hängt nicht} dxc4 4. Qa4+
+{Dass das Abspiel komisch wirkt liegt daran, dass es keine klassische
+Eröffnung (1. d4 oder 1.e4) ist, weshalb man hier komplexere Strategien
+spielen muss. Das ist auch der Grund, warum ich Anfängern nicht empfehlen will
+gleich diese Nebenvarianten nur mit dem Ziel zu spielen, den Gegner
+auszutricksen.}) 3... exd5 4. Bg2 Nf6 5. d4 Nc6 $2 {Bei d4-Eröffnungen sollte
+man (normalerweise) nicht Sc6 spielen und den c-Bauern verdecken. Konkret
+macht Sc6 hier auch gar nichts. D4 ist gut gedeckt, b4 muss nicht gedeckt
+werden und der Springer hat keine weitere Zukunft.} (5... b6 {[%cal Gc7c5] das
+wäre ein schlechter, aber besserer Plan, als Sc6...}) (5... c5 {wäre sonst
+Standard, würde hier aber zum Isolani für Schwarz führen.}) (5... c6 6. Nf3 Bf5
+7. Bf4 Nbd7 8. Nc3 Be7 9. O-O O-O $15 {Das wäre hier ein harmonischerer Aufbau
+und die beste Fortsetzung. Lf5 ist aktiv und Lg2 schaut in den d5 rein.}) *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Eröffnungsregeln verletzt"]
+[Black "Bauernjagd"]
+[Result "*"]
+[Annotator "SchachTutor"]
+[PlyCount "42"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Bb4 5. Bxc6 dxc6 6. Nxe5 $6 {Weiß sollte
+wissen, dass er damit keinen Bauern gewinnt. Dann macht Lxc6 und Sxe5 als Zug
+gar keinen Sinn.} Bxc3 7. bxc3 (7. dxc3 Qxd1+ 8. Kxd1 Nxe4 {ist minimal besser
+für Schwarz}) 7... Qe7 $5 (7... Nxe4 8. Qe2 {hielt Schwarz für unangenehm}) 8.
+d4 Nxe4 {[%cal Re4c3] Nun muss Weiß eine unangenehme Entscheidung treffen. Wie
+soll er c3 decken? Was sagen Eröffnungsregeln dazu?} 9. Qd3 (9. c4 {Zentrum,
+aber es gibt eine unangenehme Gegenantwort.} Qb4+) (9. O-O $3 {Eröffnungsregeln
+röffnungsregeln röffnungsregeln würden nichts von Bauern verteidigen sagen,
+und das ist tatsächlich der beste Zug hier!} Nxc3 $140 10. Qf3 {[%cal Rc1a3,
+Rc2c4,Rf1e1] für den Bauern bekommt Weiß einen mächtigen Angriff.} Nd5 11. Re1
+O-O 12. Ba3 {Mit Materialvorteil.}) 9... Bf5 10. Qe3 $2 {In Eröffnung Figur 2
+mal bewegen ist falsch. Die Strafe kommt sofort.} (10. O-O {Es gibt keinen
+gefährlichen Abzug hier.} Nxf2 (10... Ng3 11. Qxg3) 11. Qxf5) 10... f6 11. Nc4
+Nxc3 {Schwarz hat Bauern mehr.} 12. Qxe7+ Kxe7 13. Bb2 Nd5 14. O-O $2 {und
+Weiß stellt auch noch den nächsten Bauern ein.} Bxc2 {Jetzt muss Schwarz nur
+noch Figuren ins Endspiel tauschen} 15. Rfe1+ Kd7 16. Rac1 Bg6 17. Ne3 Rhe8 {
+Figurentausch} 18. Nxd5 Rxe1+ 19. Rxe1 cxd5 20. Ba3 Re8 {Figurentausch} 21. Rb1
+$2 Bxb1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Eröffnungsregeln verletzt"]
+[Black "Entwicklung nicht befolgt"]
+[Result "*"]
+[Annotator "SchachTutor"]
+[PlyCount "39"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 {Schwarz kann hier sowohl Sxe4 als auch exd4 spielen,
+er muss aber die Eröffnungsregeln einhalten.} exd4 (3... Nxe4 4. Bd3 d5 $11) 4.
+e5 Ng4 $6 {das ist abseits vom Zentrum} (4... Ne4 5. Qxd4 d5 $1 6. exd6 Nxd6
+$14) 5. Qxd4 Nh6 $4 (5... d6 {wäre noch eine Chance auf Rettung}) 6. Bxh6 gxh6
+7. Nc3 {nun hat Schwarz die Eröffnungsregeln verletzt und steht sehr schlecht.}
+Nc6 8. Qe4 d6 $2 {zu spät} 9. exd6+ Be6 10. Bb5 cxd6 11. Nd4 Be7 12. Nxc6 bxc6
+13. Bxc6+ Kf8 14. Bxa8 d5 15. Bxd5 Bxd5 16. Nxd5 Qa5+ 17. b4 Bxb4+ 18. Qxb4+
+Qxb4+ 19. Nxb4 Rg8 20. O-O *
+
+[Event "Pokalpartie"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Eröffnungsregeln verletzt"]
+[Black "1.d4 Bauernklammern"]
+[Result "*"]
+[Annotator "SchachTutor"]
+[PlyCount "39"]
+
+{Das folgende Beispiel stammt aus einer klassischen Pokalpartie: etwa 1400 Elo
+gegen mich mit damals etwa 2300 Elo.} 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 dxc4
+5. Bg2 c6 {Schwarz will damit sagen, dass er um jeden Preis den Bauern c4
+behalten will. Das ist riskant, man kann das aber machen. Jedoch mit Vorsicht
+und wenn es zu viel ist, den Bauern notfalls zurückgeben.} 6. a4 {Dieser Zug
+ist nur dafür da, b5 rauszunehmen.} Bb4+ (6... b5 $6 7. Ne5 {[%cal Rg2a8,Ga4b5]
+} Bb7 $4 8. axb5 cxb5 9. Bxb7) 7. Bd2 Qa5 $2 {dieser Zug widerspricht den
+Eröffnungsregeln...} (7... c5 {wie man auf den Zug kommt? Wenn man den
+Damenflügelaufbau kennt, ist es einfach. Dass Schwarz ein Tempo verloren hat
+spielt keine Rolle, da Weiß selbst a4 gemacht hat.}) (7... a5 {das wäre das
+"beste", aber hierbei würde Schwarz den Bauern zurückgeben müssen.} 8. Qc2 O-O
+9. Qxc4) 8. O-O b5 {Schwarz spielt nur auf den Bauern, aber Bauer wird erst im
+Endspiel relevant.} 9. Ne5 Bb7 10. Bxb4 Qxb4 11. axb5 {Da Schwarz nicht cxb5
+spielen kann, geht der Mehrbauer c4 bereits verloren.} Qxb2 {gewinnt einen
+unwichtigen Bauern, gibt Weiß noch mehr Zeit} 12. Na3 {[%cal Ya3c4]} Nd5 13.
+Naxc4 Qb4 (13... Qxb5 $2 14. Nd6+) 14. Rb1 Qe7 15. bxc6 {Das traurige Ergebnis
+ist, Schwarz hat nicht einmal den Bauern behalten aber so viel Zeit verloren,
+dass es taktisch auseinander bricht. Hätte Schwarz wenigstens Rochade noch
+gehabt...} Bxc6 (15... Nxc6 16. Rxb7 Qxb7 17. Nd6+) 16. Rxb8+ ({alternativer
+Gewinnweg} 16. Nxc6 Nxc6 17. Qa4 Qd7 18. Bxd5 exd5 19. Nb6 $18) 16... Rxb8 17.
+Nxc6 Qc7 18. Nxb8 Qxc4 19. Bxd5 Qxd5 20. Qa4+ {Schwarz gab auf.} *
+
+[Event "Schweizer Jugendmeisterschaft U12"]
+[White "Gambit"]
+[Black "Eröffnungsvorbereitung"]
+[Result "*"]
+[WhiteElo "1700"]
+[BlackElo "1550"]
+[Annotator "SchachTutor"]
+[PlyCount "41"]
+
+1. e4 e6 2. d4 d5 3. Bd3 {Dies ist eine Abseitsvariante. Ich würde sie sonst nicht
+dauerhaft empfehlen, hier waren die Umstände passend. Der Vorteil ist, es ist
+schnell zu erlernen.} (3. exd5 {Das hatte mein damaliger Schüler zuvor
+gespielt. Wie viele Anfänger hatte er noch nicht gegen jede Variante eine
+feste Waffe. Für die Schweizer Meisterschaft reichte das jedoch nicht, um
+gegen 1500 Elo einen Vorteil zu erzielen.}) 3... c5 {Der Zug war
+vorbereitet} ({auch angeschaut} 3... Nf6) (3... dxe4) 4. exd5 Qxd5 (4... exd5 {macht zwar einen
+schwachen Bauern, wäre aber klar besser als Dame mehrmals zu ziehen.}) 5. Nc3
+$1 {Mein damaliger Schüler hatte verständlicherweise zunächst große Bedenken,
+den Bauern zu opfern. Die Computerbewertung von etwa +1,5 überzeugte ihn aber.
+Wir hatten die wichtigsten Angriffsideen vorbereitet, insbesondere den Aufbau
+mit langer Rochade.} Qxd4 {Schwarz nimmt das Opfer an. Alternativ würde er ohne
+Kompensation schlechter stehen.} 6. Nb5 Qd7 7. Bf4 Na6 {erzwungen} 8. Qe2 {mit langer
+Rochade. Das war die ganze Idee.} Ne7 $4 (8... Nf6
+9. O-O-O {viel aktives Spiel für den Bauern}) 9. Nd6+ {aktive Züge} Kd8 10. Nxf7+ Ke8 11. Nxh8 {Mit Turm mehr ist die Stellung gewonnen.} g6 12.
+O-O-O Nc6 13. Bxg6+ {Nochmal Taktik.} Kd8
+14. Nf7+ Ke8 15. Rxd7 Bxd7 16. Nd6+ Kd8 17. Bxh7 Nd4 18. Qe5 Nc7 19. Nxb7+ Ke8 20. Bg6+ Ke7
+21. Bg5# *
+
+[Event "Württembergische JEM U10"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Partie nach Regeln"]
+[Black "?"]
+[Result "*"]
+[Annotator "SchachTutor"]
+[PlyCount "97"]
+
+{Das folgende Partiebeispiel zeigt eine Partie mit etwa 1200 gegen 1450 Elo.} 
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O a6 7. a4 Ba7 8. Re1 h6
+9. Nbd2 O-O 10. Nf1 Re8 {Ich hatte meinen damaligen Schüler mit Schwarz auf
+diese Partie vorbereitet. Bis hierhin setzt er unseren Plan um, während auch
+Weiß seine Eröffnung sehr schnell spielt.} 11. h3 Be6 12. Ba2 {Ab nun musste
+Schwarz selbstständig spielen. Wendet ab hier bitte die Mittelspielregeln an.}
+Bxa2 13. Rxa2 d5 $1 {[%csl Gd5,Ge5] Schwarz hat die Grundstrategie der
+e5-Eröffnungen durchbekommen.} 14. Qc2 d4 (14... Qd7 {[%cal Ga8d8] Das wäre
+mein Zug in der Stellung. Figuren verbessern. Schwarz steht nicht besser, aber
+es ist leichter mit Schwarz gute Züge zu spielen.}) 15. Ng3 Qd7 16. Nf5 Rad8 {
+Schwarz hat alle Figuren aktiviert, während Weiß seinen Springerplan umgesetzt
+hat.} 17. Rd1 $2 dxc3 {Das ist etwas, was ich hier zeigen wollte. Schwarz hat
+nicht von alleine gewonnen, aber er hat alle Figuren aktiv aufgestellt und
+dann ergeben sich solche Abspiele. Schwarz konnte das nicht vorhersagen, aber
+muss es lediglich finden, wenn es da ist.} 18. bxc3 Nxe4 {Schwarz hat Bauern
+gewonnen. Ab nun versucht er Figuren zu tauschen, indem er sie aktiv stellt.}
+19. Ne3 Bxe3 20. Bxe3 Nf6 21. Raa1 Re6 {[%cal Ge6d6]} 22. Bc5 b6 23. Ba3 Qd5
+24. Nd2 $2 {Weiß stellt den nächsten Bauern ein.} Qxd3 25. Qb2 Qe2 26. Qc2 Ne4
+$5 {Schwarz findet eine Abtauschtaktik} (26... e4 {[%cal Ge4e3] Weiß kann aber
+die Fesselung nicht loswerden, wäre daher nicht notwendig.}) 27. Qxe4 Rxd2 28.
+Qxe2 Rxe2 29. Rd7 Rc2 30. Rxc7 Rxc3 {Nun haben wir ein Endspiel mit 2
+Mehrbauern. Technisch ist die Stellung gewonnen.} 31. Bc1 Nd4 $5 {noch ein
+Abtausch} 32. Rxc3 Ne2+ 33. Kf1 Nxc3 34. Be3 Rd6 35. f3 Kf8 $2 {einen einzigen
+Fehler macht Schwarz und übersieht eine Taktik} 36. a5 $1 $132 {jetzt gibt es
+Probleme} Nd5 (36... b5 37. Bc5 {das ist die Pointe}) 37. Bf2 Rc6 {Hier lässt
+Schwarz eine weitere, allerdings schwer zu erkennende taktische Möglichkeit zu.
+} 38. axb6 ({eine tiefere Taktik in der Stellung wäre} 38. Rd1 $1 {welche
+sogar einen Vorteil ergibt.} Nc3 39. axb6 $3 Nxd1 40. b7) 38... Nxb6 39. Rxa6
+Rc1+ 40. Ke2 Nd5 $15 {Schwarz hat zwar einen Bauern mehr, aber objektiv ist es
+zu halten weil alle Bauern auf einem Flügel sind.} 41. Kd2 Nb4 $4 {Schwarz
+verfolgt die raffinierte Idee Tc2 und Sxa6, übersieht dabei aber eine
+unmittelbare Taktik:} 42. Ra8+ Ke7 43. Bh4+ g5 44. Bxg5+ hxg5 45. Kxc1 {Weiß
+hat nun eine technisch gewonnene Stellung und hat es verwertet.} Nd3+ 46. Kd2
+Nc5 47. Ke3 Kf6 48. Rc8 Ne6 49. Ke4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Partie nach Regeln"]
+[Black "Eröffnungsvorteil bis Endspiel"]
+[Result "*"]
+[Annotator "SchachTutor"]
+[PlyCount "34"]
+
+{Die folgende Onlinepartie zeigt, wie eine korrekt gespielte Partie zwischen
+starken Spielern verlaufen kann. Ich spielte mit Weiß.} 1. e4 c5 2. Nf3 d6 3.
+d4 cxd4 4. Nxd4 Nc6 5. Nc3 Nf6 6. Bg5 {soweit ist es Theorie, also die
+meistgespielten Züge} h6 $6 (6... e6 {ist die "richtige" Fortsetzung. Nur wenn
+ihr euch fragt, wo der "Fehler" von Schwarz war.}) 7. Bxf6 gxf6 {Nun unsere
+Regeln: zuerst aktive Züge. Dort gibt es nichts. Dann Eröffnungsregeln. Es
+kommt die Entwicklung. Läufer ist am besten auf b5 platziert.} 8. Bb5 (8. Bc4
+e6 {Lc4 schaut ins nichts hier.}) 8... Bd7 9. O-O {Weiß hat Eröffnungsregeln
+befolgt.} Qb6 {Zuerst kommen aktive Züge, und dazu gehört Sd5} 10. Nd5 $5 (10.
+Nf5 {der Computer sagt z.B. zurecht, dass der Zug noch stärker ist, aber dafür
+muss man Stellungsverständnis haben. Sd5 ist nur der zweitbeste Zug, aber
+dafür einfacher zu sehen.}) 10... Qxd4 11. Bxc6 {Zwischenzug} (11. Nc7+ Kd8 12.
+Nxa8 Qxd1 13. Rfxd1 Kc8 {Sa8 geht gefangen.}) 11... Qxd1 (11... Bxc6 12. Qxd4)
+12. Bxd7+ Kxd7 13. Rfxd1 {Durch die Abwicklung hat Weiß kein Material gewonnen,
+jedoch wurde es ins Endspiel abgewickelt. Schwarz hat dabei das Läuferpaar
+verloren, und bleibt auf den schwachen Bauern sitzen.} Bg7 14. c3 {als
+nächstes befestigt Weiß seine Stellung. Man nennt es konsolidieren.} e6 15. Ne3
+Rac8 16. Rd3 Ke7 17. Rad1 Rhd8 $16 {[%cal Gg1f1,Gc3c4,Gb2b3,Gf1e2] Nun hat
+Weiß einen statischen langfristigen Vorteil. Das Spiel verläuft nun sehr
+langsam und es liegt an Weiß seine Technik zu zeigen. Im Detail wird das
+richtige Spiel ab Teil 20 behandelt, aber z.B. wären sinnvolle Regeln nun:
+König aktivieren, Bauern auf Weiß wegen schwarzfeldigen Läufer, wenn möglich
+Türme tauschen usw.} *
+
+[Event "Schülerpartie"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Spiel gegen positionellen Druc"]
+[Black "Schwächen und Gegenspiel"]
+[Result "*"]
+[WhiteElo "1300"]
+[BlackElo "1300"]
+[Annotator "SchachTutor"]
+[PlyCount "90"]
+
+{Die folgende Partie spielen zwei Spieler mit etwa 1300 Elo. Schwarz wurde von
+meinem damaligen Schüler gespielt.} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5.
+d4 exd4 6. e5 {Bis hierhin spielt Weiß die Eröffnung sehr schnell; vermutlich
+war die Variante vorbereitet.} d5 $1 {Ein essenzieller Zug, sonst steht
+Schwarz verloren.} 7. Bb5 Ne4 8. cxd4 Bb4+ (8... Bb6 {sagt die Theorie ist
+präziser, aber das gehört mehr in den Bereich von Eröffnungstheorie. Objektiv
+ist Lb6 nicht besser, aber praktisch ist es leichter und sinnvoller Lb6 zu
+spielen.} 9. Be3 (9. Bxc6+ bxc6 {Doppelbauer ist nicht schlimm wegen c5 und
+La6 droht auch.}) 9... O-O 10. Nc3 Bg4 $132) 9. Bd2 Nxd2 10. Nbxd2 {Nun
+beginnt erst das richtige Spiel, da erst ab hier beide Spieler selbstständig
+denken.} (10. Bxc6+ {wenn man mit Weiß auf den Doppelbauern bestehen will, so
+kann Schwarz sich retten.} bxc6 11. Nbxd2 c5 $132 (11... Ba6 {[%cal Ra6f1] ist
+auch ein Argument, wobei man hier aktive Züge des Weißen beachten muss.} 12.
+Qa4 Bxd2+ 13. Nxd2 Bb5 $13 {[%cal Gb8b1] für den Doppelbauern muss Weiß mit
+unsicheren König spielen.})) 10... Bg4 $6 {[%cal Rb5c6] Es ist noch Eröffnung,
+ich würde hier aber schon im Mittelspielsinne denken. Lg4 ist zwar aktiv als
+Zug, aber passt einerseits nicht positionell zu der Stellung. Außerdem, noch
+wichtiger, wenn man aktive Züge prüft} (10... Bd7 {vermeidet Doppelbauern und
+ist das einfachste. Es droht sogar Abzug} 11. O-O $2 Nxe5 $1) (10... O-O {
+lässt Flexibilität. z.B. können wir nun Se7 spielen oder nach schlagen La6} 11.
+O-O (11. Bxc6 bxc6 12. O-O (12. Rc1 Ba6 $5 {nun kann Weiß gar nicht rochieren.}
+) 12... c5 $132) 11... Ne7 $5 {Springer steht ohnehin schlecht auf c6} 12. a3
+Ba5 13. b4 Bb6 14. Rc1 c6 15. Bd3 Bg4 $11) 11. Bxc6+ bxc6 {ist c6 nun extrem
+schwach...} 12. Qa4 (12. Rc1 {Ist nicht weniger ein Grund 10. ... Lg4 als
+Fehler zu bezeichnen. Wenn auch das beim richtigen Spiel Schwarz nicht
+umbringt, so gibt es gewisse Probleme} Qd7 13. Qc2 {c6 geht verloren. Es ist
+nur so, dass Schwarz den Bauern opfern kann} Bxf3 14. gxf3 O-O 15. Qxc6 $140
+Qh3 $13 16. Qxd5 (16. Qxc7 $4 Rac8) 16... Rad8 $44 {Doch diese Variante ist
+für mich als IM klar, und für einen Anfänger sollte rotes Licht mit "Probleme"
+bei Tc1 aufkommen.}) 12... Bxd2+ 13. Nxd2 Bd7 14. Qa3 {Nun hat Schwarz einen
+schlechten Läufer und schwache Bauern.} Qg5 $1 {[%cal Rg5g2] Schwarz geht auf
+Gegenspiel. Das ist generell gut.} (14... Qe7 15. Qxe7+ Kxe7 16. Nb3 $16 {wäre
+ein sehr schlechtes Endspiel für Schwarz. Das ist der Wunsch des Weißen.}) 15.
+Nf3 (15. O-O $2 Qxd2) (15. Qg3 $1 {Weiß müsste eher auf Damentausch so
+bestehen und kein Gegenspiel zulassen.} Qh6 16. Nb3 O-O 17. O-O {positionell
+ist die Stellung ein Desaster für Schwarz.}) 15... Qg6 $4 (15... Qxg2 {Es ist
+natürlich kein Bauerngewinn, aber Schwarz muss was machen. In einem langsamen
+Spiel verliert er kampflos.} 16. Rg1 Qh3 17. Rxg7 Bg4 {Wenn Schwarz dem weißen
+Probleme macht, könnte er sogar glatt gewinnen...} 18. Nd2 ({und hier kommt es
+dann drauf an, ob Weiß den Zug findet oder nicht. Aus schwarzer Sicht ist es
+dennoch praktisch die beste Chance. Man kann nicht vorhersagen, ob solche
+Einschläge existieren oder nicht.} 18. Rxf7 $3 Kxf7 19. Ng5+ $18) 18... Qxa3
+19. bxa3 $132 {Hier spielt es sich deutlich besser als in der Partie.}) 16. O-O
+Bg4 17. Nd2 {Schwarz hat kein Gegenspiel und verliert nach und nach die Partie.
+} Qe6 18. Rac1 Be2 19. Rfe1 Bb5 20. Qa5 Qd7 21. a4 Bd3 22. Re3 Bg6 23. Rec3 Rb8
+24. Rxc6 O-O 25. Rxc7 Qg4 26. Qxd5 Rxb2 {jetzt kommt endlich das Gegenspiel,
+aber viel zu spät.} 27. h3 Qe2 28. Rc8 $1 {guter Zug von Weiß} Rb8 (28... Rxd2
+29. Rxf8+ Kxf8 30. Qd8#) 29. Rxf8+ Rxf8 30. Nb3 Be4 31. Qd7 Qb2 32. Rc8 {noch
+mehr Abtausch} Qa3 33. Rxf8+ Qxf8 34. Nc5 {Figuren aktivieren. Lässt die Df8
+nicht raus.} Bc2 35. Qxa7 h6 36. a5 Qd8 37. Nd7 Ba4 38. Qb8 {finaler Abtausch}
+Qxb8 39. Nxb8 {ohne Damen ist es chancenlos.} Kf8 40. a6 Bb3 41. a7 Bd5 42.
+Nd7+ Ke7 43. Nb6 Bb7 44. a8=Q Bxa8 45. Nxa8 Kd7 *
+
+[Event "Schweizer Jugendmeisterschaft U12"]
+[White "Eröffnungsstrategie"]
+[Black "und Strategiewechsel"]
+[Result "*"]
+[WhiteElo "1700"]
+[BlackElo "1500"]
+[Annotator "SchachTutor"]
+[PlyCount "144"]
+
+{Die folgende Partie spielte mein damaliger Schüler mit etwa 1700 Elo gegen
+einen Spieler mit etwa 1500 Elo.} 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. g3 {Diesen
+Zug hatte ich meinem damaligen Schüler für die Partie empfohlen, um Schwarz zu
+überraschen. Schwarz reagiert jedoch gut, und der Zug wird schließlich für
+Weiß selbst zum Problem.} Bc5 (4... d5 $1
+{ist die andere gute Fortsetzung} 5. exd5 Nxd5 6. Bg2 Nxc3 7. bxc3 {beide
+haben Zentrum.}) 5. Bg2 d6 6. O-O O-O 7.
+d3 {Schwarz hat nun den aktiven Lc5 gegen einen
+sehr schlechten Lg2. Die weiße Idee ist es aber f4 vorzubereiten und auf den
+Königsflügelaufbau zu gehen. Das war der Grund Lg2 zu spielen.} Bg4 (7... a6 {Wenn man die Theorie kennt, wovon ich garantiert
+ausgegangen bin, dass Schwarz es nicht tut in dieser Variante, dann sollte er
+a6 spielen um Lc5 zu schützen vor Sa4.} 8. h3 Be6 9. Kh2 h6 10. Nh4 {so etwa
+geht die Partie weiter. Die ganze Hoffnung ist, Schwarz spielt kein d5, dann
+gewinnt Weiß strategisch nach f4} d5 $1 {wenn Schwarz aber d5 kennt und spielt,
+so hat die Weiße Idee mit Lg2 gar keinen Wert.}) 8. h3 Be6 9. Na4 Bb6 10. Nxb6 axb6 {Weiß steht nun tatsächlich besser, weil Läufer hier etwas
+stärker als der Springer ist. Um das umzusetzen sollte er aber die richtige
+Strategie wählen. Diese wäre es, d4 zu spielen.} 11. Ng5 {Weiß besteht auf f4 als Plan, aber dann ist einmal Springer nicht
+schlechter als der Läufer und zum anderen ist Spiel am Flügel schlechter als
+Spiel im Zentrum.} (11. Re1 $1 Re8 (11... d5 {geht nicht} 12. exd5 Nxd5 13.
+Nxe5) 12. d4 $1 exd4 13. Nxd4 Nxd4 14. Qxd4 {Weiß hat d4 hinbekommen und wegen
+Läuferpaar kleiner Vorteil.} Rxa2 $2 15. Rxa2 Bxa2 16. b3 {[%csl Ra2] Läufer
+ist gefangen.}) 11... Qd7 12. f4 Qe7 {Schwarz hat einfach Zeit
+verloren.} 13. f5 {Weiß besteht auf seinem Plan aus
+dem 4. Zug. Aber in geschlossenen Stellungen sind Läufer nicht gut.} (13. Nxe6 {hätte ich hier gemacht.} Qxe6 14. a3 {und nun Stellung eher öffnen und
+Läuferpaar ausnutzen.}) 13... Bd7 14. c4 $6 {Dieser Zug ist richtig schlecht, obwohl ich den
+Weißen loben muss. Er hat gesehen, dass Schwarz d5 spielen kann und wollte es
+so prophylaktisch verhindern. Das Verständnis ist da, aber c4 macht die
+Stellung insgesamt schlechter.} (14. g4 {und weiter mit Angriff wäre besser.
+d5 droht zumindest nicht sofort.}) 14... Nd4 {schwaches Feld, Vorposten für den Springer.} 15. Be3 c5 $6 16. g4 (16. a4 $1 $16 {wenn man schon mit Prophylaxe
+anfängt, so wäre das ein großmeisterlicher Zug. Hier kann Schwarz sich
+tatsächlich nicht mehr befreien, da der einzige Zug b5 aus der Stellung
+genommen wird. Nun kann Weiß gedankenlos am Königsflügel spielen.}) 16... h6 17. Bxd4 $2 {Nun
+tauscht Weiß seinen guten Läufer ab. Dieser ist stärker als der Sg5, den er
+retten wollte.} cxd4 18. Nf3 b5 {jetzt kommt das schwarze Gegenspiel.
+Er ist viel schneller als Weiß am Königsflügel} 19. b3 $6 Bc6 $6 20.
+Nd2 $6 Nd7 21. Qf3 Qg5 {nun kommt das Ende, statt Angriff sind es nur Löcher am
+Königsflügel. Lg2 ist dabei seit Zug 4 schlecht.} 22. cxb5 Qxd2 23. bxc6 bxc6 {Dies ist nun eine mustergültige
+Stellung für den schlechten Läufer. Ich lasse nur stehen, dass Weiß es noch
+mit Glück gehalten hat, es war aber ein einseitiges Endspiel für Schwarz ab
+dieser Stellung. Ab hier folgt die Partie ohne weitere Kommentare.} 24. Rfd1 Qb4 25. h4 f6 26. Qe2 Nc5 27. Rdc1 Qb5 28. Rd1 Ra5 29. Qd2 Na6 30. a4 Qb4 31. Qxb4 Nxb4 32. Rac1 Rc8 33. Rc4 Na2 34. Ra1 Nc3 35. b4 Rxa4 36. Rxa4 Nxa4 37. b5 Nb6 38. Rxc6 Rxc6 39. bxc6 Kf7 40. Bf3 Ke7 41. Bd1 Kd8 42. Bb3 Kc7 43. Bd5 Nc8 44. Be6 Na7 45. Kg2 Nxc6 46. Kg3 Nb4 47. Bc4 Kc6 48. g5 h5 49. gxf6 gxf6 50. Kf3 Kc7 51. Ke2 Kd7 52. Bf7 Ke7 53. Bxh5 d5 54. Bf3 dxe4 55. dxe4 Kf8 56. Kd2 Kg7 57. Ke2 Kh6 58. Kd2 Kg7 59. Be2 Kh6 60. Kc1 Kg7 61. Kb2 Nc6 62. Kb3 Ne7 63. Kc4 Kf7 64. Kc5 Nc8 65. Kc6 Ne7+ 66. Kd6 Ng8 67. Kd7 Kf8 68. Ke6 Kg7 69. h5 Nh6 70. Ke7 Ng8+ 71. Ke8 Nh6 72. Bf3 Ng8 *
+
+[Event "DEM U10"]
+[White "Kleine Fehler"]
+[Black "große Wirkung"]
+[Result "*"]
+[WhiteElo "1550"]
+[BlackElo "1750"]
+[Annotator "SchachTutor"]
+[PlyCount "64"]
+
+{Die Partie stammt aus der DEM U10. Sie zeigt, wie man auch einen späteren
+Vizemeister mit einfachen Gedanken in Bedrängnis bringen kann.} 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. h3 {Dieser
+Zug entspricht nicht den Eröffnungsregeln, ist aber ein starker Zug. Seine
+Idee ist es, Lc8 keine Felder zu geben.} (5. c3 Bg4 {sonst entwickelt er sich
+über g4, bevor Schwarz e6 spielt.}) 5... Nc6 6. c3 e5 $5 {Das war immer noch Vorbereitung des Schwarzen.
+Er kannte hier selbst diese Nebenvariante. Schwarz akzeptiert einen isolierten
+d5-Bauern dafür, dass Lc8 nicht schlecht sein wird.} 7. dxe5
+Nxe5 8. Nf3 Nxd3+ 9. Qxd3 Bd6 {Bis hierhin haben beide Seiten geblitzt
+und hier erst fängt der eigentliche Kampf an. Wir prüfen das auf unsere Regeln.} 10. Bg5 {Entwickelt den Läufer und greift indirekt d5 an.
+Guter Zug.} O-O 11. O-O (11. Bxf6 Qxf6 12.
+Qxd5 Re8+ {gewinnt den Bauern, ist es aber nicht wert.}) 11... Bc7 $5 {Schwarz bietet d5 an. Sollen wir es nehmen?} 12. Nbd2 (
+12. Bxf6 Qxf6 13. Qxd5 Rd8 $44 {könnte unangenehm sein, u. a. droht auch Lxh3..
+.}) 12... h6 13. Bxf6 Qxf6 {Chance Nummer 2: jetzt den Bauern nehmen?} 14. Qxd5 (14. Nd4 {Obwohl das kein schlechter Zug ist, ist Weiß nicht gezwungen, den Bauern zu
+nehmen. Die Springer stehen gut und Schwarz droht nichts. Der Bauer macht die
+Stellung geschlossener und gibt Schwarz keine offenen Linien und Diagonalen
+für die Figuren.} Re8 15. Rfe1 Bd7 16. N2f3 (16. Nf1 $5 {[%cal Gf1e3]})) 14...
+Rd8 15. Qe4 Be6 {Schwarz hat
+den Bauern geopfert und spielt aktiv. Was sollte weiß tun? Abtauschen ja, will
+aber Schwarz nicht zulassen.} 16. Nd4 (16. Qxb7 {ist möglich,
+aber Weiß hat sich dagegen entschieden. Aus praktischer Sicht gut, da ein
+Bauer genug Vorteil ist, dann erstmal schauen dass man nicht verliert.}) (16.
+Rfe1 {ist auch gut, zum einen aktiviert es eine Figur, zum anderen} Bd5 17. Qe7
+) 16... Bd5 17. Qg4 Qd6 18.
+N2f3 {Bisher läuft alles super für Weiß, Figuren aktiviert,
+Bauern behalten.} a6 {Schwarz verhindert Sb5 mit Abtausch} 19.
+Nf5 $2 {Die Drohung ist stark, der Zug ist aber nur gut, wenn
+Weiß damit etwas gewinnt. Das tut er aber nicht, wenn man die Variante
+berechnet. Ergo ist der Zug positionell zu bewerten und Sf5 steht
+ungesicherter und schlechter auf f5 als auf d4. Also anders gesagt, Sf5 muss
+man nur spielen, wenn es dem Plan passt. Dies tut es nicht.} ({Stattdessen,
+wenn Weiß keinen Plan hat, war die Notfalloption Figuren zu aktivieren. Jetzt
+ist nun Sf5 eine Drohung, weil es Figuren abtauscht.} 19. Rfe1 $14 {[%cal
+Yd4f5,Yf5e7]}) 19... Qf6 20. Rfe1 $2 {Regelbruch Nummer 2. Man muss aktive Züge des Gegners beachten.} (20. N5d4 {Verliert ein Tempo, aber der statische Vorteil (Bauer mehr) bleibt. Das wäre
+die beste Entscheidung. Wichtig beim Schach: Man muss nicht die Züge bewerten,
+sondern die Endstellung. Obwohl Sf5 ein Fehler war, steht Weiß trotzdem gut.})
+20... Be6 21. N3d4 {Weiß hat hier 20 min
+nachgedacht, also war Le6 klar übersehen und nicht lediglich falsch
+eingeschätzt. Jetzt hat er keine andere Wahl.} Rxd4 $1 22.
+Nxh6+ {Weiß nimmt noch einen Bauern wenigstens mit.} (22. Rxe6
+$5 {Muss man auch berechnen. Hier kann ich nicht sagen, ob Weiß den Zug
+verworfen hat, oder gar nicht in Betracht gezogen hat. Die Variante korrekt zu
+berechnen in einer klassischen Partie würde ich aber auf Niveau mindestens
+2000 Elo schätzen.} Rxg4 (22... Qxe6 23. Qxg7#) (22... fxe6 23. Nxd4) 23. Rxf6
+Re4 $1 {Weiß hat nun komischerweise keine Felder für den Turm. Diesen
+"stillen" Zug zu sehen, und zu merken dass Tf6 gefangen ist, ist sehr schwer.
+Daher ist er nun gezwungen zu} (23... Rf4 $2 24. Ne7+ Kf8 25. Rxf4 Bxf4 26. Nd5
+{Mehrbauer im Endspiel}) 24. Nxh6+ (24. Nd6 Re2 25. Rxf7 (25. Nxf7 gxf6) 25...
+Bxd6) 24... gxh6 25. Rxh6 {technisch gesehen hat Weiß 3 Bauern für den Läufer,
+daher materiell sieht es ok aus. Das Problem ist aber in diesem Endspiel sind
+die schwarzen Türme aktiver und daher ist es großer Vorteil für Schwarz. Das
+richtige Einschätzen (besonders eine Blindstellung, wo man keine Züge schnell
+prüfen kann) ist aber eine Sache, die man erst mit Stärke bekommt.} Re2 26. b3
+Rd8 {Nur ein Beispiel, es ist aber mehr über die Einschätzung der Stellung als
+um die konkrete Variante} 27. a4 Rd3 28. Rc1 Bf4) 22... Qxh6
+23. Qxd4 Rd8 24. Qe4 {Materiell ist die Stellung sogar fast ok, wenn er zum Endspiel kommen könnte.
+Schwarz aber, dafür muss man ihn loben, geht auf Angriff statt Bauern zu
+decken.} Qg5 $1 {Ausrufezeichen nicht dafür, dass es der beste
+Zug ist, sondern weil Schwarz die richtige Strategie befolgt.} (24... b5 25.
+Rad1 {Gibt Weiß gute Rettungschancen. Im reinen Endspiel könnte man sogar auf
+Sieg spielen.} Rxd1 26. Rxd1 Bxa2 {Schwarz hat einen Bauern gewonnen, Weiß hat
+aber Gegenspiel. z.B.} 27. Qe7 $132 Bb6 28. Qd6 {Und weiß tauscht Damen ab.} a5
+29. Qxh6 gxh6 30. Rd7 $11 {Weiß wird am Damenflügel mit Erfolg Bauern tauschen.}) 25. Kh1 (25. Rad1 $5 {Das ist wieder etwas, was nur ein
+starker Spieler korrekt Einschätzen kann. Der Angriff ist so gefährlich, dass
+Weiß lieber einen Bauern opfern soll um ins Endspiel zu gehen, statt weiter zu
+verteidigen.} Bxh3 $2 {zeigt, warum Tad1 besser ist.} 26. Rxd8+ Bxd8 27. Qxb7 {Ist hervorragend für Weiß.}) (25. Qxb7 $4 Bd5 26. Qxc7 Qxg2#) 25... Bf5 26. Qxb7 {Damit hat Schwarz natürlich gerechnet} Qf4 27. g3 Qxf2 28. Rg1 (28. Qxc7 Rd2 {mit Matt}) 28... Bxg3 (28... Rd2 29.
+Rg2 {war die Idee}) 29. Rg2 Qe3 30. Rf1 Qe4 {Schwarz muss nicht, aber kann im Endspiel
+einfach gewinnen.} 31. Qb3 (31. Qxe4 Bxe4 {Mehrfigur}) 31...
+Rd2 32. Rfg1 Bxh3 *
+
+[Event "DEM U10"]
+[White "Mittelspiel"]
+[Black "Strategie und Plan"]
+[Result "*"]
+[WhiteElo "1550"]
+[BlackElo "1700"]
+[Annotator "SchachTutor"]
+[PlyCount "106"]
+
+1. e4 d5 {Ich hatte meinen damaligen Schüler mit Weiß auf diese Partie
+vorbereitet. Wir wussten, dass Schwarz diese Eröffnung spielt, und ich kannte
+eine Widerlegung seiner Variante auf GM-Niveau. Diese Varianten hatte ich
+meinem Schüler gezeigt.} 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nf3 Bf5 $16 {Diesen Zug hatte ich nicht gezeigt, weil er objektiv schwächer ist. Nun musste
+Weiß selbstständig spielen; das Ziel der Vorbereitung – ein objektiver Vorteil
+für Weiß – war jedoch erreicht.} ({Hauptzüge hier sind} 5... g6 6. Nc3 Bg7 7. Be3 O-O 8. h3 Nc6 9. Qd2 {mit
+langer Rochade an der Stelle}) ({und} 5... Bg4 {, aber die Widerlegung könnt
+ihr selbst aufsuchen, oder ab Teil 40 schauen.}) 6. Nc3 {Dieser
+Zug entspricht den Regeln} e6 7. Be3 {Dieser
+Zug war in der g6-Variante richtig, jedoch haben wir dort lang rochiert.} (7.
+Bd3 {Das wäre ein normaler Eröffnungszug} Bxd3 8. Qxd3 Be7 9. O-O O-O 10. Bf4
+Nc6 11. Rad1 Re8 12. Rfe1 {wäre ein Beispiel, wenn man meine Regeln befolgt.
+Zum Gewinn ist es noch weit, aber ohne Frage steht Weiß besser.}) 7... Be7 8. h3 $6 {Statt selbst zu überlegen oder den
+Regeln zu folgen, spielt Weiß blind die 5...g6-Variante.} h6 {[%cal Gg2g4,Gf1g2,Yf1e2,Ye1g1,Rf1d3,Gd1b3,Ye1c1] Wenn Weiß selbst nachdenken
+würde, so gibt es viele Ideen. Db3 mit 0-0-0 oder Ld3 mit 0-0, oder Le2 mit
+0-0. Jeder dieser Züge entspricht den Eröffnungsregeln. g4 nicht} 9. g4 $6 {Der Computer würde g4 nicht als Fehler ansehen, ich aber schon.
+Es gibt einen tief strategischen Grund, warum - beim richtigen Spiel - das gut
+sein kann. Weiß hatte das aber nicht im Sinn und dafür hat er bestehende
+Regeln gebrochen.} ({der Plan am Königsflügel anzugreifen ist sogar möglich
+und Weiß hätte diesen sogar befolgen können} 9. Qd2 O-O 10. O-O-O Nc6 11. g4
+Bh7 12. h4 $40) 9... Bh7 10. b3 $2 {Wieder ein
+Zug, der nicht die Regeln befolgt.} Nc6 {Schwarz spielt das
+folgende auch nicht perfekt, aber ich will nur die weißen Entscheidungen
+kommentieren.} 11. Qd2 {Wo bleibt die Rochade? Lang will Weiß
+hier gar nicht.} Ba3 {ist unnötig} (11... O-O 12. O-O-O $4 Ba3+
+{b3 hat alles kaputt gemacht.}) 12. Bg2 Nb4
+13. O-O Nc2 14. Rad1 Nxe3 15. Qxe3 (15. fxe3 $5 {[%cal Ge3d4,Yf1f8]
+gefällt mir mehr, da es Zentrum stärkt und Tf1 aktiviert}) 15... O-O 16. d5 $2 {Das ist ein entscheidender strategischer
+Fehler. Alles davon ist fortgeschrittener Natur, jedoch mit befolgen meiner
+Regeln wäre es nicht passiert. Experteneinschätzung: Weiß hat Raumvorteil,
+aktivere Figuren, die schwarzen Leichtfiguren machen gar nichts, also Schwarz
+einengen wäre der korrekte Plan. Anfängerversion: habt ihr einen Plan mit
+Weiß? Wenn nein, dann Figuren aktivieren. Soweit zum positionellen Spiel. Es
+gibt aber dazu die Taktik auch} (16. Rfe1 {und dann weiterüberlegen wären
+Basisregeln}) (16. Ne5 c6 17. d5 {selbst das wäre eine bessere Version der
+Partie} cxd5 18. cxd5 exd5 19. Nxd5 Nxd5 20. Rxd5 {Läufer g2 ist hier frei.}) (
+16. c5 $1 {Dies ist eine Variante, die nur ein Titelträger finden könnte, und
+auch nicht garantiert.} Nd5 (16... Nd7 17. Nb5 Bb4 18. a3 Ba5 19. b4 c6 {Schwarz kann hier noch etwas tricksen, sodass er nicht ganz eine Figur weniger
+hat, doch weiß steht dennoch viel besser.} 20. bxa5 (20. Nd6 Bc7 21. Nxb7 Qb8
+22. Na5 Bxa5 23. bxa5 Qb5 24. Ne5 Nxe5 25. dxe5 {dann Td6}) 20... cxb5 21. Ne5
+Nxe5 22. dxe5 Qxa5 23. Bxb7 Rab8 24. c6) 17. Nxd5 exd5 18. b4 $3 {Diesen Zug
+in Betracht zu ziehen und weiter anzuschauen bedarf sehr guter Technik oder
+Stellungsverständnis.} Bxb4 19. Qb3 Ba5 (19... a5 20. a3) 20. Qxb7 {Weiß
+positionellen großen Vorteil weil La5 kaum Felder zum Spielen hat. Für einen
+GM ist die weiße Stellung gewonnen.}) 16... exd5 17. Nxd5 Nxd5 18. Rxd5 Qf6 {Nun hat Weiß den schlechten Sb6 abgetauscht.} 19. g5 $2 {befolgt weder einen Plan, noch die Notfalloption. Stattdessen schwächt es
+sogar die eigene Bauernstruktur.} (19. Re1 {Schwarz kann nicht dasselbe machen.} Rad8 20. Rxd8 Rxd8 21. Qxa7) (19. Rfd1 Rfe8 20. Qd4 {Weiß hat aktive Figuren.}) 19... hxg5 20. Qxg5 Qxg5
+21. Nxg5 Rad8 {ich kommentiere weiterhin nur
+weiße Züge hier} 22. Rxd8 (22. Ra5 $1 {Weiß hat automatisch
+den Bauern gewonnen, aber es wäre gut wenigstens den Zug wahrzunehmen, und
+dann kann man vergleichen. Hier gewinnt Weiß 2 Bauern.} Bb4 (22... Bd6 23. Bxb7
+) 23. Rxa7 b6 24. Rxc7) 22... Rxd8 23. Nxh7
+Kxh7 24. Bxb7 Rd2 {Weiß kann
+den Bauern kaum decken. Er fand eine Möglichkeit} 25. Be4+ g6 26. Bb1 {Was aber dumm war, da Lb1 schlecht
+steht, a2 kaum zu halten ist, und Schwarz dominieren könnte. Alles davon kann
+ich aber Weiß nicht verübeln, weil das vertiefende Konzepte sind. Rest der
+Partie lasse ich da} Kh6 27. Kg2 Kg5 28. Kg3 Bd6+ 29. f4+ Kh5 30. Re1 g5 31. Kf3 Bxf4 32. Re8 Rd6 33. Rh8+ Rh6 34. Rxh6+ Kxh6 {Ungleichfarbige Läufer sind Remis, Weiß hat aber die
+Stellung hier verschätzt und daher verloren. Er wollte auf Sieg spielen, statt
+Remis zu nehmen.} 35. Ke4 (35. Kg4) (35. h4 {wären sichere
+Remiswege}) 35... Kh5 36. Kd5 Kh4 37. Bf5 Be3 38. Kc6
+Kg3 39. Kxc7 Kf4 40. Bg4 $4 (40. Bc8) 40... f5 41. Bxf5 (41. Bd1 Kg3) 41...
+Kxf5 42. b4 Kf4 43. c5 Kg3 44. a4 $6 (44. c6 Kxh3 45. Kb7 Bf4 46. Kxa7 (46. c7
+Bxc7 47. Kxc7 g4 48. Kb7 g3 49. Kxa7 g2 50. b5 g1=Q+ 51. b6 Qc5) 46... g4 47.
+b5 g3 48. b6 g2 49. c7 Bxc7 50. bxc7 g1=Q+) 44... Kxh3 45. c6 Bf4+ 46. Kd7 g4
+47. b5 g3 48. a5 g2 49. b6 g1=Q 50. c7 Qd4+ 51. Kc6 Qe4+ 52. Kd7 Qd5+ 53. Kc8
+Qxa5 *
+
+[Event "DEM U12"]
+[White "Aktive Züge"]
+[Black "gegen Planspiel"]
+[Result "*"]
+[WhiteElo "1750"]
+[BlackElo "2050"]
+[Annotator "SchachTutor"]
+[PlyCount "28"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. d3 (6. Be2 Nf6 7. O-O {so sieht z.B. die Hauptvariante aus}) 6... Nd7 7. Bd2 {Weiß hat mit d3 und Ld2
+eine Nebenvariante ausgepackt. Weiß spielt damit auf die lange Rochade.} Bc5 8.
+g4 $5 {erst jetzt muss Schwarz das erste mal nachdenken.} Qh4 {guter Zug,
+verhindert die lange Rochade} 9. Ne2 {macht insofern Sinn, als Weiß d3-d4
+spielen kann. Wie nun mit Schwarz fortsetzen?} (9. O-O-O Qxf2 $17) 9... dxe4 (
+9... Ne5 {Plötzlich gibt es eine Taktik, die beide Spieler übersehen haben.}
+10. Qf4 (10. Qg3 Qxg3 11. fxg3 (11. Nxg3 Nf3+ 12. Ke2 Nxd2 13. Kxd2 Bxf2) 11...
+Nf3+ 12. Kd1 dxe4 {gewinnt auch einen Bauern} 13. dxe4 $2 O-O-O {Figur gewonnen}) 10... Bxf2+ {das ist der eigentliche Einschlag. Schwarz hat Bauern gewonnen.} 11. Qxf2 $140 (11. Kd1 Ng6 12. Qc7 Qe7) 11... Nf3+) 10. dxe4 Qf6 (10... Ne5 {geht immer noch, aber Schwarz prüft keine aktiven Züge}) 11. Qxf6 Ngxf6 {hier
+hat Schwarz keinen Vorteil.} 12. Nc3 Ne5 13. Be2 O-O-O 14. f4 Ng6 {obwohl
+Schwarz später die Partie doch gewonnen hat, steht hier Weiß doch etwas besser.} *
+
+[Event "DEM U14w"]
+[White "Vorteilsverwertung"]
+[Black "Beispiel 1"]
+[Result "*"]
+[WhiteElo "1750"]
+[BlackElo "1750"]
+[Annotator "SchachTutor"]
+[PlyCount "61"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ $5 {Wenn man bereit ist, sehr viel Theorie zu lernen - oder zufällig vor
+der Partie die richtigen Analysen hat -, kann man gegen ein Gambit eine sehr
+präzise Antwort ausspielen.} (4... Nf6 {Interessanter Nebenvermerk. Schwarz
+spielt eigentlich diese Variante sonst.} 5. e5 d5 $1 6. Bb5 Ne4 {Was auch
+einfacher zu merken ist, insbesondere da dieses Gambit selten über dem
+Anfängerniveau gespielt wird. Da wir aber wussten, dass diese Variante aufs
+Brett kommen könnte, habe ich Schwarz mit meinen eigenen Analysen darauf
+vorbereitet.}) (4... Bc5 5. O-O Nf6 6. e5 d5 7. exf6 dxc4 8. fxg7 {Ist die
+andere übliche Option, auf die Weiß ebenfalls vorbereitet ist.}) 5. c3 dxc3 6. O-O Nf6 7.
+Nxc3 Bxc3 8. bxc3 d6 {Das war genau die Vorbereitung, und Schwarz hat einfach einen Bauern
+mehr. Der Computer findet für Weiß mit perfekten Zügen gerade noch
+ausreichende Kompensation. Nach fast allen natürlichen Fortsetzungen behält
+Schwarz jedoch den Mehrbauern. Nebenvermerk: Deswegen sollte man keine
+scheinbar einfachen Gambits spielen, wenn man im Schach weit kommen will.} 9.
+Re1 O-O 10. Bf4 Bg4 $1 {Schwarz befolgt hier eine meiner Regeln, die aus der
+Vorbereitung bekannt war: Mit einem Mehrbauern tauscht man ab.} 11. Qd3 (11. h3 Bxf3 12. Qxf3 Ne5 {ist dasselbe}) 11... Bxf3 $1 {Mit einem Mehrbauern ins Endspiel abwickeln - perfekt. Der Zug ist
+allerdings nur gut, weil anschließend Se5 möglich ist. Sonst sollte man den
+guten Läufer nicht ohne Weiteres gegen den Springer tauschen.} 12. Qxf3 Ne5 13. Bxe5 dxe5
+14. Rab1 b6 {Schwarz hat immer noch den
+Mehrbauern und Weiß hat kaum Gegenspiel.} 15. Qf5 Qe7 16. Rbd1 Rad8 {Schwarz hat bisher
+alles perfekt gemacht. Nicht einmal der Computer hätte es besser spielen
+können.} 17. Bd5 Nxd5 $6 {Dieser Zug ist nun
+doch ein Fehler, aber ein Fehler auf hohem Niveau. Die Erklärung für
+Fortgeschrittene: Der Ld5 ist ein schlechter, nutzloser Läufer. Daher muss
+Schwarz ihn nicht gegen den deutlich stärkeren Springer tauschen (Wert der
+Figuren ? 6.2). Präziser wäre es, einfach die eigene Stellung zu verbessern.
+Weiß kann mit diesem schlechten Läufer kaum etwas anfangen. Schwarz
+befürchtete hier f4 und wollte mit Sxd5 die Stellung vereinfachen und diese
+Komplikationen vermeiden. Die Sorge war nachvollziehbar, aber die konkrete
+Einschätzung von f4 war nicht richtig.} (17... Rd6 18. h3 {um zu zeigen, wie
+die Stellung ohne Läufertausch aussieht und warum sie besser ist.} (18. f4 Re8
+{ist gar kein Problem} (18... exf4 {muss man aber natürlich prüfen} 19. e5 Rxd5
+{jetzt ist e5 gefesselt?} 20. exf6 Rxf5 21. fxe7 Re8 22. Rd8 {Die Variante
+endet zu weißen Gunsten, daher ist schlagen nicht die einfache Lösung.})) 18...
+Rfd8 19. Bb3 Rxd1 20. Rxd1 Rxd1+ 21. Bxd1 Qd7 22. Qxd7 Nxd7 {Das ist die
+(fortgeschrittene) Regel aus Teil 10+ zu aktiven Figuren. Wenn Gegner einen
+schlechten Läufer hat, soll man alles bis auf den schlechten Läufer abtauschen
+und im Endspiel gewinnen. Das ist hier der Fall.} 23. f4 f6 24. Kf2 Kf7 25. Ke3
+Ke7 {Ist sehr simpler Gewinn für Schwarz, es dauert nur mehr Züge.}) ({weitere
+Züge, welche die Stellung verbessern, sind} 17... Rfe8 18. Rd3 Qc5 19. Rg3 Kf8
+{[%cal Rc7c6,Rd8d2]}) (17... Qc5 {[%cal Rc5c3] verhindert nebenbei f4} 18. Qxe5
+$4 (18. Rd3 $4 c6) 18... c6) 18. exd5 Rfe8 {Nur weil Schwarz ungenau gespielt hat, bedeutet es nicht, dass Weiß dem
+Ausgleich nahe ist. Schwarz hat weiterhin großen Vorteil.} 19. Qe4 Qc5 20. Rd3 c6 $5 {Schwarz öffnet Linien für die Türme. Einziger kleiner Schwachpunkt ist, es
+tauscht für das spätere Endspiel Bauern ab.} (20... Rd6 {mit Belagerung wäre
+der ruhigere Plan. c6 kann Schwarz auch später spielen.}) 21. Rh3 $2 {Gegenspiel ist allgemein gut, aber hier ist es nur Zeitverlust.} (21.
+dxc6 Rxd3 22. Qxd3 Qxc6 $17 {siehe Partieverlauf}) 21... h6
+22. dxc6 Rd6 23. Rd3 Rxd3 24. Qxd3 Qxc6 {Schwarz hat
+einen Bauern mehr für das Endspiel, muss lediglich aufpassen, dass Weiß nicht
+zu viele Bauern hier abtauscht.} 25. f3 f6 {deckt sicher e5, ist gut} 26. Kf2 Rc8 27. Re3 Qc4 {bietet Damentausch ab} 28. Qc2 {[%cal Gc8d8,Rb6b5,Rb5b4] Nun kam etwas Paradoxes: Schwarz fürchtete ein
+Dauerschach und willigte deshalb in die Zugwiederholung ein. Dabei sollte
+Schwarz hier unbedingt weiterspielen und die Stellung einfach verbessern.
+Betrachtet es auch von der anderen Seite: Schwarz steht nicht unter dem Druck,
+sofort gewinnen zu müssen. Weiß muss dagegen zeigen, wie die Stellung gehalten
+werden soll.} Qc5 (28... b5 29. a3 a5 30. Qg6 Rd8 {Ich sehe
+keine Drohungen für Weiß.}) 29. Qb3+ Qc4 30.
+Qc2 Qc5 31. Qb3+ *
+
+[Event "DEM U14w"]
+[White "Vorteilsverwertung"]
+[Black "Beispiel 2"]
+[Result "*"]
+[WhiteElo "1600"]
+[BlackElo "1750"]
+[Annotator "SchachTutor"]
+[PlyCount "118"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nbd2 $6 (7. Bd2 Bxd2+ 8. Nbxd2 d5 $1 9.
+exd5 Nxd5 10. O-O O-O {war die allgemeine Vorbereitung gegen dieses typische
+Gambit. Weiß hat den Isolani, weshalb es sich angenehmer für Schwarz spielt.})
+7... d5 $1 8. exd5 Nxd5 9.
+O-O O-O {Nun beginnt das Mittelspiel} 10. a3 Be7 {Es ist gut nicht zu tauschen. Läufer sind
+etwas besser in der Stellung, und Sd2 ist nicht gefährlich.} 11. h3 $2 {Macht nichts sinnvolles für Weiß. Zudem} Nb6 $1 {[%cal
+Rc6d4] verliert nun Weiß den schwachen Bauern.} 12. Qb3 (12.
+Nb3 {deckt den Bauern, verliert den Läufer.} Nxc4) 12... Nxd4
+13. Nxd4 Qxd4 14. Re1 Bc5 15. Qe3 Qxe3 16. fxe3 {ab nun geht es um Vorteilsverwertung. Schwarz geht gerne ins Endspiel.} Re8 {präziser als sofortiges Sxc4} 17. Kf2
+Nxc4 18. Nxc4 b6 {Schwarz hat
+das Läuferpaar, einen Bauern mehr und bessere Bauernstruktur.} 19. b4 Be7 20. Bb2 Ba6 21.
+Rac1 Rad8 (21... c5 $1 {würde mir hier sehr
+gefallen. Das tauscht zwar einen Bauern ab, aber c7 ist schwach und so hat
+Weiß keine Angriffspunkte mehr.}) 22. Be5 Bxc4 $5 {Schwarz findet einen Weg mehr abzutauschen.} (22... c5 {wäre immer noch gut}) 23. Rxc4 Bh4+ $1 24. Bg3
+(24. Rxh4 Rxe5) 24... Bxg3+ 25. Kxg3 Rc8 26. Kf3 (26. Rec1 Rxe3+) 26... c5 27. Rec1 Re5 {Es ist technisch schwer das
+zu gewinnen, aber immerhin spielt nur eindeutig Schwarz alleine auf Sieg.} 28.
+R1c3 f6 29. bxc5 Rcxc5 30. Rxc5 bxc5 31. Rb3 c4 32. Rb8+ Kf7
+33. Rc8 Ra5 34. Rxc4 Rxa3 {den Rest der Partie will ich nicht kommentieren und stattdessen
+auf Teil 20 verweisen, wo ich dies im Detail besprechen werde. Die einzige
+Sache ist bei Zug 46 interessant.} 35. Rd4 Ra1 36. Rd7+ Kg6 37. Kg4 a5 38. Ra7 a4 39. h4 h5+ 40. Kf4 a3 41.
+Ke4 a2 42. Ra6 Rh1 43. Rxa2 Rxh4+ 44. Kf3 Rh1 45. Rf2 h4 46. Rd2 h3 {Remis, wenn man Bauern tauscht} 47. g4 $2 (47. gxh3 {ist objektiv hier Remis, Weiß muss Bauern tauschen.
+Im Turmendspiel reicht oft ein Bauer alleine nicht aus.}) 47... h2 48. Kg2 Rg1+ 49. Kxh2
+Rxg4 {Auch hier wurde der Bauer getauscht, aber wegen dem
+kleinen Detail, dass der König abgeschnitten ist, ist die Stellung verloren.}
+50. Rg2 $4 {ins Bauernendspiel darf man aber nicht abtauschen,
+da ist es hoffnungslos.} Rxg2+ 51. Kxg2 Kf5 52. Kf3 Ke5 53. e4 f5 54. exf5 Kxf5 55.
+Kg3 Kg5 56. Kf2 Kf4 57. Kg2 Kg4 58. Kh1 Kg3 59. Kg1 g6 *

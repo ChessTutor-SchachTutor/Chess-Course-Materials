@@ -1,0 +1,319 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Poor Openings"]
+[Black "Example 1"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[PlyCount "13"]
+
+1. e4 e5 2. Nf3 {First, I want to show several very poor ways for Black to play and explain the thought process of a strong chess player.} Nf6 {The Petroff Defence. For now, there is nothing wrong with this move.} (2...
+Bc5 $2 {The move leaves e5 en prise... This is the first thing to check, and if there is no clear refutation, you play it.} 3. Nxe5 Qh4 {Black attacks f2 and e4. But White is already a pawn up, so returning it is not a problem.} (3... Qf6 {[%cal Rf6f2,Rf6e5,Yc5f2] leads to the same thing.}
+4. d4 $18) 4. d4 {Golden opening rules: the centre.} Qxe4+ 5. Be3 {Defends d4.}
+Bb6 6. Nc3 $16 {In the end, White has a huge lead in development and therefore an advantage.}) 3. Nxe5 Nc6 $6 {A bad gambit that nevertheless enjoys a certain popularity online.} (3... Nxe4 $2 4. Qe2 {Causes problems because of a discovered check.} Nf6 5. Nc6+ $18) (3... d6 4. Nf3 Nxe4 {But here Black has fully adequate play.}) 4. Nxc6 dxc6 {Black's biggest problem is not only White's extra pawn, but above all White's strong centre. White must now follow the golden opening rules.} 5. d3 {Since White cannot achieve d4, this is best. White retains complete flexibility and the pawn is safely defended.} (5. Nc3 {This is not a mistake in itself. However, Nc3 only makes sense if White intends to achieve d4. After ...Bc5 this will not be possible, so d3 is more precise because it leaves more options.} Bc5 6. d3 $2 (6. Be2
+{Prevents ...Ng4; its only drawback is that it returns the pawn.} Qd4
+7. O-O Nxe4 $11 {The position is equal, but White is not losing.}) (6. h3
+$1 {This move is tactically justified because it holds up concretely, but I would identify 5.Nc3 as the "mistake".} Qd4 7. Qf3) (6. Bc4 $2 {Develops the bishop to its best square, but this is very risky because Black has the initiative. It would be safer to remain passive until the king is secure; concretely, White also has a problem.} Bxf2+ {This is enough to "refute" Bc4.} (6... Ng4 {Is even better.} 7. O-O Qh4 $19) 7. Kxf2 Qd4+) 6... Ng4
+$17) (5. e5 {Should not be the first thought, although it is not a bad move. White has to weaken the centre slightly.} Nd5 6. d4 $1 {But at least White achieves d4 and keeps the pawn.}) 5... Bc5 6. Be3 $5 {When you are a pawn up, you should exchange pieces. This already refutes the gambit, even if objectively it is not the strongest move of all.} (6. Be2 {Is technically best, after which Black has problems.} h5 {Black's last trick.} (6... O-O 7. O-O $16 {[%cal Gc2c3,Yc1e3]}) 7. c3 $1 {[%cal Gd3d4] The centre always comes first.} Be6 8. d4 Bb6 9. Qc2 Qd7 10. Bg5 O-O-O 11. Nd2 {[%cal Ye1g1,Ye1c1] White has followed the opening rules and has a winning position. White can also castle queenside.}) 6... Bxe3 7. fxe3 $14 {You do not always have to play the absolute best move. Sometimes the simplest good solution is enough.} *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Poor Openings"]
+[Black "Example 2"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[PlyCount "14"]
+
+1. e4 e5 2. Qh5 {This move violates the golden opening rules: it neither occupies the centre nor develops a piece meaningfully.} Nc6 (2...
+Nf6 {Although this gives up a pawn and is of course not the best move, Black is not even worse here!} 3. Qxe5+ Be7 $44 {Black gets a great deal of time for the pawn.} 4. d3 d5 $1 5. exd5 O-O $15 {And suddenly Black is even better.}) 3. Bc4 {White has only one threat, nothing more.} g6 (3... Nf6 $4 {Check active moves.} 4. Qxf7#) 4. Qf3 Nf6
+5. Qb3 $2 {White commits everything to the attack, but has not developed a single piece and has moved only the queen several times.} (5. Ne2 Bg7 {[%cal Ge8g8,Yf7f5,Yg8h8] Bg7 is not ideally placed, but overall Black is better. Simply castle and switch to a kingside setup.}) 5... Nd4 {An active move that wins the game immediately.} 6. Bxf7+ (6. Qd3 d5 $1 {The centre is decisive.} 7. exd5 Bf5 {An active move, stronger than Nxd5.} 8. Qc3 Nxc2+ $19) (6. Qc3 Nxe4) (6. Qe3 Nxc2+) 6... Ke7
+7. Qc4 b5 $19 {White cannot keep Bf7 defended.} *
+
+[Event "Student Game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Development"]
+[Black "Piece Harmony in the Middlegame"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[PlyCount "10"]
+
+{The following game fragment comes from a game between players rated approximately 1700 and 1400.} 1. c4 e6 2. g3 d5 3. cxd5 $6 {White exchanges the c4-pawn for the e6-pawn. This is particularly unfavourable here: Bc8 can develop, while Bg2 stares into empty space.} (3. Bg2 {Is better. The pawn is not hanging.} dxc4 4. Qa4+
+{This line looks strange because it does not arise from a classical opening (1.d4 or 1.e4), so more complex strategies are required. This is also why I would not recommend that beginners immediately play such sidelines merely to trick their opponents.}) 3... exd5 4. Bg2 Nf6 5. d4 Nc6 $2 {In d4 openings, one should not normally play ...Nc6 and block the c-pawn. Concretely, ...Nc6 does nothing here either. d4 is well defended, b4 does not need defending, and the knight has no future.} (5... b6 {[%cal Gc7c5] This would be a bad plan, but still better than ...Nc6.}) (5... c5 {Would normally be standard, but here it would leave Black with an isolated pawn.}) (5... c6 6. Nf3 Bf5
+7. Bf4 Nbd7 8. Nc3 Be7 9. O-O O-O $15 {This would be a more harmonious setup and the best continuation. ...Bf5 is active, and Bg2 points towards d5.}) *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Opening Rules Violated"]
+[Black "Pawn Hunting"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[PlyCount "42"]
+
+{I played Black in this online game.} 1. e4 e5 2. Nf3 Nc6 3.
+Bb5 Nf6 4. Nc3 Bb4 5. Bxc6 dxc6 6. Nxe5 $6 {White should know that this does not win a pawn. In that case, Bxc6 followed by Nxe5 makes no sense at all.} Bxc3
+7. bxc3 (7. dxc3 Qxd1+ 8. Kxd1 Nxe4 {Is slightly better for Black.}) 7... Qe7
+$5 (7... Nxe4 8. Qe2 {Black considered this unpleasant.}) 8. d4 Nxe4 {[%cal Re4c3] White must now make an unpleasant decision. How should White defend c3? What do the opening rules say?} 9. Qd3 (9. c4 {The centre, but there is an unpleasant reply.} Qb4+) (9. O-O $3 {The opening rules say nothing about defending pawns, and that is in fact the best move here!} Nxc3 $140 10. Qf3 {[%cal Rc1a3,Rc2c4,Rf1e1] White gets a powerful attack for the pawn.} Nd5 11. Re1 O-O 12. Ba3 {With a material advantage.}) 9... Bf5 10. Qe3 $2 {Moving the same piece twice in the opening is wrong. The punishment comes immediately.} (10. O-O {There is no dangerous discovered attack here.} Nxf2 (10... Ng3 11. Qxg3) 11. Qxf5) 10... f6 11. Nc4 Nxc3 {Black is a pawn up.} 12. Qxe7+ Kxe7 13. Bb2 Nd5 14. O-O $2 {And White also loses the next pawn.} Bxc2 {Now Black only needs to exchange pieces and reach the endgame.} 15. Rfe1+ Kd7 16. Rac1 Bg6 17. Ne3 Rhe8 {Exchange of pieces.} 18. Nxd5 Rxe1+ 19. Rxe1 cxd5 20. Ba3 Re8 {Exchange of pieces.} 21. Rb1
+$2 Bxb1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Opening Rules Violated"]
+[Black "Development Neglected"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[PlyCount "39"]
+
+{I played White in this online game.} 1. e4 e5 2. Nf3 Nf6 3. d4
+{Black can play either ...Nxe4 or ...exd4 here, but must follow the opening rules.} exd4 (3... Nxe4 4. Bd3 d5 $11) 4. e5 Ng4 $6 {That is away from the centre.} (4... Ne4 5. Qxd4 d5 $1 6. exd6 Nxd6 $14) 5. Qxd4 Nh6
+$4 (5... d6 {Would still offer a chance to survive.}) 6. Bxh6 gxh6 7. Nc3 {Black has now violated the opening rules and stands very badly.} Nc6 8. Qe4 d6
+$2 {Too late.} 9. exd6+ Be6 10. Bb5 cxd6 11. Nd4 Be7 12. Nxc6 bxc6 13. Bxc6+ Kf8
+14. Bxa8 d5 15. Bxd5 Bxd5 16. Nxd5 Qa5+ 17. b4 Bxb4+ 18. Qxb4+ Qxb4+ 19. Nxb4
+Rg8 20. O-O *
+
+[Event "Cup Match"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Opening Rules Violated"]
+[Black "1.d4 Pawn Clamps"]
+[Result "*"]
+[WhiteElo "2300"]
+[BlackElo "1400"]
+[Annotator "ChessTutor"]
+[PlyCount "39"]
+
+{The following example comes from a classical cup match: a player rated about 1400 faced me when I was rated about 2300.} 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 dxc4
+5. Bg2 c6 {Black is saying that the c4-pawn must be kept at all costs. This is risky, although it can be done with caution; if the price becomes too high, Black should be prepared to return the pawn.} 6. a4 {The sole purpose of this move is to prevent b5.} Bb4+ (6... b5 $6 7. Ne5 {[%cal Rg2a8,Ga4b5]} Bb7 $4 8. axb5 cxb5 9. Bxb7) 7. Bd2 Qa5 $2 {This move violates the opening rules...} (7... c5 {How do you find this move? If you know the queenside setup, it is easy. The fact that Black has lost a tempo does not matter because White also played a4.}) (7... a5 {This would be "best", but Black would have to return the pawn.} 8. Qc2 O-O
+9. Qxc4) 8. O-O b5 {Black plays only for the pawn, but a pawn becomes relevant only in the endgame.} 9. Ne5 Bb7 10. Bxb4 Qxb4 11. axb5 {Since Black cannot play ...cxb5, the extra c4-pawn is already lost.} Qxb2 {Wins an unimportant pawn and gives White even more time.} 12. Na3 {[%cal Ya3c4]} Nd5 13.
+Naxc4 Qb4 (13... Qxb5 $2 14. Nd6+) 14. Rb1 Qe7 15. bxc6 {The sad outcome is that Black did not even keep the pawn, but lost so much time that the position collapses tactically. If only Black had still been able to castle...} Bxc6 (15... Nxc6 16. Rxb7 Qxb7 17. Nd6+) 16. Rxb8+ ({An alternative way to win.} 16. Nxc6 Nxc6 17. Qa4 Qd7 18. Bxd5 exd5 19. Nb6 $18) 16... Rxb8 17.
+Nxc6 Qc7 18. Nxb8 Qxc4 19. Bxd5 Qxd5 20. Qa4+ {Black resigned.} *
+
+[Event "Swiss ch U12"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Gambit"]
+[Black "Opening Preparation"]
+[Result "*"]
+[WhiteElo "1700"]
+[BlackElo "1550"]
+[Annotator "ChessTutor"]
+[PlyCount "41"]
+
+1. e4 e6 2. d4 d5 3. Bd3 {This is a sideline. I would not normally recommend it as a permanent choice, but the circumstances were suitable here. Its advantage is that it can be learned quickly.} (3. exd5 {My former student had played this before. Like many beginners, he did not yet have a fixed weapon against every variation. For the Swiss Championship, however, this was not enough to obtain an advantage against a 1500-rated opponent.}) 3... c5 {This move had been prepared.} (
+{We had also examined this.} 3... Nf6) (3... dxe4) 4. exd5 Qxd5 (4... exd5 {Although this creates a weak pawn, it would be clearly better than moving the queen repeatedly.}) 5.
+Nc3 $1 {Understandably, my former student initially had serious reservations about sacrificing the pawn. The computer evaluation of about +1.5 convinced him, however. We had prepared the most important attacking ideas, especially the setup with queenside castling.} Qxd4 {Black accepts the sacrifice. Otherwise, Black would stand worse without compensation.} 6. Nb5 Qd7 7. Bf4 Na6 {Forced.} 8. Qe2 {With queenside castling. That was the whole idea.} Ne7 $4 (8... Nf6 9.
+O-O-O {A great deal of active play for the pawn.}) 9. Nd6+ {Active moves.} Kd8 10. Nxf7+
+Ke8 11. Nxh8 {With an extra rook, the position is won.} g6 12. O-O-O Nc6 13.
+Bxg6+ {Tactics again.} Kd8 14. Nf7+ Ke8 15. Rxd7 Bxd7 16. Nd6+ Kd8 17. Bxh7
+Nd4 18. Qe5 Nc7 19. Nxb7+ Ke8 20. Bg6+ Ke7 21. Bg5# *
+
+[Event "Württemberg ch U10"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Playing by the Rules"]
+[Black "Building an Advantage"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[PlyCount "97"]
+
+{The following example is a game between players rated approximately 1200 and 1450.} 
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O a6 7. a4 Ba7 8. Re1 h6
+9. Nbd2 O-O 10. Nf1 Re8 {I had prepared my former student, who was playing Black, for this game. Up to this point, he follows our plan, while White also plays the opening very quickly.} 11. h3 Be6 12. Ba2 {From this point on, Black had to play independently. Please apply the middlegame rules from here.}
+Bxa2 13. Rxa2 d5 $1 {[%csl Gd5,Ge5] Black has achieved the basic strategy of e5 openings.} 14. Qc2 d4 (14... Qd7 {[%cal Ga8d8] This would be my move in the position: improve the pieces. Black is not better, but it is easier for Black to find good moves.}) 15. Ng3 Qd7 16. Nf5 Rad8 {Black has activated all the pieces, while White has carried out the knight plan.} 17. Rd1 $2 dxc3 {This is something I wanted to demonstrate here. Black did not win automatically, but placed all the pieces actively, and such lines then emerge. Black could not have foreseen this, but only needs to find it once it is on the board.} 18. bxc3 Nxe4 {Black has won pawns. From now on, Black tries to exchange pieces by placing them actively.}
+19. Ne3 Bxe3 20. Bxe3 Nf6 21. Raa1 Re6 {[%cal Ge6d6]} 22. Bc5 b6 23. Ba3 Qd5
+24. Nd2 $2 {White loses another pawn.} Qxd3 25. Qb2 Qe2 26. Qc2 Ne4
+$5 {Black finds a tactical way to exchange pieces.} (26... e4 {[%cal Ge4e3] White cannot escape the pin, however, so this would not be necessary.}) 27. Qxe4 Rxd2 28.
+Qxe2 Rxe2 29. Rd7 Rc2 30. Rxc7 Rxc3 {We now have an endgame with two extra pawns. Technically, the position is won.} 31. Bc1 Nd4 $5 {Another exchange.} 32. Rxc3 Ne2+ 33. Kf1 Nxc3 34. Be3 Rd6 35. f3 Kf8 $2 {Black makes only one mistake and overlooks a tactic.} 36. a5 $1 $132 {Now there are problems.} Nd5 (36... b5 37. Bc5 {This is the point.}) 37. Bf2 Rc6 {Here Black allows another tactical possibility, although it is difficult to spot.} 38. axb6 ({A deeper tactic in the position would be} 38. Rd1 $1 {which even produces an advantage.} Nc3 39. axb6 $3 Nxd1 40. b7) 38... Nxb6 39. Rxa6
+Rc1+ 40. Ke2 Nd5 $15 {Black is a pawn up, but objectively the position can be held because all the pawns are on one wing.} 41. Kd2 Nb4 $4 {Black pursues the sophisticated idea ...Rc2 and ...Nxa6, but overlooks an immediate tactic:} 42. Ra8+ Ke7 43. Bh4+ g5 44. Bxg5+ hxg5 45. Kxc1 {White now has a technically winning position and converted it.} Nd3+ 46. Kd2
+Nc5 47. Ke3 Kf6 48. Rc8 Ne6 49. Ke4 {Black resigned.} *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Playing by the Rules"]
+[Black "Opening Advantage into the Endgame"]
+[Result "*"]
+[Annotator "ChessTutor"]
+[PlyCount "34"]
+
+{The following online game shows how a correctly played game between strong players can develop. I played White.} 1. e4 c5 2. Nf3 d6 3.
+d4 cxd4 4. Nxd4 Nc6 5. Nc3 Nf6 6. Bg5 {Up to this point, it is theory: these are the most frequently played moves.} h6 $6 (6... e6 {Is the "correct" continuation, in case you are wondering where Black's "mistake" occurred.}) 7. Bxf6 gxf6 {Now our rules: first check active moves. There are none. Then apply the opening rules, which tell us to develop. The bishop is best placed on b5.} 8. Bb5 (8. Bc4
+e6 {Bc4 points at nothing here.}) 8... Bd7 9. O-O {White has followed the opening rules.} Qb6 {Active moves come first, and Nd5 is one of them.} 10. Nd5 $5 (10.
+Nf5 {The computer correctly says, for example, that this move is even stronger, but finding it requires positional understanding. Nd5 is only the second-best move, but it is easier to see.}) 10... Qxd4 11. Bxc6 {An intermediate move.} (11. Nc7+ Kd8 12.
+Nxa8 Qxd1 13. Rfxd1 Kc8 {Na8 is trapped.}) 11... Qxd1 (11... Bxc6 12. Qxd4)
+12. Bxd7+ Kxd7 13. Rfxd1 {White has not won material through this sequence, but the game has been simplified into an endgame. Black has lost the bishop pair and remains saddled with weak pawns.} Bg7 14. c3 {Next, White secures the position. This is called consolidation.} e6 15. Ne3
+Rac8 16. Rd3 Ke7 17. Rad1 Rhd8 $16 {[%cal Gg1f1,Gc3c4,Gb2b3,Gf1e2] White now has a long-term static advantage. Play proceeds very slowly, and White must demonstrate technique. Correct play will be covered in detail from Part 20 onwards, but useful rules here would include activating the king, placing pawns on light squares because Black has a dark-squared bishop, exchanging rooks if possible, and so on.} *
+
+[Event "Student Game"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Playing against Positional Pressure"]
+[Black "Weaknesses and Counterplay"]
+[Result "*"]
+[WhiteElo "1300"]
+[BlackElo "1300"]
+[Annotator "ChessTutor"]
+[PlyCount "90"]
+
+{The following game was played between two players rated approximately 1300. Black was played by my former student.} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5.
+d4 exd4 6. e5 {Up to this point, White plays the opening very quickly; the variation was probably prepared.} d5 $1 {An essential move; otherwise Black is losing.} 7. Bb5 Ne4 8. cxd4 Bb4+ (8... Bb6 {Theory says this is more precise, but that belongs more to opening theory. Objectively, ...Bb6 is not better, but in practice ...Bb6 is easier and more sensible.} 9. Be3 (9. Bxc6+ bxc6 {The doubled pawn is not a problem because of ...c5, and ...Ba6 is also threatened.}) 9... O-O 10. Nc3 Bg4 $132) 9. Bd2 Nxd2 10. Nbxd2 {The real game begins only now, because this is the first point at which both players must think independently.} (10. Bxc6+ {If White insists on giving Black doubled pawns, Black can save the position.} bxc6 11. Nbxd2 c5 $132 (11... Ba6 {[%cal Ra6f1] This is also an argument, although White's active moves must be considered here.} 12.
+Qa4 Bxd2+ 13. Nxd2 Bb5 $13 {[%cal Gb8b1] In return for the doubled pawn, White must play with an unsafe king.})) 10... Bg4 $6 {[%cal Rb5c6] This is still the opening, but I would already think in middlegame terms. ...Bg4 is an active move, but on the one hand it does not fit the position strategically. More importantly, when checking active moves...} (10... Bd7 {Avoids doubled pawns and is the simplest solution. There is even a discovered attack threatened.} 11. O-O $2 Nxe5 $1) (10... O-O {Preserves flexibility. For example, we can now play ...Ne7 or, after an exchange, ...Ba6.} 11.
+O-O (11. Bxc6 bxc6 12. O-O (12. Rc1 Ba6 $5 {Now White cannot castle at all.}
+) 12... c5 $132) 11... Ne7 $5 {The knight is badly placed on c6 anyway.} 12. a3
+Ba5 13. b4 Bb6 14. Rc1 c6 15. Bd3 Bg4 $11) 11. Bxc6+ bxc6 {Now c6 is extremely weak...} 12. Qa4 (12. Rc1 {This is no less a reason to call 10...Bg4 a mistake. Although correct play does not destroy Black's position, it does create certain problems.} Qd7 13. Qc2 {The c6-pawn is lost. The only point is that Black can sacrifice the pawn.} Bxf3 14. gxf3 O-O 15. Qxc6 $140
+Qh3 $13 16. Qxd5 (16. Qxc7 $4 Rac8) 16... Rad8 $44 {This variation is clear to me as an IM, but for a beginner, Rc1 should trigger a red warning light marked "problems".}) 12... Bxd2+ 13. Nxd2 Bd7 14. Qa3 {Black now has a bad bishop and weak pawns.} Qg5 $1 {[%cal Rg5g2] Black seeks counterplay. In general, that is good.} (14... Qe7 15. Qxe7+ Kxe7 16. Nb3 $16 {Would lead to a very bad endgame for Black. This is what White wants.}) 15.
+Nf3 (15. O-O $2 Qxd2) (15. Qg3 $1 {White should instead insist on exchanging queens and allow no counterplay.} Qh6 16. Nb3 O-O 17. O-O {Positionally, Black's position is a disaster.}) 15... Qg6 $4 (15... Qxg2 {Of course this does not win a pawn, but Black has to do something. In a slow game, Black loses without a fight.} 16. Rg1 Qh3 17. Rxg7 Bg4 {If Black creates problems for White, Black might even win outright...} 18. Nd2 ({And now it depends on whether White finds the move. From Black's perspective, it is nevertheless the best practical chance. You cannot predict whether such tactical blows will exist.} 18. Rxf7 $3 Kxf7 19. Ng5+ $18) 18... Qxa3
+19. bxa3 $132 {This is much easier to play than the game continuation.}) 16. O-O
+Bg4 17. Nd2 {Black has no counterplay and gradually loses the game.} Qe6 18. Rac1 Be2 19. Rfe1 Bb5 20. Qa5 Qd7 21. a4 Bd3 22. Re3 Bg6 23. Rec3 Rb8
+24. Rxc6 O-O 25. Rxc7 Qg4 26. Qxd5 Rxb2 {At last the counterplay arrives, but far too late.} 27. h3 Qe2 28. Rc8 $1 {A good move by White.} Rb8 (28... Rxd2
+29. Rxf8+ Kxf8 30. Qd8#) 29. Rxf8+ Rxf8 30. Nb3 Be4 31. Qd7 Qb2 32. Rc8 {More exchanges.} Qa3 33. Rxf8+ Qxf8 34. Nc5 {Activate the pieces. Prevents Qf8 from emerging.} Bc2 35. Qxa7 h6 36. a5 Qd8 37. Nd7 Ba4 38. Qb8 {The final exchange.}
+Qxb8 39. Nxb8 {Without queens, the position is hopeless.} Kf8 40. a6 Bb3 41. a7 Bd5 42.
+Nd7+ Ke7 43. Nb6 Bb7 44. a8=Q Bxa8 45. Nxa8 Kd7 *
+
+[Event "Swiss ch U12"]
+[White "Opening Strategy"]
+[Black "and Change of Strategy"]
+[Result "*"]
+[WhiteElo "1700"]
+[BlackElo "1500"]
+[Annotator "ChessTutor"]
+[PlyCount "144"]
+
+{My former student, rated approximately 1700, played the following game against a player rated around 1500.} 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. g3 {I had recommended this move to my former student for the game in order to surprise Black. Black responds well, however, and the move eventually becomes a problem for White.} Bc5 (4... d5 $1
+{Is the other good continuation.} 5. exd5 Nxd5 6. Bg2 Nxc3 7. bxc3 {Both sides have a centre.}) 5. Bg2 d6 6. O-O O-O 7.
+d3 {Black now has the active Bc5 against the very poor Bg2. White's idea, however, is to prepare f4 and adopt a kingside setup. That was the reason for playing Bg2.} Bg4 (7... a6 {If you know the theory—which I was certain Black would not know in this variation—you should play ...a6 to protect Bc5 against Na4.} 8. h3 Be6 9. Kh2 h6 10. Nh4 {This is roughly how the game continues. White's entire hope is that Black does not play ...d5; then White gains a strategic advantage after f4.} d5 $1 {But if Black knows and plays ...d5, White's idea with Bg2 has no value at all.}) 8. h3 Be6 9. Na4 Bb6 10. Nxb6 axb6 {White is now indeed better because the bishop is slightly stronger than the knight. To exploit this, however, White should choose the correct strategy: playing d4.} 11. Ng5 {White insists on f4 as the plan, but the knight is then no worse than the bishop, and play on the wing is also inferior to play in the centre.} (11. Re1 $1 Re8 (11... d5 {Does not work.} 12. exd5 Nxd5 13.
+Nxe5) 12. d4 $1 exd4 13. Nxd4 Nxd4 14. Qxd4 {White has achieved d4 and has a small advantage because of the bishop pair.} Rxa2 $2 15. Rxa2 Bxa2 16. b3 {[%csl Ra2] The bishop is trapped.}) 11... Qd7 12. f4 Qe7 {Black has simply lost time.} 13. f5 {White persists with the plan from move four. But bishops are not good in closed positions.} (13. Nxe6 {This is what I would have played here.} Qxe6 14. a3 {And now open the position and make use of the bishop pair.}) 13... Bd7 14. c4 $6 {This move is very poor, although I have to praise White. White saw that Black could play ...d5 and tried to prevent it prophylactically. The understanding is there, but c4 makes the position worse overall.} (14. g4 {Continuing with an attack would be better. At least ...d5 is not an immediate threat.}) 14... Nd4 {A weak square and an outpost for the knight.} 15. Be3 c5 $6 16. g4 (16. a4 $1 $16 {If we are already thinking prophylactically, this would be a grandmasterly move. Black can no longer break free because the only move, ...b5, has been taken out of the position. White can now play on the kingside without much thought.}) 16... h6 17. Bxd4 $2 {White now exchanges the good bishop. It is stronger than the Ng5 that White wanted to save.} cxd4 18. Nf3 b5 {Now Black's counterplay begins. It is much faster than White's play on the kingside.} 19. b3 $6 Bc6 $6 20.
+Nd2 $6 Nd7 21. Qf3 Qg5 {Now the end begins: instead of an attack, White merely has holes on the kingside. Bg2 has been bad since move four.} 22. cxb5 Qxd2 23. bxc6 bxc6 {This is now a model position illustrating a bad bishop. I will only add that White managed to hold the game with some luck, but from this position onward it was a one-sided endgame for Black. The remainder of the game follows without further comments.} 24. Rfd1 Qb4 25. h4 f6 26. Qe2 Nc5 27. Rdc1 Qb5 28. Rd1 Ra5 29. Qd2 Na6 30. a4 Qb4 31. Qxb4 Nxb4 32. Rac1 Rc8 33. Rc4 Na2 34. Ra1 Nc3 35. b4 Rxa4 36. Rxa4 Nxa4 37. b5 Nb6 38. Rxc6 Rxc6 39. bxc6 Kf7 40. Bf3 Ke7 41. Bd1 Kd8 42. Bb3 Kc7 43. Bd5 Nc8 44. Be6 Na7 45. Kg2 Nxc6 46. Kg3 Nb4 47. Bc4 Kc6 48. g5 h5 49. gxf6 gxf6 50. Kf3 Kc7 51. Ke2 Kd7 52. Bf7 Ke7 53. Bxh5 d5 54. Bf3 dxe4 55. dxe4 Kf8 56. Kd2 Kg7 57. Ke2 Kh6 58. Kd2 Kg7 59. Be2 Kh6 60. Kc1 Kg7 61. Kb2 Nc6 62. Kb3 Ne7 63. Kc4 Kf7 64. Kc5 Nc8 65. Kc6 Ne7+ 66. Kd6 Ng8 67. Kd7 Kf8 68. Ke6 Kg7 69. h5 Nh6 70. Ke7 Ng8+ 71. Ke8 Nh6 72. Bf3 Ng8 *
+
+[Event "GER ch U10"]
+[White "Small Mistakes"]
+[Black "Big Consequences"]
+[Result "*"]
+[WhiteElo "1550"]
+[BlackElo "1750"]
+[Annotator "ChessTutor"]
+[PlyCount "64"]
+
+{The game comes from the German U10 Championship. It shows how simple ideas can put even a future runner-up under pressure.} 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. h3 {This move does not follow the opening rules, but it is strong. Its idea is to deprive Bc8 of squares.} (5. c3 Bg4 {Otherwise it develops via g4 before Black plays ...e6.}) 5... Nc6 6. c3 e5 $5 {This was still part of Black's preparation. Black even knew this sideline. Black accepts an isolated d5-pawn in return for ensuring that Bc8 will not be bad.} 7. dxe5
+Nxe5 8. Nf3 Nxd3+ 9. Qxd3 Bd6 {Both sides played quickly up to this point, and only now does the real battle begin. We examine it using our rules.} 10. Bg5 {Develops the bishop and indirectly attacks d5. A good move.} O-O 11. O-O (11. Bxf6 Qxf6 12.
+Qxd5 Re8+ {Wins the pawn, but it is not worth taking.}) 11... Bc7 $5 {Black offers the d5-pawn. Should we take it?} 12. Nbd2 (
+12. Bxf6 Qxf6 13. Qxd5 Rd8 $44 {Could be unpleasant; among other things, ...Bxh3 is threatened.}) 12... h6 13. Bxf6 Qxf6 {Second opportunity: should White take the pawn now?} 14. Qxd5 (14. Nd4 {Although this is not a bad move, White is not forced to take the pawn. The knights are well placed and Black threatens nothing. The pawn keeps the position more closed and denies Black open files and diagonals for the pieces.} Re8 15. Rfe1 Bd7 16. N2f3 (16. Nf1 $5 {[%cal Gf1e3]})) 14...
+Rd8 15. Qe4 Be6 {Black has sacrificed the pawn and is playing actively. What should White do? Exchange pieces, yes—but without allowing Black to dictate the exchanges.} 16. Nd4 (16. Qxb7 {Is possible, but White decided against it. From a practical perspective, that is good: one extra pawn is enough, so the first priority is not to lose.}) (16.
+Rfe1 {Is also good: it activates a piece and, in addition...} Bd5 17. Qe7
+) 16... Bd5 17. Qg4 Qd6 18.
+N2f3 {So far everything is going very well for White: the pieces are active and the extra pawn has been retained.} a6 {Black prevents Nb5 by exchanging.} 19.
+Nf5 $2 {The threat is strong, but the move is good only if White wins something with it. Calculation shows that this is not the case. Therefore, the move must be evaluated positionally, and Nf5 is less secure and worse placed on f5 than on d4. In other words, Nf5 should be played only if it fits the plan. It does not.} ({Instead, if White has no plan, the emergency option is to activate the pieces. Now Nf5 really is a threat because it exchanges pieces.} 19. Rfe1 $14 {[%cal Yd4f5,Yf5e7]}) 19... Qf6 20. Rfe1 $2 {Rule violation number two: you must consider your opponent's active moves.} (20. N5d4 {Loses a tempo, but the static advantage—the extra pawn—remains. This would be the best decision. An important point in chess: you must evaluate the resulting position, not the moves themselves. Although Nf5 was a mistake, White is still doing well.})
+20... Be6 21. N3d4 {White thought for twenty minutes here, so Be6 was clearly overlooked rather than merely misjudged. White now has no other choice.} Rxd4 $1 22.
+Nxh6+ {At least White takes another pawn along the way.} (22. Rxe6
+$5 {This also has to be calculated. I cannot say whether White rejected the move or never considered it. Correctly calculating the variation in a classical game would, however, require a playing strength of at least 2000 Elo, in my estimation.} Rxg4 (22... Qxe6 23. Qxg7#) (22... fxe6 23. Nxd4) 23. Rxf6
+Re4 $1 {Strangely, White now has no squares for the rook. Spotting this "quiet" move and realising that Rf6 is trapped is very difficult. White is therefore forced to...} (23... Rf4 $2 24. Ne7+ Kf8 25. Rxf4 Bxf4 26. Nd5
+{An extra pawn in the endgame.}) 24. Nxh6+ (24. Nd6 Re2 25. Rxf7 (25. Nxf7 gxf6) 25...
+Bxd6) 24... gxh6 25. Rxh6 {Technically, White has three pawns for the bishop, so materially the position looks acceptable. The problem is that Black's rooks are more active in this endgame, giving Black a large advantage. Correctly assessing this—especially as a blindfold position, where moves cannot be checked quickly—is something that comes only with playing strength.} Re2 26. b3
+Rd8 {This is only an example; it is more about evaluating the position than the concrete variation.} 27. a4 Rd3 28. Rc1 Bf4) 22... Qxh6
+23. Qxd4 Rd8 24. Qe4 {Materially, the position would be almost acceptable if White could reach an endgame. Black deserves credit, however, for attacking instead of defending pawns.} Qg5 $1 {The exclamation mark does not mean that this is the best move, but that Black is following the correct strategy.} (24... b5 25.
+Rad1 {Gives White good saving chances. In a pure endgame, White could even play for a win.} Rxd1 26. Rxd1 Bxa2 {Black has won a pawn, but White has counterplay. For example:} 27. Qe7 $132 Bb6 28. Qd6 {And White exchanges queens.} a5
+29. Qxh6 gxh6 30. Rd7 $11 {White will successfully exchange pawns on the queenside.}) 25. Kh1 (25. Rad1 $5 {This is another point that only a strong player can assess correctly. The attack is so dangerous that White should prefer to sacrifice a pawn and reach an endgame rather than continue defending.} Bxh3 $2 {Shows why Rad1 is better.} 26. Rxd8+ Bxd8 27. Qxb7 {Is excellent for White.}) (25. Qxb7 $4 Bd5 26. Qxc7 Qxg2#) 25... Bf5 26. Qxb7 {Black had naturally calculated this.} Qf4 27. g3 Qxf2 28. Rg1 (28. Qxc7 Rd2 {With checkmate.}) 28... Bxg3 (28... Rd2 29.
+Rg2 {Was the idea.}) 29. Rg2 Qe3 30. Rf1 Qe4 {Black does not have to, but can simply win in the endgame.} 31. Qb3 (31. Qxe4 Bxe4 {An extra piece.}) 31...
+Rd2 32. Rfg1 Bxh3 *
+
+[Event "GER ch U10"]
+[White "Middlegame"]
+[Black "Strategy and Planning"]
+[Result "*"]
+[WhiteElo "1550"]
+[BlackElo "1700"]
+[Annotator "ChessTutor"]
+[PlyCount "106"]
+
+1. e4 d5 {I had prepared my former student, who was playing White, for this game. We knew that Black played this opening, and I knew a grandmaster-level refutation of the variation. I had shown these lines to my student.} 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nf3 Bf5 $16 {I had not shown this move because it is objectively weaker. White now had to play independently; nevertheless, the aim of the preparation—an objective advantage for White—had been achieved.} ({The main moves here are} 5... g6 6. Nc3 Bg7 7. Be3 O-O 8. h3 Nc6 9. Qd2 {With queenside castling at this point.}) ({And} 5... Bg4 {But you can look up the refutation yourselves, or watch from Part 40 onwards.}) 6. Nc3 {This move follows the rules.} e6 7. Be3 {This move was correct in the ...g6 variation, but there we castled queenside.} (7.
+Bd3 {This would be a normal opening move.} Bxd3 8. Qxd3 Be7 9. O-O O-O 10. Bf4
+Nc6 11. Rad1 Re8 12. Rfe1 {Would be an example of following my rules. The win is still a long way off, but White is unquestionably better.}) 7... Be7 8. h3 $6 {Instead of thinking independently or following the rules, White blindly plays the ...g6 variation from move five.} h6 {[%cal Gg2g4,Gf1g2,Yf1e2,Ye1g1,Rf1d3,Gd1b3,Ye1c1] If White thought independently, there would be many ideas: Qb3 with 0-0-0, Bd3 with 0-0, or Be2 with 0-0. Each of these moves follows the opening rules. g4 does not.} 9. g4 $6 {The computer would not regard g4 as a mistake, but I do. There is a deep strategic reason why it can be good with correct play. White did not have that reason in mind, however, and broke established rules to play it.} ({The plan of attacking on the kingside is even possible, and White could have followed it.} 9. Qd2 O-O 10. O-O-O Nc6 11. g4
+Bh7 12. h4 $40) 9... Bh7 10. b3 $2 {Again, a move that does not follow the rules.} Nc6 {Black does not play the following phase perfectly either, but I want to comment only on White's decisions.} 11. Qd2 {What happened to castling? White does not intend to castle queenside here at all.} Ba3 {Is unnecessary.} (11... O-O 12. O-O-O $4 Ba3+
+{b3 has ruined everything.}) 12. Bg2 Nb4
+13. O-O Nc2 14. Rad1 Nxe3 15. Qxe3 (15. fxe3 $5 {[%cal Ge3d4,Yf1f8] I prefer this because it strengthens the centre and activates Rf1.}) 15... O-O 16. d5 $2 {This is a decisive strategic mistake. All of the following is advanced, but it would not have happened if my rules had been followed. Expert assessment: White has more space and more active pieces, while Black's minor pieces do nothing, so restricting Black would be the correct plan. Beginner's version: do you have a plan for White? If not, activate the pieces. That covers the positional aspect. There is also a tactical point:} (16. Rfe1 {And then continuing to think would follow the basic rules.}) (16. Ne5 c6 17. d5 {Even this would be a better version of the game.} cxd5 18. cxd5 exd5 19. Nxd5 Nxd5 20. Rxd5 {The bishop on g2 is free here.}) (
+16. c5 $1 {This is a variation that only a titled player might find—and even then not certainly.} Nd5 (16... Nd7 17. Nb5 Bb4 18. a3 Ba5 19. b4 c6 {Black can still create some complications and avoid being a full piece down, but White remains much better.} 20. bxa5 (20. Nd6 Bc7 21. Nxb7 Qb8
+22. Na5 Bxa5 23. bxa5 Qb5 24. Ne5 Nxe5 25. dxe5 {Then Rd6.}) 20... cxb5 21. Ne5
+Nxe5 22. dxe5 Qxa5 23. Bxb7 Rab8 24. c6) 17. Nxd5 exd5 18. b4 $3 {Considering this move and examining it further requires very good technique or positional understanding.} Bxb4 19. Qb3 Ba5 (19... a5 20. a3) 20. Qxb7 {White has a large positional advantage because Ba5 has hardly any squares. For a grandmaster, White's position is winning.}) 16... exd5 17. Nxd5 Nxd5 18. Rxd5 Qf6 {White has now exchanged the poorly placed Nb6.} 19. g5 $2 {Follows neither a plan nor the emergency option. Instead, it even weakens White's own pawn structure.} (19. Re1 {Black cannot do the same.} Rad8 20. Rxd8 Rxd8 21. Qxa7) (19. Rfd1 Rfe8 20. Qd4 {White has active pieces.}) 19... hxg5 20. Qxg5 Qxg5
+21. Nxg5 Rad8 {I am still commenting only on White's moves here.} 22. Rxd8 (22. Ra5 $1 {White has won the pawn almost automatically, but it would still be good to notice the move and compare the options. Here White wins two pawns.} Bb4 (22... Bd6 23. Bxb7
+) 23. Rxa7 b6 24. Rxc7) 22... Rxd8 23. Nxh7
+Kxh7 24. Bxb7 Rd2 {White can hardly defend the pawn, but found a way.} 25. Be4+ g6 26. Bb1 {This was unwise, however, because Bb1 is badly placed, a2 is difficult to hold, and Black could dominate. I cannot blame White for any of this, because these are advanced concepts. I leave the rest of the game uncommented.} Kh6 27. Kg2 Kg5 28. Kg3 Bd6+ 29. f4+ Kh5 30. Re1 g5 31. Kf3 Bxf4 32. Re8 Rd6 33. Rh8+ Rh6 34. Rxh6+ Kxh6 {Opposite-coloured bishop endings are drawn, but White misjudged the position here and therefore lost. White tried to play for a win instead of accepting the draw.} 35. Ke4 (35. Kg4) (35. h4 {Would be safe ways to draw.}) 35... Kh5 36. Kd5 Kh4 37. Bf5 Be3 38. Kc6
+Kg3 39. Kxc7 Kf4 40. Bg4 $4 (40. Bc8) 40... f5 41. Bxf5 (41. Bd1 Kg3) 41...
+Kxf5 42. b4 Kf4 43. c5 Kg3 44. a4 $6 (44. c6 Kxh3 45. Kb7 Bf4 46. Kxa7 (46. c7
+Bxc7 47. Kxc7 g4 48. Kb7 g3 49. Kxa7 g2 50. b5 g1=Q+ 51. b6 Qc5) 46... g4 47.
+b5 g3 48. b6 g2 49. c7 Bxc7 50. bxc7 g1=Q+) 44... Kxh3 45. c6 Bf4+ 46. Kd7 g4
+47. b5 g3 48. a5 g2 49. b6 g1=Q 50. c7 Qd4+ 51. Kc6 Qe4+ 52. Kd7 Qd5+ 53. Kc8
+Qxa5 *
+
+[Event "GER ch U12"]
+[White "Active Moves"]
+[Black "versus Following a Plan"]
+[Result "*"]
+[WhiteElo "1750"]
+[BlackElo "2050"]
+[Annotator "ChessTutor"]
+[PlyCount "28"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. d3 (6. Be2 Nf6 7. O-O {This is what the main line looks like, for example.}) 6... Nd7 7. Bd2 {With d3 and Bd2, White has chosen a sideline and intends to castle queenside.} Bc5 8.
+g4 $5 {Only now does Black have to think for the first time.} Qh4 {A good move that prevents queenside castling.} 9. Ne2 {Makes sense insofar as White can play d3-d4. How should Black continue now?} (9. O-O-O Qxf2 $17) 9... dxe4 (
+9... Ne5 {Suddenly there is a tactic that both players overlooked.}
+10. Qf4 (10. Qg3 Qxg3 11. fxg3 (11. Nxg3 Nf3+ 12. Ke2 Nxd2 13. Kxd2 Bxf2) 11...
+Nf3+ 12. Kd1 dxe4 {Also wins a pawn.} 13. dxe4 $2 O-O-O {A piece has been won.}) 10... Bxf2+ {This is the actual tactical blow. Black has won pawns.} 11. Qxf2 $140 (11. Kd1 Ng6 12. Qc7 Qe7) 11... Nf3+) 10. dxe4 Qf6 (10... Ne5 {Is still possible, but Black does not check any active moves.}) 11. Qxf6 Ngxf6 {Here Black has no advantage.} 12. Nc3 Ne5 13. Be2 O-O-O 14. f4 Ng6 {Although Black later won the game, White is actually slightly better here.} *
+
+[Event "GER ch U14w"]
+[White "Converting an Advantage"]
+[Black "Example 1"]
+[Result "*"]
+[WhiteElo "1750"]
+[BlackElo "1750"]
+[Annotator "ChessTutor"]
+[PlyCount "61"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ $5 {If you are prepared to learn a great deal of theory—or happen to have the right analysis before the game—you can play a very precise response to a gambit.} (4... Nf6 {An interesting side note: Black normally plays this variation instead.} 5. e5 d5 $1 6. Bb5 Ne4 {It is also easier to remember, especially because this gambit is rarely played above beginner level. Since we knew that this variation might appear on the board, however, I prepared Black for it using my own analysis.}) (4... Bc5 5. O-O Nf6 6. e5 d5 7. exf6 dxc4 8. fxg7 {This is the other common option, for which White was also prepared.}) 5. c3 dxc3 6. O-O Nf6 7.
+Nxc3 Bxc3 8. bxc3 d6 {This was exactly the preparation, and Black is simply a pawn up. With perfect play, the computer still finds just enough compensation for White. After almost all natural continuations, however, Black keeps the extra pawn. Side note: this is why you should not play supposedly simple gambits if you want to progress far in chess.} 9.
+Re1 O-O 10. Bf4 Bg4 $1 {Black follows one of my rules here, which was familiar from the preparation: when you are a pawn up, exchange pieces.} 11. Qd3 (11. h3 Bxf3 12. Qxf3 Ne5 {Is the same.}) 11... Bxf3 $1 {Simplify into an endgame with an extra pawn—perfect. The move is good only because ...Ne5 is possible afterwards, however. Otherwise, the good bishop should not be exchanged for the knight without good reason.} 12. Qxf3 Ne5 13. Bxe5 dxe5
+14. Rab1 b6 {Black still has the extra pawn, and White has hardly any counterplay.} 15. Qf5 Qe7 16. Rbd1 Rad8 {Black has played everything perfectly so far. Not even the computer could have played it better.} 17. Bd5 Nxd5 $6 {This move is a mistake after all, but a mistake at a high level. The advanced explanation: Bd5 is a bad, useless bishop. Black therefore does not need to exchange it for the considerably stronger knight (Value of the Pieces → 6.2). It would be more precise simply to improve Black's position. White can do very little with this bad bishop. Black feared f4 here and wanted to simplify the position with ...Nxd5, avoiding those complications. The concern was understandable, but the concrete assessment of f4 was incorrect.} (17... Rd6 18. h3 {To show what the position looks like without exchanging the bishop and why it is better.} (18. f4 Re8
+{Is no problem at all.} (18... exf4 {Must of course be checked.} 19. e5 Rxd5
+{Now e5 is pinned?} 20. exf6 Rxf5 21. fxe7 Re8 22. Rd8 {The variation ends in White's favour, so capturing is not the simple solution.})) 18...
+Rfd8 19. Bb3 Rxd1 20. Rxd1 Rxd1+ 21. Bxd1 Qd7 22. Qxd7 Nxd7 {This is the advanced rule about active pieces from Part 10 onwards. If your opponent has a bad bishop, exchange everything except that bad bishop and win the endgame. That is the case here.} 23. f4 f6 24. Kf2 Kf7 25. Ke3
+Ke7 {This is a very simple win for Black; it merely takes more moves.}) ({Other moves that improve the position include} 17... Rfe8 18. Rd3 Qc5 19. Rg3 Kf8
+{[%cal Rc7c6,Rd8d2]}) (17... Qc5 {[%cal Rc5c3] Also prevents f4.} 18. Qxe5
+$4 (18. Rd3 $4 c6) 18... c6) 18. exd5 Rfe8 {The fact that Black played inaccurately does not mean that White is close to equality. Black still has a large advantage.} 19. Qe4 Qc5 20. Rd3 c6 $5 {Black opens files for the rooks. The only minor drawback is that it exchanges pawns for the later endgame.} (20... Rd6 {A siege with ...Rd6 would be the quieter plan. Black can still play ...c6 later.}) 21. Rh3 $2 {Counterplay is generally good, but here it merely loses time.} (21.
+dxc6 Rxd3 22. Qxd3 Qxc6 $17 {See the game continuation.}) 21... h6
+22. dxc6 Rd6 23. Rd3 Rxd3 24. Qxd3 Qxc6 {Black is a pawn up for the endgame and only has to ensure that White does not exchange too many pawns.} 25. f3 f6 {Safely defends e5; a good move.} 26. Kf2 Rc8 27. Re3 Qc4 {Offers a queen exchange.} 28. Qc2 {[%cal Gc8d8,Rb6b5,Rb5b4] Something paradoxical now happened: Black feared perpetual check and therefore agreed to a repetition. Black should absolutely continue here and simply improve the position. Consider it from the other side as well: Black is under no pressure to win immediately. White, by contrast, must demonstrate how the position can be held.} Qc5 (28... b5 29. a3 a5 30. Qg6 Rd8 {I see no threats for White.}) 29. Qb3+ Qc4 30.
+Qc2 Qc5 31. Qb3+ *
+
+[Event "GER ch U14w"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Converting an Advantage"]
+[Black "Example 2"]
+[Result "*"]
+[WhiteElo "1600"]
+[BlackElo "1750"]
+[Annotator "ChessTutor"]
+[PlyCount "118"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nbd2 $6 (7.
+Bd2 Bxd2+ 8. Nbxd2 d5 $1 9. exd5 Nxd5 10. O-O O-O {Was the general preparation against this typical gambit. White has an isolated pawn, which makes Black's position more pleasant to play.}) 7... d5 $1 8. exd5 Nxd5 9. O-O O-O {The middlegame now begins.} 10. a3 Be7 {It is good not to exchange. The bishops are slightly better in this position, and Nd2 is not dangerous.} 11. h3 $2 {Does nothing useful for White. In addition,} Nb6 $1 {[%cal Rc6d4] White now loses the weak pawn.} 12. Qb3 (12. Nb3 {Defends the pawn but loses the bishop.}
+Nxc4) 12... Nxd4 13. Nxd4 Qxd4 14. Re1 Bc5 15. Qe3 Qxe3 16. fxe3 {From this point on, the task is to convert the advantage. Black is happy to enter the endgame.} Re8 {More precise than taking on c4 immediately.} 17. Kf2 Nxc4 18. Nxc4 b6 {Black has the bishop pair, an extra pawn, and the better pawn structure.} 19. b4 Be7 20. Bb2 Ba6 21. Rac1 Rad8 (
+21... c5 $1 {I would very much like this move here. It does exchange a pawn, but c7 is weak, and afterwards White has no targets to attack.}) 22. Be5 Bxc4
+$5 {Black finds a way to exchange more pieces.} (22... c5 {Would still be good.}) 23. Rxc4 Bh4+ $1 24. Bg3 (24. Rxh4 Rxe5) 24... Bxg3+ 25. Kxg3 Rc8 26. Kf3 (
+26. Rec1 Rxe3+) 26... c5 27. Rec1 Re5 {It is technically difficult to win, but at least Black is clearly the only side playing for a win.} 28. R1c3 f6 29.
+bxc5 Rcxc5 30. Rxc5 bxc5 31. Rb3 c4 32. Rb8+ Kf7 33. Rc8 Ra5 34. Rxc4 Rxa3 {I do not want to comment on the remainder of the game and instead refer to Part 20, where I will discuss this in detail. Only one point on move 46 is interesting.} 35. Rd4 Ra1 36. Rd7+ Kg6 37. Kg4 a5 38. Ra7 a4 39. h4 h5+
+40. Kf4 a3 41. Ke4 a2 42. Ra6 Rh1 43. Rxa2 Rxh4+ 44. Kf3 Rh1 45. Rf2 h4 46. Rd2
+h3 {A draw if the pawns are exchanged.} 47. g4 $2 (47. gxh3 {Is objectively drawn here; White must exchange pawns. In a rook ending, one extra pawn is often not enough.}) 47... h2 48. Kg2 Rg1+ 49. Kxh2 Rxg4 {The pawn was exchanged here as well, but because of the small detail that the king is cut off, the position is lost.} 50. Rg2 $4 {But the exchange into a pawn ending must be avoided; that position is hopeless.} Rxg2+ 51. Kxg2 Kf5 52. Kf3 Ke5 53. e4 f5
+54. exf5 Kxf5 55. Kg3 Kg5 56. Kf2 Kf4 57. Kg2 Kg4 58. Kh1 Kg3 59. Kg1 g6 *

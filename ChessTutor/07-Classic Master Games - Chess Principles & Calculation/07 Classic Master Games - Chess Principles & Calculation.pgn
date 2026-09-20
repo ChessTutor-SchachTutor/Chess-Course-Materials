@@ -1,0 +1,561 @@
+[Event "Violation of Opening Principles"]
+[Site "?"]
+[Date "1620.??.??"]
+[Round "?"]
+[White "Greco, Gioachino"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "B00"]
+[Annotator "ChessTutor"]
+[PlyCount "15"]
+[EventDate "1620.??.??"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 f5 {[%cal Rb7g2,Yf5e4] Black certainly has an idea behind the move, but he has violated too many opening principles.} 4.
+exf5 $1 (4. Qh5+ {Recognizing the idea would already be good, even though it does not work here yet.} g6) (4. Nc3 Nf6 5. Qe2 fxe4 6. Nxe4 e6 {leads to a playable position for Black.}) 4... Bxg2 {White should of course have noticed that g2 is hanging; otherwise you should review "active moves" again.} 5. Qh5+ g6 6. fxg6 {After 4.exf5, you should have been able to calculate up to this position and assess that it looks strong.} Nf6 $2 (6... Bxh1 7.
+g7#) (6... Bg7 {is the correct continuation. White wins here as well, but considerable subtleties are required, so this will only be covered in opening theory from Part 40 onward.}) 7. gxh7+ $3 (7. g7+ Nxh5 8. gxh8=Q Bxh1 {This is winning, but only because White has restored material equality and will gain further material due to the attack. If Nh5 could be defended, for example, White would still have a long game ahead.} 9. Qxh7 $18 {[%cal
+Rh7h5,Rh7g6]}) 7... Nxh5 8. Bg6# 1-0
+
+[Event "Attack from the Opening"]
+[Site "?"]
+[Date "1620.??.??"]
+[Round "?"]
+[White "Greco, Gioachino"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C41"]
+[Annotator "ChessTutor"]
+[PlyCount "21"]
+
+1. e4 e5 2. Nf3 d6 $6 {Although this move is playable (with reservations), it violates the Golden Opening Principle of development. The bishop on f8 is deprived of its best square, c5.} 3. Bc4 Bg4 4. h3 Bxf3 $6 {This also only helps White develop.} 5. Qxf3 Nf6 {If you start with active moves, as you should, you find this.} 6. Qb3 $1 {[%cal Gc4f7,Rb3b7] Doppelangriff.} Nxe4 {Black at least wants to take a pawn.} 7. Bxf7+ (7. Qxb7 {This is also good, but weaker. Other moves, however, bring no benefit.}) 7... Kd7 (7... Ke7
+8. Qe6#) 8. Qxb7 {[%cal Yb7e4,Yb7a8] Another double attack.} (8. Qe6+ {If you find a forced win here, you can prefer this move to Qxb7.}
+Kc6 9. Qd5+ Kd7 10. Qxe4 $18 {An extra piece. If you see both options, you can, for example, count the material and then decide.}) (8. Be6+ $2 {It is a check, but has no continuation.} Ke7 9. d3 Nf6 {If White now takes on b7, only the bishop on e6 is unnecessarily exposed.}) 8... Ng5 (8... Nc6 {defends against both, but} 9. Bd5 $18 {
+[%cal Rd5e4,Rd5c6] erneut Doppelangriff.}) 9. Bd5 $1 {A four-point advantage is better than gaining a two-point advantage.} (9. Qxa8 Nxf7 {Here White has a rook and pawn for a knight. Good, but there is something better.}) 9... Na6 10. Qc6+ {A small subtlety: Black cannot play Be7.} Ke7 11. Qxa8 1-0
+
+[Event "Giving Up the Center"]
+[Site "?"]
+[Date "1620.??.??"]
+[Round "?"]
+[White "Greco, Gioachino"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C54"]
+[Annotator "ChessTutor"]
+[PlyCount "15"]
+[EventDate "1620.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 Bb6 $2 6. dxe5 Nxe4 {[%cal Re4f2,Rb6f2] Black attacks f2. What should White do?} 7. Qd5 $1 {Your own active moves come first. Black resigned here.} Nxf2 (7... Bxf2+ 8. Ke2 {White has lost the right to castle, but the king is not unsafe.}) 8. Qxf7#
+1-0
+
+[Event "Weakening the King"]
+[Site "?"]
+[Date "1620.??.??"]
+[Round "?"]
+[White "Greco, Gioachino"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C40"]
+[Annotator "ChessTutor"]
+[PlyCount "21"]
+
+1. e4 e5 2. Nf3 f6 $2 {violates the development principle. It also weakens the e8-h5 diagonal.} 3. Nxe5 $1 (3. d4 $16 {Just for reference: simply following the opening principles also gives White a large advantage.}) 3... fxe5 $2 (
+3... Qe7 4. Nf3 Qxe4+ 5. Be2 $16 {White has an enormous lead in development.}) 4.
+Qh5+ Ke7 (4... g6 5. Qxe5+ Qe7 6. Qxh8 Qxe4+ 7. Be2 (7. Kd1 $5 {Weakens the king somewhat, but keeps more material.} d5 {[%cal Rc8g4]} 8. f3 $18) 7... Qxg2
+8. Rf1 {White has a material advantage.}) 5. Qxe5+ Kf7 6. Bc4+ {Development with tempo, combined with an attack.} Kg6 7. Qf5+ (7. d4 {is strong, but less forcing.}
+) 7... Kh6 8. d4+ {Again development and attack with check.} g5 {How can White bring even more pieces into play?} 9. h4 $1 {With one move, h4 brings both the pawn and the rook on h1 into play.} Kg7 10. Qf7+ Kh6 11. hxg5# 1-0
+
+[Event "Weakening the King"]
+[Site "?"]
+[Date "1620.??.??"]
+[Round "?"]
+[White "Greco, Gioachino"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C37"]
+[Annotator "ChessTutor"]
+[PlyCount "17"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 (3. d4 $6 {follows the opening principles, but it allows} Qh4+ {after which White stands poorly.} 4. Ke2 {does not lose material, but then d4 has not paid off.} (4. g3 fxg3 5. Nf3 g2+ (5...
+Qxe4+ {gives a smaller advantage, but still enough to refute the line.} 6.
+Qe2 Qxe2+ 7. Bxe2 gxh2 8. Rxh2 {Three extra pawns in the endgame.}) 6. Nxh4 gxh1=Q {An extra rook.})) 3... g5 {Black spends time defending his pawn. It does not follow the opening principles, but it is a playable option.} (3...
+d5 $1 {is not better per se, but is easier for Black to play.} 4. exd5
+Nf6 $132 {Do not take with the queen!}) 4. Bc4 {develops a piece, attacks f7, and prepares kingside castling. Then attack before Black can consolidate.} f6 $2 {But this move is now unnecessary.} 5. Nxg5 $3 (5. Nd4 {[%cal Rd1h5] also threatens Qh5+, but Black can defend against it.} h5 ({or} 5... Ne7
+6. Qh5+ Ng6)) 5... fxg5 {otherwise Black has simply lost a pawn. In addition, Nf7 was also threatened.} 6. Qh5+ Ke7 7. Qxg5+ (7. Qf7+ Kd6 8. Qd5+ Ke7 9.
+Qe5#) 7... Ke8 8. Qh5+ {is the most precise continuation.} (8. Qe5+ $2 {is a weak option.} Qe7 9. Qxh8 Qxe4+ {Black gets some counterplay.} 10. Be2 Qxg2 11.
+Rf1 Qg7 12. Qxg7 Bxg7 13. Rxf4 $16 {White is an exchange up, but victory is still a long way off.}) (8. Bf7+ {Deflection and winning the queen.} Kxf7 9. Qxd8 $18)
+8... Ke7 9. Qe5# 1-0
+
+[Event "Mating Attack"]
+[Site "?"]
+[Date "1620.??.??"]
+[Round "?"]
+[White "Greco, Gioachino"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C01"]
+[Annotator "ChessTutor"]
+[PlyCount "25"]
+[EventDate "1620.??.??"]
+
+1. e4 e6 2. d4 Nf6 3. Bd3 Nc6 4. Nf3 Be7 5. h4 $5 {Black has forgotten to fight for the center. Greco therefore sets a trap, which Black falls into.} O-O 6. e5 Nd5 7. Bxh7+ $1 {This sacrifice is possible here thanks to h4.} Kxh7 8. Ng5+ Bxg5 9. hxg5+ Kg6 (9... Kg8 10. Qh5 f5 11. g6) 10. Qh5+ Kf5 {There are now many ways to deliver checkmate.} 11. Qh7+ g6 12. Qh3+ Ke4 13. Qd3# 1-0
+
+[Event "Massive Center"]
+[Site "?"]
+[Date "1620.??.??"]
+[Round "?"]
+[White "Greco, Gioachino"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C54"]
+[Annotator "ChessTutor"]
+[PlyCount "27"]
+[EventDate "1620.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb6 $6 {[%cal Yd4c5,Yd4e5,Ye4d5,Ye4f5] simply gives White the center.} (6... Bb4+ {is correct.}) 7. e5 $1 (7. Qb3 $6 {The attack is far too early.} O-O 8. Ng5 d5) (7. d5
+$1 {is also strong.} Nxe4 $5 (7... Ne7 8. e5 $1 {as in the game.}) 8. dxc6
+Nxf2 9. Qe2+ $18) (7. Nc3 d6 8. O-O Bg4 $14 {is not so bad for Black. Therefore White must act quickly.}) 7... Ng8 (7... d5 {is generally the better try. White can exceptionally win here as well, but it is harder to find.} 8. exf6 dxc4 9. d5 $1 {Black can play neither Ne7 nor Qe7+.} (9. fxg7 Rg8 10. O-O Nxd4 $11 {is okay for Black.}) 9... Nb4
+(9... Na5 10. fxg7 Rg8 11. O-O {The knight on a5 does not participate.}) (9... Nb8 10. fxg7 Rg8
+11. O-O Rxg7 12. Bh6 Rg6 13. Re1+ Be6 $5 14. Bf4 $18) 10. Qa4+) 8. d5 $1 {This is a perfect example of a center and what it is meant to achieve.} (8. Ng5 Nh6
+) (8. O-O d5) 8... Nce7 9. d6 $1 {Even more pressure. Even if d6 becomes weak, the bishop on c8 and rook on a8 cannot get out at all. Black's king also loses the right to castle.} (9.
+O-O d6 {Black gets some breathing room.} 10. e6 $2 {A sample variation from a student.} (10. Nc3 $16 {is still not good, but gives less of an advantage than d6.})
+10... fxe6 11. dxe6 Nf6 12. Re1 O-O 13. Nc3 d5 {Suddenly Black is better, and the center merely becomes weak.}) 9... Nc6 (9... Nf5 10. Qd3 {gives White more time.} g6 (10... Ngh6 11. Bg5) 11. Bg5) (9... cxd6 10. exd6 Ng6 11. Qd5 {similar to the game.} Qf6 12. O-O Nh6 13. Re1+ Kf8 14. Qe4 {with a back-rank mate.}) 10. Qd5
+$1 {If you can attack, it is better than waiting.} Nh6 11. Bxh6 Rf8 12.
+Bxg7 Nb4 13. Qd2 Rg8 14. Bf6 1-0
+
+[Event "Tactics in the Opening"]
+[Site "?"]
+[Date "1620.??.??"]
+[Round "?"]
+[White "Greco, Gioachino"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C41"]
+[Annotator "ChessTutor"]
+[PlyCount "27"]
+
+1. e4 e5 2. Nf3 d6 $6 {bricht Entwicklungsregeln} 3. Bc4 Bg4 4. h3 Bxf3 5. Qxf3
+Qf6 6. Qb3 $1 {greift schwachen Punkt b7 an} b6 7. Nc3 {[%cal Rc3d5]} c6 8. Nd5
+$1 Qd8 (8... cxd5 9. Bxd5 $18) 9. Nxb6 $1 Qxb6 (9... axb6 10. Bxf7+ Kd7 11.
+Bxg8 {ebenfalls 2 Mehrbauern}) 10. Bxf7+ Kd7 11. Bxg8 d5 12. exd5 Qxb3 13.
+dxc6+ (13. Be6+ {also works.}) (13. axb3 $4 Rxg8) 13... Nxc6 14. Bxb3 {Three extra pawns for White.} 1-0
+
+[Event "Premature Queen Play"]
+[Site "?"]
+[Date "1620.??.??"]
+[Round "?"]
+[White "Greco, Gioachino"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C40"]
+[Annotator "ChessTutor"]
+[PlyCount "15"]
+
+1. e4 e5 2. Nf3 Qf6 $2 {bricht Entwicklungsregel} 3. Bc4 Qg6 4. O-O Qxe4 $2 {still violates the development principle.} (4... d6 5. d4 $1) 5. Bxf7+ $1 {Black has not even won the pawn with this.} Ke7 (5... Kxf7 6. Ng5+) 6. Re1 Qf4
+7. Rxe5+ $1 {This was not necessary, but it is the most beautiful win. White must of course calculate the bishop sacrifice.} (7. Nxe5 $16) 7... Kd8 (7... Kxf7 8. d4
+Qf6 (8... Qg4 9. Ng5+ {[%cal Rd1g4] Black loses the queen.}) 9. Ng5+ Kg6
+10. Qd3+ Kh6 (10... Kh5 11. Nxh7+ $18) 11. Nf7#) 8. Re8# 1-0
+
+[Event "Mating Attack from the Opening"]
+[Site "?"]
+[Date "1620.??.??"]
+[Round "?"]
+[White "Greco, Gioachino"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C53"]
+[Annotator "ChessTutor"]
+[PlyCount "33"]
+[EventDate "1620.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 d6 $6 {This way Black does not even win the pawn in the gambit.} 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 Nf6 8. O-O Bxc3 {Black is too greedy.} 9. bxc3 Nxe4 10. Re1 d5 11. Rxe4+ dxe4 12. Ng5 O-O (12... Ne5 $5
+{would pose practical problems, but there is a solution here as well.} 13. Qh5
+g6 (13... Bg4 14. Bxf7+) 14. Qh6 Nxc4 15. Qg7 Rf8 16. Nxh7 {White is a full rook down and still stands better.} Qe7 (16... Qd6 17. Nf6+ Kd8 (17...
+Ke7 18. Nxe4) 18. Bg5) 17. Bg5 $1 f6 18. Qxg6+ Qf7 19. Nxf6+ Kd8 20. Nxe4+ Ke8
+21. Nf6+ Kd8 22. Nh7+ Ke8 23. Re1+) 13. Qh5 {[%cal Rc4f7,Yg5h7,Yg5f7,Gh5h7,
+Gh5f7]} h6 14. Nxf7 (14. Bxf7+ {also gives an advantage, but a smaller one.}) 14... Qf6 {Exercise: find the checkmate.} (14... Rxf7 15. Bxf7+ Kf8 (15... Kh8 16. Bxh6) (15... Kh7
+16. Bxh6 gxh6 17. Qg6+ Kh8 18. Qxh6#) 16. Ba3+ Ne7 17. Bb3 Qe8 18. Qd5) 15.
+Nxh6+ Kh8 16. Nf7+ Kg8 17. Qh8# 1-0
+
+[Event "Masterpiece I (x4)"]
+[Site "?"]
+[Date "1620.??.??"]
+[Round "?"]
+[White "Greco, Gioachino"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C53"]
+[Annotator "ChessTutor"]
+[PlyCount "33"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7 $6 {violates an opening principle, namely bringing the queen out too early.} 5. O-O (5. d4 $2 {dagegen war genau
+Qe7 gerichtet} exd4 6. cxd4 Qxe4+) 5... d6 6. d4 {Now the idea with Qe7 is useless.} Bb6 7. Bg5 (7. Ng5 $6 {already violates an opening principle: moving the same piece several times. You can do it if you win something by force, but that is not the case here.} Nh6 8. Qf3 O-O (8... exd4)) (7. Bb5 $6 {also moves the same piece a second time.} Bd7) (7. d5 $6 {is a typical mistake in this position. White does not gain more control over the center, but rather less. It also blocks the bishop on c4.}) (7. Qb3 $2 {is just as bad as Ng5.} exd4 (7... Nf6 8. Ng5 O-O {[%csl Yd4,Ye4]})) (7. Qa4 $6 {wins nothing, and Qa4 is poorly placed after} Bd7) (7. Re1 {is okay as a positional move.}) 7... f6 {Yes, the bishop has to move again, but f6 blocks the knight on g8!} (7... Nf6 {is a pin for White.}) 8. Bh4 (8. Be3 $6 {loses a pawn.} exd4 9. Nxd4 Qxe4 10. Re1 Nge7 {White has compensation, but it is not easy to play.}) (8. Qb3 $2 Na5) (8. Nxe5 $2 {The idea of Qh5 does not work either.} dxe5) 8... g5 9. Nxg5 $3 fxg5 10. Qh5+ {and we return to the initial position. Greco gave four games that reached this position.} Kd7 {Damit gab es 2 Partien} (10... Kd8 11. Bxg5 Nf6 12. Qh6 (
+12. Qh4 {also attacks f6, but is weaker than Qh6. The main difference is that the rook on f8 is not attacked.} Rf8) 12... Rf8 13. f4 $1 {[%csl Rd8,Gf1] Brings the rook into play. However, you absolutely have to calculate the variation.} (
+13. Bg8 {A bad trap; Black does not have to take on g8.}) (13. dxe5 Nxe5 {
+[%cal Re5c4]}) (13. d5 {is bad because it closes the position. That only helps Black.} Nb8 (13... Na5 14. Be2)) 13... exd4 (13... Bd7 14. fxe5
+dxe5 15. Rxf6 $1 $18 {[%cal Rg5d8] The bishop is stronger than the rook.} (15. Bxf6 Rxf6
+16. Rxf6 {is also winning.})) 14. e5 $1 {White now even sacrifices the entire rook.} (14. Kh1 {would otherwise be necessary to get out of check.}) 14...
+dxc3+ (14... dxe5 15. fxe5 Nxe5 16. Rxf6 $1 {[%csl Gg5][%cal Rg5d8]} (16. Bxf6
+$2 Rxf6 17. Rxf6 Nxc4 $19 {Black has a material advantage.}) (16. Qxf8+ Qxf8 17.
+Rxf6 Qe7 $19) 16... Rxf6 17. Bxf6) 15. Kh1 cxb2 {[%cal Rb2a1] Black gets a new queen, so the game is very close. White is faster, however.} 16.
+exf6 bxa1=Q $2 (16... Rxf6 {also loses, but is a better try.} 17.
+Bxf6 bxa1=Q 18. Bxa1 {is technically sufficient as well, because White has regained (almost) all the material while the attack remains.} (18. Qf8+ Kd7 19. Bxe7 Nxe7 20.
+Re1 {leads to checkmate.}) 18... Bd4 19. Bc3 $1 {threatens Re1 and develops at the same time.} Bxc3 20. Nxc3 $18) 17. fxe7+ Nxe7 18. Qxf8+ Kd7 {White can already simply take on e7 with a winning position, or} 19. Bb5+ $5 Nc6 20. Qe7# {1-0 (20) Greco,
+G-NN Europe 1620}) (10... Kf8 {begegnete Greco einmal} 11. f4 $3 {[%csl Gc4,Gf1,Gh4,Gh5] Another example showing that capturing is not automatic and should not be. White brings the rook on f1 into play.} (11. Bxg5 {was his continuation. He won the game, but was actually losing.} Qe8 (
+11... Qg7 $17 12. Bxg8 Kxg8) 12. Qf3+ $2 (12. Bh6+ $11) 12... Kg7 13. Bxg8 (13.
+Qg3 Qg6 $19) 13... Rxg8 $4 (13... Kxg8 $19 14. Bf6 exd4) (13... Qg6 $1 {as an intermediate move does not even allow Bf6 and still wins the piece.}) 14. Qf6# {
+1-0 (14) Greco,G-NN Europe 1620}) 11... exd4 (11... gxh4 12. fxe5+ Kg7 13. Rf7+
+Qxf7 14. Qxf7+ Kh6 {White has enough material and still has an attack as well.}
+15. Qf8+ Kh5 {[%cal Gc4e2,Gc4f7,Rc4g8,Rf8g7]} 16. Bf7+ (16. Qg7) (16. Bxg8)
+16... Kg4 17. Qg7+) (11... exf4 12. Rxf4+ gxf4 13. Bxe7+ $18 Ngxe7 (13... Kxe7
+14. Qf7+ Kd8 15. Qf8+ Kd7 16. Qg7+) 14. Qf7#) (11... Nf6 12. fxg5 {The knight on f6 is pinned.}) 12. fxg5+ Kg7 13. Rf7+ Qxf7 14. Qxf7#) 11. Bxg5 Qf8 {Winning here is quite difficult.} (11... Qg7 {One game continued as follows.} 12. Be6+ $3
+{is absurd under normal circumstances, but the rule of looking at active moves tells us to examine exactly this.} (12. Bf7 Nf6 $19 (12... Nge7 $2 {Small bonus question: how does White win here?} 13. Qg4+ Kd8 14. Bxe7+ Nxe7 15. Qxg7 $18)) 12... Kxe6 13. Qe8+ Nce7
+14. d5#) 12. Bf7 $1 {threatens mate in one. White must not hesitate for too long.} (12. Be2
+Nf6) (12. Rd1 Nf6) (12. Bxg8 Rxg8 13. Qxh7+ {White wins a third pawn, but Black then has the active pieces.} Qg7 14. Qxg7+ Rxg7 $19 {Now Black is better.}) (12. f4 exd4 {This is not an automatic win.}) (12. d5 $4 {would be the worst move because it now protects the black king.}) 12... Nce7 (12...
+Nge7 {As always, you have to look for active moves, and then you find} 13. Bh6 $1 (13.
+Bf6 exd4 $13 {Black gets enough material, so it is unclear.}) 13... Qd8
+(13... Qxf7 14. Qxf7) 14. Qg4+ {Black has to give up the piece because Qd8 takes away the king's retreat square.} Nf5 15. Qxf5+ Ke7 16. Bg5+ Kf8 {White still keeps the queen.} 17. Be6+ Kg7 18. Qf7# (18. Bxd8)) (12... d5 {gives the king the d6-square, but costs too much.} 13. exd5 Nce7 14. dxe5 $18) (12... Nd8
+{Exercise: find the win.} 13. Qh3+ Kc6 (13... Ne6 14. Bxe6+ Kc6 15. Bd5+ {is the same variation, only with one knight less.}) 14. Bd5+ {or d5+.} Kb5
+15. Qd3+ Ka5 16. b4+ Ka4 17. Bb3#) 13. dxe5 $1 {The idea is less about exchanging pawns and more about opening lines toward the king.} (13. Qg4+ {The check achieves nothing; it only helps Black.} Kd8 14. Bxg8 Bxg4) 13... h6 (13... dxe5 {Exercise: find the win.} 14. Rd1+ (14. Qd1+ $5 Kc6 15. Qa4+ {is not a bad idea either.}) 14... Kc6 15. Be8+ Kc5 16. Be3+ Kc4 17. Qe2# (17. Na3#) (17. b3#)) 14. Bh4 (
+14. e6+ {is also good as an intermediate move, but Black is not threatening dxe5.})
+14... Rh7 15. e6+ Kc6 (15... Kd8 16. e5 $5 {Keep opening the position.} ({or develop.} 16. Nd2 {Black cannot do anything.})) 16. Be8+ Qxe8 17. Qxe8+
+{1-0 (17) Greco,G-NN Europe 1620} 1-0
+
+[Event "Masterpiece II (x2)"]
+[Site "?"]
+[Date "1620.??.??"]
+[Round "?"]
+[White "Greco, Gioachino"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C33"]
+[Annotator "ChessTutor"]
+[PlyCount "37"]
+[EventDate "1620.??.??"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 {is a variation in which White allows the check on h4 in exchange for gaining more time for development.} Qh4+ 4. Kf1 Bc5 5. d4
+$1 {Do not defend with Qf3; active moves come first.} Bb6 6. Nf3 Qe7 7. Bxf4
+$5 (7. Nc3 {Morphy played this against his father; it appears later in this series.}) 7... Qxe4 8. Bxf7+ $1 Kf8 (8... Kxf7 9. Ng5+) 9. Bg3 {The pawn structure is symmetrical, but White has a large lead in development.} Nh6
+10. Nc3 Qe7 11. Bb3 c6 {Development is almost complete; now it is time to develop a plan. That plan should be an attack, so put the rooks on open files.} 12. Qd3 d5 13. Re1 {Greco also had this game twice in his lifetime.} Qf6 {was the second game. Many moves win here.} (13... Qf7 {was another game by Greco.} 14. Bd6+ Kg8 15. Re7 {All pieces enter the attack with tempo.} Qf6 (15... Qf8 16. Nxd5 $1 {opens the bishop.} cxd5 17. Bxd5+
+Nf7 18. Bxf7+ {is enough to win, but is not the only way.} Qxf7 19. Rxf7
+Kxf7 {If you cannot find a win now, then} 20. Kf2 {simply play soundly and simplify into the endgame. White has a material advantage.} Nc6 21. Re1) 16.
+Nxd5 Qxd6 17. Nf6+ Kf8 18. Re8# {1-0 Greco,G-NN Europe 1620}) 14. Bh4 (14. Nxd5
+$1 {Sacrificial possibilities usually arise when all the pieces are ideally placed.} cxd5 15. Bxd5 {[%cal Gd3a3] Black is helpless against Qa3+.}
+Nc6 16. Qa3+ Ne7 17. Bh4) (14. Bxd5 $1 cxd5 15. Nxd5 Qd8 16. Qa3+ {also wins.} Kg8 (16... Kf7 17. Ne5+) 17. Ne7+) 14... Qg6 (14... Bf5 {a good move, but too late.} 15. Qe3 Qf7 16. Nxd5 $1 {the simplest way.} cxd5 17. Bxd5 Qd7
+18. Qa3+) 15. Be7+ Kg8 16. Qxg6 hxg6 17. Nxd5 $1 cxd5 18. Bxd5+ Kh7 (18... Nf7
+19. Ng5) 19. Ng5# {1-0 (19) Greco,G-NN Europe 1620} 1-0
+
+[Event "Greco's Gambit (x2)"]
+[Site "?"]
+[Date "1620.??.??"]
+[Round "?"]
+[White "Greco, Gioachino"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C54"]
+[Annotator "ChessTutor"]
+[PlyCount "41"]
+[EventDate "1620.??.??"]
+
+1. e4 {[%cal Gd2d4]} e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+
+7. Nc3 {This is the Italian Gambit, associated with Greco himself.} Nxe4
+8. O-O {[%cal Rc3e4] White sacrifices the pawn.} (8. Qe2 $2 d5) 8... Nxc3 {The move is natural and leads to incredible variations.} (8... Bxc3 {Today we know that Black has to continue this way.} 9. d5 $1 $44 {with compensation, but no advantage.} (9. bxc3 $2 d5 {with an advantage for Black.} (9... Nxc3 $4 10. Qe1+
+))) 9. bxc3 Bxc3 10. Qb3 $3 {The double exclamation mark is not for the strength of the move, but for the courage to sacrifice the rook. I deliberately do not want to spoil the beauty of the game with computer analysis and subtleties; instead, we will look at the variations that were actually played.} (10. Ba3 {also defends the rook on a1, but White then has to explain how to continue after} d6 {continues.} (10... Bxa1
+$2 11. Re1+ Ne7 12. Bxe7 Qxe7 13. Rxe7+ Kxe7 14. Qxa1 $18)) (10. Bxf7+ {wins a pawn, but White is already two pawns down.} Kxf7 11. Qb3+ d5 12.
+Qxc3 Re8 $44) (10. Ng5 $2 d5) (10. Qe2+ Qe7) 10... Bxa1 (10... Bxd4 {was the second game. Here Black declines the rook, but in return keeps the bishop for the defense and is still three pawns up.} 11. Bxf7+ (11. Re1+
+Kf8 {White cannot avoid Bxf7, so White may as well start with it.}) 11...
+Kf8 12. Bg5 (12. Ba3+ d6 {The bishop is on the wrong diagonal.}) 12... Bf6 13.
+Rae1 {Since White is not a rook down here, Re8 is a real threat.} Ne7 (
+13... Bxg5 14. Nxg5 Qxg5 15. Re8#) 14. Bh5 Ng6 (14... g6 15. Bxf6) (14... d5 {would be the most sensible move; I suspect Greco would then have played like this.} 15. Rxe7 $1
+{not the only way.} Qxe7 (15... Kxe7 16. Re1+ Kf8 17. Qxd5 $3 Qxd5 18. Re8#
+) (15... Bxe7 16. Bxe7+ Qxe7 17. Re1 {White gains a material advantage and the attack remains.}) 16. Re1 Qxe1+ (16... Qd7 17. Re8+ {is already sufficient.}) 17. Nxe1 Bxg5
+18. Qxd5 {[%cal Rd5f7,Rd5g5]} g6 19. Qxg5 gxh5 20. Qf6+ Kg8 21. Nf3 {With correct play White wins; I do not want to explain it further here.})
+15. Ne5 $3 (15. Nh4 {is also good.}) 15... Nxe5 (15... d5 16. Bxg6 Bxg5 17. Nf7
+$18) (15... Bxg5 16. Qf7#) 16. Rxe5 g6 (16... Bxe5 17. Qf7#) (16... d5 17. Rxd5
+) 17. Bh6+ Bg7 18. Rf5+ $1 gxf5 19. Qf7# {1-0 (19) Greco, G-NN Europe 1620}) (
+10... Ba5 11. Bxf7+ Kf8 12. Bg5 (12. Ba3+ d6 {does not continue.}) 12... Ne7 13.
+Rae1 $1 ({or} 13. Bh5 {as in the game.} d5 14. Ne5 Be6 15. Qf3+ Kg8 16.
+Bf7+) 13... Bxe1 14. Rxe1 d6 15. Bxe7+ Qxe7 16. Rxe7 Kxe7 $18 {Material advantage for White.} 17. Bg8 $5 {[%cal Rb3f7]}) 11. Bxf7+ Kf8 12. Bg5 {[%eval 2122,0]} (
+12. Re1 d6 13. Re8+ {wins the queen, but White is already a rook down.} Qxe8 14. Bxe8 Kxe8 $17 {Advantage Black!}) (12. Ba3+ d6 {The bishop on a3 does not participate.}) 12... Ne7 13. Ne5 $5 {Greco ignores the bishop and plays for mate.} (13.
+Rxa1 {also wins, however.} d5 14. Re1 Kxf7 15. Rxe7+ {[%csl Gd8,Ye7,Yg5]} Qxe7
+(15... Kg6 16. Ne5+ Kxg5 17. Qg3+) 16. Bxe7 Kxe7 17. Qxd5 $16 {White still has an advantage because of the active pieces and the exposed king.}) (13. Re1 d5 14. Bxe7+
+Qxe7 15. Rxe7 Kxe7 16. Bxd5 {is also positionally winning because of piece activity.}) 13... Bxd4 {[%cal Gb3f3]} 14. Bg6 (14. Ng6+ hxg6 15. Bxg6 {Black can either take on g6 with the knight and have enough material, or even escape completely.} d5 (15... Nxg6 16. Bxd8 c6 $132) 16. Qf3+ (16. Re1 Bf6) 16... Bf5
+17. Bxf5 Bf6 {Black survives.}) (14. Qf3 {With perfect play White wins here as well, but finding it is not easy.} Bxe5 (14... d5 15. Be6+) 15.
+Bd5+ $1 {preventing Black from playing d5 is the "correct" winning method.} (
+15. Bc4+ Bf6 16. Bxf6 d5 $1 17. Bxe7+ Kxe7 18. Re1+ Be6 19. Bxd5 Qd6 {and unfortunately, simply exchanging on e6 does not lead to a win.} 20. Rxe6+ (20. Qb3 {Continuing to play for the attack would be correct, but it is impossible to assess this cleanly beforehand.}) 20... Qxe6 21. Bxe6 Kxe6 22. Qxb7 Rhd8 23. h3 Rac8 24.
+Qxa7 c5 $11 {White has to be satisfied with a draw.}) 15... Bf6 16. Bxf6 d6 17.
+Bxe7+ Kxe7 18. Qf7#) (14. Bh5 {is weaker than Bg6 because the f5-square is not covered.}) 14... d5 15. Qf3+ Bf5 (15... Nf5 16. Bxd8) (15... Kg8 16. Qf7#)
+16. Bxf5 (16. Bxe7+ $2 Kxe7 17. Qxf5 hxg6) 16... Bxe5 {Be6+ or Bg6+?} 17.
+Be6+ (17. Bg6+ $2 Bf6 18. Bxf6 hxg6 {White has no more than a draw here.}) 17...
+Bf6 18. Bxf6 Ke8 19. Bxg7 {Black resigned.} Qd6 20. Qf7+ Kd8 21. Bxh8 {An extra piece, and mate is still threatened.} 1-0
+
+[Event "Greco's Gambit II"]
+[Site "?"]
+[Date "1620.??.??"]
+[Round "?"]
+[White "Greco, Gioachino"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C54"]
+[Annotator "ChessTutor"]
+[PlyCount "37"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 Nxe4 8.
+O-O Bxc3 {This is the better way to handle the gambit.} 9. d5 $1 (9. bxc3 d5 $15)
+9... Ne5 10. bxc3 Nxc4 11. Qd4 Ncd6 {defends the extra piece, but now the attack begins.} (11... O-O 12. Qxe4 Nd6 {Black is only one pawn up, but the king is safe.}) 12. Qxg7 (12. Re1 O-O $1 13. Rxe4 Nxe4 14. Qxe4 d6 $17)
+12... Qf6 13. Qxf6 {White can even deliver mate without queens.} Nxf6 14. Re1+ Kd8
+$2 (14... Nfe4 $1 {It was not too late yet to defend the position.} 15.
+Nd2 f5 16. f3 O-O 17. fxe4 Nxe4 18. Nxe4 fxe4 19. Rxe4 d6 $11) (14... Kf8 $2
+15. Bh6+ Kg8 16. Re5 Nde4 (16... Nfe4 17. Re1 f6 (17... b6 18. R1xe4 Nxe4 19.
+Re8#) 18. Re7 b6 19. Nh4 Bb7 20. Rg7+ Kf8 21. Rxh7+ Kg8 22. Rg7+ Kf8 23. Ng6+
+Ke8 24. Nxh8) 17. Nd2 $3 (17. Re1 {also wins.} d6 18. R1xe4 Nxe4 (18... dxe5
+19. Rxe5 Bf5 20. Rxf5 Ne8 21. Rg5+ Ng7 22. Rxg7+ Kf8 23. Ne5 $18) 19. Re8#)
+17... d6 18. Nxe4 dxe5 19. Nxf6#) 15. Bg5 Nde8 16. Rxe8+ $1 {not because of Bxf6, but because of mate!} Kxe8 (16... Rxe8 17. Bxf6+ Re7 18. Re1 {White wins the rook and then has an extra piece.}) 17. Re1+ (17. Bxf6 Rg8 $14 {not good enough.}) 17... Kf8 (17... Ne4 18. Rxe4+ Kf8 19. Bh6+ Kg8 20. Re8#) 18. Bh6+ $1 (
+18. Bxf6 Rg8 $14) 18... Kg8 19. Re5 1-0
+
+[Event "Famous Nxf7 Gambit"]
+[Site "?"]
+[Date "1620.??.??"]
+[Round "?"]
+[White "Greco, Gioachino"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C57"]
+[Annotator "ChessTutor"]
+[PlyCount "33"]
+[EventDate "1620.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 {This is a risky continuation for Black because it allows the continuation} (3... Bc5 {is the more common move.}) 4. Ng5 $5 {With correct play Black does not lose, but must sacrifice at least one pawn.} d5 5. exd5 Nxd5 $2 (5... Na5 6. Bb5+ c6 7. dxc6 bxc6 $44 {This is what the correct way of playing looks like.}) 6. Nxf7 $1 {A completely sound sacrifice.} Kxf7 7. Qf3+ {If Black wants to keep the knight, the king has to remain in the center.} Ke6 (7... Kg8 $4 8. Bxd5+ Be6 9. Bxe6#) (7... Ke8 8. Bxd5 {An extra pawn for White.}) 8. Nc3 {develops a piece with tempo.} Nce7 $6 (8... Ncb4 {also covers d5, but additionally threatens Nxc2, giving Black some counterplay and breathing room.}) 9.
+O-O c6 {Black can now move the king back, if given the chance.} 10. Re1 (
+10. d4 $1 {would be even better.}) 10... Bd7 11. d4 Kd6 12. Rxe5 {White has two pawns and the king is not well protected.} (12. dxe5+ {is also good, but only if White continues actively.} Kc7 13. e6 $1 Be8 14. Rd1 {[%cal Rc3d5,Rc1f4] with Nxd5 or Bf4 next.}) 12... Ng6 (12... Nxc3 13. Bf4 $1 (13. Rxe7 $5 {also wins because of the threat Bf4+.} Bxe7 (13... Kxe7 14. Bg5+ Kd6 15.
+Qf4#) 14. Bf4#) 13... Kc7 14. Rxe7+ Kc8 15. Rf7 Nd5 16. Bxd5 cxd5 17. Qxd5 {Three extra pawns, and the attack continues.} Bc6 18. Qe6+ Bd7 19. Qc4+ Bc6 20. Rc7+
+Qxc7 21. Bxc7 Kxc7 22. d5) 13. Nxd5 {White does not have to move the rook away.} (13.
+Qg3 $1 {is also strong and beautiful. White immediately wins a piece.} Nxc3
+14. Re6#) 13... Nxe5 (13... cxd5 14. Rxd5+ Kc7 {Question/exercise: how does White win here?} 15. Qg3+ (15. Bb5 {plays for a pin, but you have to calculate the following.} Bd6 16. Rxd6 $1 Kxd6 17. Bf4+ (17. Qg3+ {also works.} Ke6 (17... Ke7
+18. Bg5+) 18. Bc4+ Kf5 (18... Kf6 19. Bg5+) 19. Qf3+) 17... Nxf4 (17... Ke6 18.
+Re1+ {with at least winning the queen after a discovered check.} Kf7 (18... Kf6 19. Be5+ Kg5
+20. Qe3+) 19. Bg5+) 18. Qxf4+ {Black is a rook up, but the king is completely alone.} Ke7 (18... Ke6 19. Re1+ Kd5 20. Qe5#) (18... Kd5 19. Qe5#) 19.
+Re1+ {[%cal Ye1e8,Yf4f8,Yf4d6]} Be6 20. Bc4 Qd6 21. Rxe6+ Qxe6 22. Bxe6 Kxe6
+23. Qe5+ Kf7 24. Qd5+ {White will have four extra pawns, so this is clearly winning.})
+15... Kb6 (15... Kc8 16. Bb5 {There is no Bd6 here at all.} (16. Rc5+ $2 Bxc5)
+16... Bxb5 17. Rxd8+ Kxd8 18. Bg5+ $18) 16. Bd2 {[%cal Rd2a5] threatening Ba5 is the simplest way to win.} (16. Rd6+ $2 Bxd6) (16. Bb5 {also wins here.})) 14.
+dxe5+ Kc5 (14... Ke6 15. Nc7+ Kxe5 (15... Ke7 16. Qf7#) 16. Qf4#) (14... Kxe5 {Almost everything wins here.} 15. Qf4+ Ke6 16. Nc7+ Ke7 17. Qe5+ Be6 18. Qxe6#) 15.
+Qa3+ {was Greco's choice.} (15. b4+ Kxc4 16. Qd3#) 15... Kxc4 16. Qd3+ Kc5
+17. b4# 1-0
+
+[Event "Calculation Required"]
+[Site "?"]
+[Date "1620.??.??"]
+[Round "?"]
+[White "Greco, Gioachino"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C29"]
+[Annotator "ChessTutor"]
+[PlyCount "21"]
+
+1. e4 e5 2. f4 Nf6 3. Nc3 exf4 4. d4 Bb4 5. Bd3 Qe7 6. Qe2 Nc6 {Exercise: calculate the move e4-e5.} 7. e5 $5 (7. Nf3 d6 (7... d5 $5 8. e5 Ne4 9. Bxe4 dxe4
+10. Qxe4 Bg4 $44 {gives Black good compensation, for example:} 11. O-O Bxf3 12. Rxf3
+Nxd4 $1 13. Qxd4 Bc5) 8. Bxf4 Bg4 $132) 7... Nxd4 $2 {falls into the trap.}
+(7... Nd5 {is stronger, but only if you recognize that Nxd4 loses.} 8. Bd2 {White is not worse, however; it is simply equal.} Nxc3 (8... Nxd4 $2 9.
+Nxd5 $18) 9. bxc3 Ba5 10. Nf3 $11) 8. exf6 {White is a piece up; both queens are attacked.} Nxe2 (8... Qxe2+ 9. Ngxe2 $18) 9. fxe7 Nxc3 {This was the position that had to be calculated.} (9... Kxe7 10. Ngxe2 $16 {Black does have three pawns for the piece, but White's lead in development gives White the advantage.})
+(9... Nxc1 10. Rxc1 Kxe7 11. Nge2 $16) 10. a3 $1 {The intermediate move wins for White.} (10. Bd2 Nd5 $19) 10... Ba5 11. Bd2 {White gets the piece back again and then wins.} 1-0
+
+[Event "Sound Chess"]
+[Site "?"]
+[Date "1847.??.??"]
+[Round "?"]
+[White "Morphy, Paul"]
+[Black "Morphy, Alonzo"]
+[Result "1-0"]
+[ECO "C33"]
+[Annotator "ChessTutor"]
+[PlyCount "43"]
+[EventDate "1847.??.??"]
+
+1. e4 {Morphy played this game against his father at the age of ten.}
+e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 {White loses a pawn and the right to castle, but has gained a lot of time for development.} Bc5 5. d4 $1 (5. Nf3 $4
+Qf2#) 5... Bb6 6. Nf3 (6. Nh3) (6. g3 fxg3) 6... Qe7 7. Nc3 {Morphy, who is regarded by chess players as the unofficial first world champion, adds an element of sound positional play to chess.} (7.
+Bxf4 Qxe4 8. Bxf7+ {was an earlier game by Greco.}) 7... Nf6 8. Qd3 $1 {follows the Golden Rules and develops the queen!} (8. Bxf4 {is certainly playable, but why give up the nice pawn on e4?} Nxe4 9. Nd5) (8. e5 $1 {is also strong, but was not played.}) (8. Ng5 $2 O-O (8... h6 9. Nxf7)) (
+8. Nd5 $2 {an active move, but it achieves nothing and only moves the same piece a second time.}
+Nxd5 9. Bxd5 c6 10. Bb3 Qxe4) 8... c6 $2 {prevents a later Nd5, but violates further opening principles.} 9. Bxf4 d5 $2 {drops a pawn.} 10. exd5 {[%cal Ra1e1] Now White also threatens Re1.} O-O 11. d6 $5 {Now the pawn on d6 participates in the game.} (11. Re1 {is of course also good.}) (11. dxc6 $2 Nxc6 {This only develops Black.}) 11... Qd8 12. Re1 {activates the rook on the open file.} Re8 (12... Nbd7 13. Re7 $1 {brings it even further into the attack.} Re8 $4
+14. Bxf7+) 13. Ng5 $1 {White attacks Black's weaknesses with all the pieces.} (
+13. Rxe8+ Qxe8 {rather helps Black. Why should White exchange?}) (13. Ne5 {[%cal Rc4f7] is weaker.} Be6) (13. Bxf7+ $5 {even works, but is not in Morphy's style.} Kxf7 14. Ng5+ Kf8 (14... Kg8 15. Qc4+ Kh8 {leads to a smothered mate.} (15... Nd5 16. Nxd5 $18) 16. Nf7+ Kg8 17. Nh6+ $5 {even better than Nxd8.} Kh8 18. Qg8+ Nxg8 19. Nf7#) 15. Qc4 Qd7 16. Re7 Rxe7 17. dxe7+
+Qxe7 18. Bd6 $3 $18 {White wins with this maneuver, but all of this would have to be seen when playing 13.Bxf7.} Qxd6 19. Qf7#) 13... Rxe1+ (13... Rf8 14. Re7 {does not improve matters.} (14. Nxf7 $5 Rxf7 15. Re7)) (13... Be6 {[%cal Rg5e6] does not work here; that is the advantage of Ng5 over Ne5.}) 14. Kxe1 Qe8+ 15. Kd2 $1 {An exclamation mark for what White actually wants to achieve. The idea is to bring the rook on h1 into play!} (15. Kf1 $6 {The king is safe, but the rook on h1 does not participate. After other moves Black can give checks.}) (15. Be5 {is also strong, but it is nicer to really bring all the pieces into play.}) 15... Be6
+16. Re1 {All of White's pieces participate.} Nbd7 {Final question: what is the best way to capture?} 17. Nxe6 (17. Bxe6 fxe6 18. Rxe6 Qh5 {Spiel geht weiter
+}) 17... fxe6 18. Rxe6 $1 {Attack on the queen and threat of a discovered check. Black resigned here.} (18. Bxe6+ {is only a check.} Kh8) 18... Qf7 (18... Qf8 19.
+Rxf6+) (18... Qh5 19. Re8# (19. Re5+) (19. Rxf6+)) 19. Re7 $1 (19. Re8+ {wins the queen, but why sacrifice the rook unnecessarily?} Rxe8 20. Bxf7+ Kxf7) (19.
+Rxf6 {wins the queen, but unnecessarily sacrifices an exchange. Of course it is still winning.} Nxf6 20. Bxf7+ Kxf7) 19... Nd5 (19... Qxc4 20. Qxc4+) 20.
+Rxf7 Kxf7 21. Nxd5 cxd5 22. Bxd5+ {and mate soon.} 1-0
+
+[Event "Seizing the Initiative"]
+[Site "?"]
+[Date "1855.??.??"]
+[Round "?"]
+[White "Meek, Alexander Beaufort"]
+[Black "Morphy, Paul"]
+[Result "0-1"]
+[ECO "C44"]
+[Annotator "ChessTutor"]
+[PlyCount "44"]
+[EventDate "1855.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 (3. Nc3 Nf6 4. Bc4 {This is not a game by Morphy, but another example for the presentation.} Nxe4 5. Bxf7+ $2 Kxf7 6. Nxe4 {Black now has an uncastled king, but the center and development are more important.} d5 7. Neg5+ Kg8 8. d3 (8. O-O e4 $19) 8... h6 9. Nh3 Bxh3 {Not necessary, but the simplest.} 10. gxh3 Qf6 {Black can now castle artificially and will then stand better.} 11. Be3 Bd6 12. Qe2 Kh7 13. O-O-O Rhf8 14.
+Ne1 d4 15. Bd2 Qxf2 $17) 3... exd4 4. Bc4 {Playing a gambit is perfectly acceptable according to chess principles.} Bc5 5. Ng5 $6 {Moving the same piece a second time is less so.} Nh6 $1 {develops a piece.} 6. Nxf7 Nxf7 7. Bxf7+ Kxf7 8. Qh5+ g6 9.
+Qxc5 {White has regained the material, but Black has a large lead in development.} d6 10. Qb5 (10. Qc4+ Be6) 10... Re8 11. Qb3+ $2 {moves the queen again.} (11. O-O {The pawn really is hanging.} Rxe4 12. Qd5+ Re6)
+(11. f3 $6 Qh4+ $1 12. g3 Rxe4+ $3 (12... Qh3 {Preventing castling is also enough for an advantage.}) 13. Kd1 (13. Kf2 Qf6) 13... Qf6 14. fxe4 Qf3+) (
+11. Nd2 d5 $1 $15) 11... d5 {not bad; Kg7 would also be okay here.} 12. f3
+{White should have given up the pawn and instead brought the king to safety.} Na5 {The second-best move. It makes sense, however, because it prepares dxe4.} (12... Qh4+ {would have been stronger and gives more attacking chances.} 13. g3 Qh3 {White cannot castle. The d5-pawn can be sacrificed in the process.} 14. Qxd5+ Be6 15. Qb5 Qg2
+16. Rf1 Qxc2 $19) 13. Qd3 {White also had other moves, but we want to think from Black's perspective after the move that was played.} dxe4 $1 14. fxe4 Qh4+ 15. g3 Rxe4+
+(15... Qxe4+ {would not be worse. It exchanges queens, but in return Black has an extra pawn and active pieces for the endgame.}) 16. Kf2 Qe7 17. Nd2 (17. Bg5
+$1 $13 {Both players miss this here. But it belongs to counterplay/active moves.} Qxg5 (17... Qe6 18. Nd2 Rg4 19. Rhe1 {Now White attacks.}) 18.
+Qxe4) 17... Re3 {An active move and an attack.} 18. Qb5 c6 {simply gives up the knight to deflect the queen.} 19. Qf1 (19. Qxa5 Re2+ 20. Kf3 (20. Kf1
+Bh3+ 21. Kg1 Qe3#) 20... Qe3#) 19... Bh3 $1 {deflects the queen from e2 once again.} 20.
+Qd1 (20. Qxh3 Re2+ 21. Kf3 (21. Kg1 Qe3+ 22. Kf1 Qf2#) (21. Kf1 Re1+ 22. Kg2
+Qe2#) 21... Qe3+ 22. Kg4 h5+ 23. Kh4 Qe7#) 20... Rf8 {brings the last piece into the attack.} 21. Nf3 Ke8 {White resigned here.} 22. Bxe3 (22. Qxd4 Rfxf3+ 23.
+Kg1 Rf1#) 22... Qxe3# 0-1
+
+[Event "Pins Everywhere"]
+[Site "?"]
+[Date "1857.??.??"]
+[Round "?"]
+[White "Morphy, Paul"]
+[Black "Meek, Alexander Beaufort"]
+[Result "1-0"]
+[ECO "A43"]
+[Annotator "ChessTutor"]
+[PlyCount "27"]
+[EventDate "1857.??.??"]
+
+1. e4 e6 2. d4 c5 $6 {What is correct now according to the Golden Opening Principles?}
+(2... d5 {is the only correct move.}) 3. d5 $1 {The pawn becomes weak, but the aim is to restrict Black's pieces so that White's own pieces are strong.} (3. Nf3 {is okay as a move, but it justifies Black's move c5.}
+cxd4 4. Nxd4 {Transposes to the Sicilian Defense.}) (3. Be3 $6 {is worse than Nf3.} cxd4 4. Bxd4 Nc6 {You want to keep the bishop, but then it would have to lose a tempo...}) (3. c3 d5 {is okay for Black.}) 3... e5 $2 {Black loses another tempo in the opening.} (3... exd5 4. exd5 d6 {would now be correct.}) 4. f4 $5 {not necessary, but strong.} ({Typical moves would be} 4. Nf3
+) ({or} 4. c4 {with a positional space advantage later.}) 4... d6 (4... exf4 5.
+Bxf4 {develops White's position.}) 5. Nf3 {develops while supporting the center.} (5. Bc4 $2 {is poor development because the bishop is staring at d5.}) 5... Bg4 6. fxe5 Bxf3 $2 {Contradicts the development principle. Black exchanges without reason and develops White's queen. Black could at least have waited until h3.} 7. Qxf3
+dxe5 8. Bb5+ {Entwicklung} Nd7 9. Nc3 {Entwicklung} Ngf6 10. Bg5 {Entwicklung}
+Be7 11. d6 $3 {An active move with a brilliant idea.} Bxd6 12. O-O-O {Black resigned here.} ({Other moves based on the same idea also win, for example:} 12. Bxf6
+Qxf6 13. Qxf6 gxf6 14. O-O-O Ke7 15. Bxd7 Kxd7 16. Nb5) (12. Bxd7+ Qxd7 13.
+Bxf6 gxf6 14. Qxf6 {is technically winning as well, but the material advantage is not yet as large.} Rg8 15. O-O-O Be7 $16) (12. Nd5 Qa5+ {spoils White's idea.} 13.
+Nc3 {although thanks to Rd1 it is still winning.}) 12... Be7 (12... Qe7 {There are two winning methods here.} 13. Nd5 {The knight on f6 is pinned.} (13. Bxd7+ Qxd7 (13... Kxd7
+14. Nb5 {The bishop on d6 is pinned.}) 14. Bxf6 gxf6 15. Qxf6) 13... Qe6 14. Bxf6 gxf6
+15. Nxf6+ {The knight on d7 is pinned as well.}) (12... a6 13. Bxd7+ Qxd7 (13... Kxd7 14.
+Rxd6+ $1 (14. Rd2 {also wins, but leads to the same thing.}) 14... Kxd6
+15. Rd1+ Kc7 16. Rxd8 Raxd8 17. Bxf6 gxf6 18. Nd5+) 14. Bxf6 gxf6 15. Qxf6 {
+Doppelangriff} Rg8 16. Rxd6) 13. Bxf6 Bxf6 14. Rxd7 1-0
+
+[Event "Legendary Game"]
+[Site "?"]
+[Date "1858.??.??"]
+[Round "?"]
+[White "Morphy, Paul"]
+[Black "Duke Karl II of Brunswick / Co"]
+[Result "1-0"]
+[ECO "C41"]
+[Annotator "ChessTutor"]
+[PlyCount "33"]
+[EventDate "1858.??.??"]
+
+1. e4 e5 2. Nf3 d6 $6 3. d4 Bg4 $2 4. dxe5 Bxf3 {forced, even though it develops White's position.} (4... dxe5 5. Qxd8+ Kxd8 6. Nxe5 {An extra pawn for White.}) 5. Qxf3 dxe5
+6. Bc4 Nf6 7. Qb3 {Double attack. Black now loses a pawn.} Qe7 (7...
+Nxe4 $4 8. Bxf7+ Kd7 9. Qe6#) 8. Nc3 $5 {White decides against taking the pawn on b7 and chooses the attack instead.} (8. Qxb7 {Black would have planned} Qb4+ {after which it would "only" be an endgame with an extra pawn.}) 8... c6 (8... Qb4 9. Bxf7+) 9. Bg5 {Black can do little.} b5 (9... Nbd7 10. Qxb7) (9... h6 10. Bxf6 gxf6 (
+10... Qxf6 $2 11. Qxb7) 11. O-O-O {and once again Black cannot make progress, for example:} Bg7
+12. Bxf7+ $1 Qxf7 13. Rd8+ Kxd8 14. Qxf7 $18) 10. Nxb5 $3 {more for beauty than for strength.} cxb5 11. Bxb5+ Nbd7 12. O-O-O {Now all of White's pieces join the attack.} Rd8 13. Rxd7 $1 Rxd7 14. Rd1 Qe6 {steps out of the pin and continues to defend d7.} (14... Qb4 15. Bxf6 gxf6 {White does not have to enter the endgame, although that would also be winning.} (15... Qxb3 16. Bxd7#) 16.
+Bxd7+ Kd8 (16... Ke7 17. Qxb4+) 17. Qxf7) 15. Bxd7+ Nxd7 (15... Qxd7 16. Qb8+ {White wins simply because of the material advantage.}) 16. Qb8+ $3 {again for beauty.} Nxb8 17. Rd8# 1-0
+
+[Event "Initiative for a Pawn"]
+[Site "?"]
+[Date "1849.??.??"]
+[Round "?"]
+[White "Morphy, Paul"]
+[Black "McConnell, James"]
+[Result "1-0"]
+[ECO "C40"]
+[Annotator "ChessTutor"]
+[PlyCount "45"]
+[EventDate "1849.??.??"]
+
+1. e4 e5 2. Nf3 Qf6 $2 {The queen was moved too early.} 3. Nc3 {already threatens Nd5, so Black has to spend time dealing with it.} c6 4. d4 $1 exd4 5. e5 $5 (5. Nxd4 {is not worse.} Bc5 6. Be3) 5... Qg6 6. Bd3 $5 {White simply wants to sacrifice.} (6.
+Qxd4 {would be my choice, even with a small trap.} Qxc2 7. Bd3 {The queen is trapped.}) 6... Qxg2 (6... Qh5 7. Ne2) 7. Rg1 Qh3 8. Rg3 Qh5 9. Rg5 Qh3 {White has an enormous lead in development for the pawn.} 10. Bf1 ({Another option would be} 10.
+Bf5 Qh6 11. Qxd4) (10. Nxd4 Qxh2 11. Qf3 {with queenside castling, Bc4, ...}) 10...
+Qe6 11. Nxd4 Qe7 12. Ne4 {[%cal Re4d6] weak square on d6.} (12. Nf5 $2 {drops a pawn.} Qxe5+ 13. Be3 g6) 12... h6 13. Nf5 $4 (13. Nd6+ Kd8
+14. Rf5 {would be good.}) 13... Qe6 $4 (13... Qxe5 {White surely saw this.}
+14. Nfd6+ {[%cal Rg5e5]} Bxd6 15. Rxe5+ Bxe5 16. Nd6+ $18) (13... Qb4+ {[%cal Rb4e4,Rb4e1] But both players missed this. With the intermediate check, Black wins immediately.} 14. Nc3 (14. Bd2 Qxe4+) 14... hxg5) 14. Nfd6+ (14. Rg4 $4 {Do not move the rook away; that loses material.} Qxf5) (14. Bc4 $2 {Good idea, but it does not work.} d5 $1 (14... Qxc4 $140 15. Nfd6+) 15. exd6 Qxe4+) 14... Bxd6
+15. Nxd6+ Kd8 16. Bc4 {Continue with active moves first.} Qe7 (16... Qh3 {Exercise: find White's win.} 17. Nxf7+ Kc7 18. Qd6+ Kb6 19. Be3+ Ka5 (19... Qxe3+ 20.
+fxe3 hxg5 21. Nxh8) 20. Qa3# (20. e6+ hxg5)) 17. Nxf7+ Kc7 18. Qd6+ $1 {not because of the queen trade, but because Black is actually getting checkmated.} Qxd6 (18... Kb6 19.
+Be3+ Ka5 {Exercise: find a winning continuation.} 20. b4+ Ka4 21. Bb3+ Kb5 (21... Ka3
+22. Bc1#) 22. a4+ Ka6 23. b5+ (23. Bc4+ b5 24. axb5+ Kb7 {is not mate, but wins a large amount of material.}) 23... Ka5 24. Bd2+ (24. Qc7+ b6 25. Bd2+ Qb4 {
+Damengewinn}) 24... Kb6 25. a5+ Kxb5 26. Qd3+ Kc5 27. Qc4#) 19. exd6+ Kb6 {Be careful for a moment: White's rook is still hanging.} 20. Be3+ (20. Nxh8 hxg5) 20... c5
+21. Bxc5+ Ka5 (21... Kc6 22. Nd8#) 22. Rg3 (22. b4+ {also leads to mate.} Ka4
+23. Bb3+ Ka3 (23... Kb5 24. a4+ Ka6 25. Bc4+ b5 26. axb5+ Kb7 27. Nd8#) 24. Rg4
+{with mate coming soon.}) (22. Rxg7 {alternatively wins Black's rook without losing White's own rook.}) 22... b5 23. Ra3# 1-0
+
+[Event "Sound Attack"]
+[Site "?"]
+[Date "1855.??.??"]
+[Round "?"]
+[White "Morphy, Paul"]
+[Black "Meek, Alexander Beaufort"]
+[Result "1-0"]
+[ECO "C38"]
+[Annotator "ChessTutor"]
+[PlyCount "35"]
+[EventDate "1855.??.??"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. h4 g4 $2 (5... h6 {Black is fine here.}) 6. Ng5 Nh6 7. d4 f6 {Black now wins the knight on g5, but the position is still bad.} 8. Bxf4 fxg5 9. Bxg5 Bf6 10. Qd2 $5 (10. Bxh6 {would be simpler.} Bxh4+ 11. Ke2 $18) 10... Bxg5 11. hxg5 Nf7 12. Bxf7+ Kxf7 {Now White gains even more time for the attack.} 13. Qf4+ Kg8 (13... Kg7 14. Qe5+ Kg8
+15. g6 $1 Nc6 {genauso bei d6} 16. Qd5+ Kg7 17. Qf7#) (13... Kg6 14. Rh6+) 14.
+O-O Qe7 15. Nc3 c6 16. Rae1 {White is a piece down, but four of Black's pieces are not participating.} d6 17. Nd5 $1 cxd5 18. exd5 1-0
+
+[Event "Positional Attack"]
+[Site "?"]
+[Date "1854.??.??"]
+[Round "?"]
+[White "Morphy, Paul"]
+[Black "Hart, I. T."]
+[Result "1-0"]
+[ECO "C44"]
+[Annotator "ChessTutor"]
+[PlyCount "45"]
+[EventDate "1854.??.??"]
+[EventRounds "1"]
+
+{In this game, Morphy faced a strong opponent and had to fight deep into the middlegame.} 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 d6 5. c3 $5 {
+Morphy will ein Gambit spielen.} (5. Nxd4 {This is how modern masters would continue.}) 5... dxc3 6. Qb3 $1 {stronger than merely recapturing the pawn.} (6. Ng5 $2 Nh6)
+(6. Qd5 $2 Be6) (6. e5 $2 dxe5 7. Bxf7+ Kxf7 8. Nxe5+ Ke8) (6. Nxc3 {Without a concrete plan, White is simply a pawn down.} Nf6 7. O-O Be7 8. Bf4 O-O) 6...
+Qe7 7. O-O (7. Ng5 {still achieves nothing.} Nh6) 7... b6 {This finally allows Black to develop the bishop on c8.} (7... cxb2 8. Bxb2 {gives White another developing tempo.}) 8. Nxc3 (8. Bd5 {Do not move a piece twice in the opening without a reason.} Bb7 9. Nxc3 O-O-O) (8. Bf4 cxb2 {White no longer gains a developing tempo.}) 8... Na5 $1 {Black plays strongly and exchanges the powerful bishop. Question: where should the queen move?} 9. Qb4 {Of all queen moves, this one does not lose White a tempo.} (9. Bg5 $2 Nxb3 (9... f6 {[%cal Rf6g5,Ra5b3]}) 10. Bxe7
+Nxa1) (9. Qa4+ Bd7 10. Nb5 $2 a6 (10... Qxe4 11. Re1) 11. Nxc7+ Kd8) (9. Qb5+
+Bd7) 9... Nxc4 (9... c5 {does force the queen to a4, but c5 is a weakening move.} 10. Qa4+ Bd7 11. Bb5 a6 (11... Bxb5 12. Nxb5 Qd7 (12... Kd8 13. Rd1
+Qd7 14. Bf4 a6) 13. Nc7+ Kd8 14. Qxd7+ Kxd7 15. Nxa8) 12. Bxd7+ Qxd7 13. Qc2
+$36) 10. Qxc4 Bb7 {We are now in the middlegame. White definitely has compensation for the pawn, but how should White continue?} 11. Re1 {Bring pieces into play.} (11. Ng5 $2 {again moves a piece twice without a reason.} h6
+) (11. Nd5 Bxd5 12. exd5 Qd7 {is still solid for Black.}) 11... O-O-O (
+11... Nf6 $2 {How should White continue here?} 12. Nd5 $1 {[%cal Rd5e7,Rd5c7]} (12. e5
+$2 {also looks strong, but Black can defend against it.} d5 $5 (
+12... Bxf3 13. gxf3 {[%cal Rc4c6]} (13. exf6 Qxe1+) 13... O-O-O) 13. exf6 Qxe1+
+14. Nxe1 dxc4) 12... Bxd5 13. exd5 $18 {[%cal Re1e7]}) (11... c6 12. Bg5 f6 13.
+Bf4 Qd7 14. Rad1 {White has enormous compensation for the pawn, but the game still continues.}) 12. Bf4 {brings another piece into play.} (12. Nb5 {threatens nothing.} Kb8) (12. Nd5 {Black does not have to take the knight here.} Qd7) 12...
+f6 {Black prevents e5, but once again hinders Black's own development.} 13. Rac1 {brings the last piece into play.} (13. Nd5 Qd7) (13. a4 $5 {would be another typical modern idea: bringing the rook into the attack.}) 13... Kb8 {Now that all pieces are in play, they gradually have to be moved toward the king.} 14.
+Nd5 {Black has to capture this knight.} Bxd5 15. exd5 $1 {activates the rook on e1 and controls the c6-square.} Qd7 16. Nd4 {Move the piece toward the king.} Ne7 17. Rxe7 $3 {Our knight on d4 is more important for the attack than the rook on e1.} (17. Ne6 Rc8 {Black can live with this. For example:} 18. Rc3 c6 19. dxc6 Rxc6 $11) (17. Nc6+ Nxc6 18. dxc6 (18. Qxc6
+Qxc6 19. Rxc6 {White has an endgame a pawn down. That is exactly what White does not want.}) 18... Qc8 {It will be difficult to win.}) (17. Qa6 {This should be the first idea, with threats of Nb5 or Nc6+, but Black is in time to defend.} Qc8) 17... Bxe7 18. Qa6 $1 {wichtiger
+Zugreihenfolge} (18. Nc6+ {[%cal Gb8c8,Gb8a8,Yb8b7]} Kb7 {Now Qa6 does not work.} (18... Ka8 19. Qa6)) 18... c5 {the only move.} (18... Qc8 19. Nc6+ Ka8 20.
+Qxa7# {This is the point of White's exchange sacrifice.}) 19. dxc6 {
+[%cal Rc6c7]} Qc8 (19... Qc7 20. Nb5) 20. c7+ Ka8 21. cxd8=Q Qxd8 {There are now two winning options.} 22. Nb5 (22. Nc6 Qd7 (22... Qc7 23. Nxe7 Qxc1+ {The rook is protected.} 24. Bxc1) 23. Nxe7 Qxe7 24. Rc8+ Rxc8 25. Qxc8#) 22... Qb8 23. Rc7 {Black resigned here.} 1-0
+
+[Event "Difficult Attack"]
+[Site "?"]
+[Date "1850.??.??"]
+[Round "?"]
+[White "Morphy, Paul"]
+[Black "Morphy, Ernest"]
+[Result "1-0"]
+[ECO "C52"]
+[Annotator "ChessTutor"]
+[PlyCount "49"]
+[EventDate "1850.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 {Evans Gambit} Bxb4 5. c3 Ba5 6. d4 exd4
+7. O-O Bxc3 $2 {This is too greedy.} 8. Nxc3 dxc3 {Black is three full pawns up, but has no development at all.} 9. Ba3 (9. Qb3 {would be the more precise move order.} Qf6 (9... Qe7 10. Ba3 d6 11. e5 $1 {opens the position.}
+Nxe5 $140 $2 12. Nxe5 Qxe5 13. Rfe1) (9... Nh6 {does not work here, unlike in the game.} 10. Bxh6) 10. e5 $1 Nxe5 11. Nxe5 Qxe5 12. Bxf7+) 9... d6
+10. Qb3 Nh6 11. Qxc3 Qf6 ({Black has been given the chance to save the game, but does not take it.} 11... O-O) 12. e5 $1 dxe5 (12... Nxe5 13. Nxe5 O-O $3 {would have saved Black.}) 13. Rfe1 {The game is now critical. White is three pawns down, so White has to deliver mate or may as well resign.} Bd7 {Black is clever and castles queenside.} 14. Rab1 O-O-O {Can the attack continue?}
+15. Ba6 $1 (15. Qb2 b6 {deswegen zuerst Ba6}) 15... Na5 {Black misjudges the variations.} (15... bxa6 16. Qb3 Bg4 17. Qb7+ Kd7 18. Rbd1+ Ke8 19.
+Rxd8+ Nxd8 20. Qxc7 Bxf3 21. Rxe5+ Ne6 22. Qc8+ Qd8 23. Rxe6+ {and wins.})
+16. Rec1 (16. Qxa5 $2 Qxa6 $19) 16... Bc6 17. Qxa5 bxa6 18. Qxa6+ Kd7 19. Rxc6
+$1 Qf5 (19... Qxc6 20. Nxe5+) 20. Rxc7+ $1 Ke8 21. Qc6+ Qd7 22. Rb8 $5 {unnecessarily plays for beauty.} (22. Rxd7 Rxd7 23. Rb8# {would be enough.}) 22... Qxc6 23.
+Re7+ Kf8 24. Rxd8+ Qe8 25. Rexe8# 1-0
+

@@ -21,7 +21,7 @@ Kontaktformular: [Nachricht senden](https://tally.so/r/ODWbVA)
 
 ### Umsatzsteuer-Identifikationsnummer
 
-Umsatzsteuer-Identifikationsnummer gemäß § 27a Umsatzsteuergesetz:  
+Wirtschafts-Identifikationsnummer gemäß § 139c Abgabenordnung:  
 **DE447273863**
 
 ### Verantwortlich für den Inhalt
@@ -76,7 +76,7 @@ Contact form: [Send a message](https://tally.so/r/ODWbVA)
 
 ### VAT Identification Number
 
-VAT identification number pursuant to Section 27a of the German VAT Act:  
+German economic identification number pursuant to Section 139c of the German Fiscal Code (Abgabenordnung):  
 **DE447273863**
 
 ### Responsible for Content

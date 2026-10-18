@@ -1,6 +1,6 @@
 # My Handbook of Strategy Games
 
-*The handbook is expected to be uploaded here at the end of October. Please bear with me a little longer.*
+*The handbook is currentyl in translation, and is expected to be here mid November 26. Please bear with me a little longer.*
 
 I developed and wrote this handbook in Germany, originally in German, and have also translated it into English to make it accessible to more people.
 

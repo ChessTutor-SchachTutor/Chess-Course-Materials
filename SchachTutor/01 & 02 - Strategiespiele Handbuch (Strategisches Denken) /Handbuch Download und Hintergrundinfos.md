@@ -2,7 +2,7 @@
 
 Über 20 Strategiespiele für Eltern, Lehrkräfte und Trainer – mit Spielregeln, Analysen, Aufgaben und didaktischen Hinweisen. Ohne besondere schachliche Vorkenntnisse einsetzbar.
 
-## Kostenlos herunterladen
+## Kostenlos herunterladen (Quelle Link: GitHub, meine Releases)
 
 - **[Handbuch herunterladen (PDF, ca. 26 MB)](https://github.com/ChessTutor-SchachTutor/Chess-Course-Materials/releases/download/v2026-11-22/Handbuch.Strategiespiele.pdf)**
 - **[Handbuch mit ausführlicher Kursdokumentation herunterladen (PDF, ca. 51 MB)](https://github.com/ChessTutor-SchachTutor/Chess-Course-Materials/releases/download/v2026-11-22/Handbuch.Strategiespiele.mit.Dokumentation.pdf)**
